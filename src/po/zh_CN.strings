@@ -1,0 +1,894 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint 0.9.11\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2013-10-26 17:43+0900\nPO-Revision-Date: 2008-10-14 12:34+0800\nLast-Translator: Ijeal <tomorrow1881@sohu.com>\nLanguage-Team: zh_CN <i18n-translation@lists.linux.net.cn>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: \n";
+
+/* nothing */
+"Black!" = "黑色！";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "深灰色";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "浅灰色";
+
+/* nothing */
+"White!" = "白色！";
+
+/* nothing */
+"Red!" = "红色！";
+
+/* nothing */
+"Orange!" = "橙色！";
+
+/* nothing */
+"Yellow!" = "黄色！";
+
+/* nothing */
+"Light green!" = "浅绿色";
+
+/* nothing */
+"Dark green!" = "灰色！";
+
+/* nothing */
+"Sky blue!" = "天蓝色";
+
+/* nothing */
+"Blue!" = "蓝色";
+
+/* nothing */
+"Lavender!" = "淡紫色";
+
+/* nothing */
+"Purple!" = "紫色！";
+
+/* nothing */
+"Pink!" = "粉红色！";
+
+/* nothing */
+"Brown!" = "棕色！";
+
+/* nothing */
+"Tan!" = "青色！";
+
+/* nothing */
+"Beige!" = "米色";
+
+/* nothing */
+"qx" = "";
+
+/* nothing */
+"QX" = "";
+
+/* nothing */
+"oO" = "";
+
+/* nothing */
+",.?!" = "";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "";
+
+/* nothing */
+"017" = "";
+
+/* nothing */
+"O0" = "";
+
+/* nothing */
+"1Il|" = "";
+
+/* nothing */
+"<1>spare-1a" = "";
+
+/* nothing */
+"<1>spare-1b" = "";
+
+/* nothing */
+"<9>spare-9a" = "";
+
+/* nothing */
+"<9>spare-9b" = "";
+
+/* nothing */
+"Great!" = "真不错！";
+
+/* nothing */
+"Cool!" = "真厉害！";
+
+/* nothing */
+"Keep it up!" = "继续呀！";
+
+/* nothing */
+"Good job!" = "干得好呀！";
+
+/* nothing */
+"English" = "英语";
+
+/* nothing */
+"Hiragana" = "";
+
+/* nothing */
+"Katakana" = "";
+
+/* nothing */
+"Hangul" = "";
+
+/* nothing */
+"Thai" = "";
+
+/* nothing */
+"ZH_TW" = "";
+
+/* nothing */
+"Square" = "正方形";
+
+/* nothing */
+"Rectangle" = "长方形";
+
+/* nothing */
+"Circle" = "圆形";
+
+/* nothing */
+"Ellipse" = "椭圆";
+
+/* nothing */
+"Triangle" = "三角形";
+
+/* nothing */
+"Pentagon" = "五角形";
+
+/* nothing */
+"Rhombus" = "菱形";
+
+/* nothing */
+"Octagon" = "五角形";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "长方形有四个边。";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "长方形有四个边。";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "圆上各点到圆心距离相等";
+
+/* nothing */
+"An ellipse is a stretched circle." = "椭圆是一个被伸展的圆";
+
+/* nothing */
+"A triangle has three sides." = "三角形有三个边。";
+
+/* nothing */
+"A pentagon has five sides." = "五角形有五个边。";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "菱形有四条相同长度的边，并且对边相互平行";
+
+/* nothing */
+"An octagon has eight equal sides." = "五角形有五个边。";
+
+/* nothing */
+"Tools" = "工具";
+
+/* nothing */
+"Colors" = "颜色";
+
+/* nothing */
+"Brushes" = "画笔";
+
+/* nothing */
+"Erasers" = "橡皮擦";
+
+/* nothing */
+"Stamps" = "图章";
+
+/* nothing */
+"Shapes" = "形状";
+
+/* nothing */
+"Letters" = "字母";
+
+/* nothing */
+"Magic" = "特效";
+
+/* nothing */
+"Paint" = "绘图";
+
+/* nothing */
+"Stamp" = "图章";
+
+/* nothing */
+"Lines" = "线条";
+
+/* nothing */
+"Text" = "文字";
+
+/* nothing */
+"Label" = "文本";
+
+/* nothing */
+"Undo" = "取消";
+
+/* nothing */
+"Redo" = "重复";
+
+/* nothing */
+"Eraser" = "橡皮擦";
+
+/* nothing */
+"New" = "新建";
+
+/* nothing */
+"Open" = "打开";
+
+/* nothing */
+"Save" = "保存";
+
+/* nothing */
+"Print" = "打印";
+
+/* nothing */
+"Quit" = "退出";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "选择一个颜色和一个形状的画笔。";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "选择印在画周围的图片。";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "点击开始画线。我们来完成它吧。";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "选择一个形状。单击选中中心然后拖动，当大小是你所需要的时候就放开。光标移动就可以旋转它，单击就绘制完成。";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "选择文字的样式。在绘制的图片上单击就可以开始输入文字。";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "选择文字的样式。在绘制的图片上单击就可以开始输入文字。";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "选择一个可以用在你的图片上的魔术效果吧！";
+
+/* nothing */
+"Undo!" = "取消！";
+
+/* nothing */
+"Redo!" = "重复！";
+
+/* nothing */
+"Eraser!" = "橡皮擦！";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "选择印在画周围的图片。";
+
+/* nothing */
+"Open…" = "打开...";
+
+/* nothing */
+"Your image has been saved!" = "你的图片被保存了！";
+
+/* nothing */
+"Printing…" = "正在打印哦...";
+
+/* nothing */
+"Bye bye!" = "再见了！";
+
+/* nothing */
+"Let go of the button to complete the line." = "我们按按钮来完成线条吧。";
+
+/* nothing */
+"Hold the button to stretch the shape." = "按住按钮来缩放。";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "移动鼠标来旋转形状。单击就可以画出它。";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "好了... 我们继续画这个！";
+
+/* nothing */
+"Do you really want to quit?" = "你真的要退出吗？";
+
+/* nothing */
+"Yes, I’m done!" = "是的，我已经完成工作！";
+
+/* nothing */
+"No, take me back!" = "不，我要返回！";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "如果你退出了，你会丢掉你的图片！保存起来吗？";
+
+/* nothing */
+"Yes, save it!" = "是的，保存！";
+
+/* nothing */
+"No, don’t bother saving!" = "不，不用保存！";
+
+/* nothing */
+"Save your picture first?" = "先保存你的图片？";
+
+/* nothing */
+"Can’t open that picture!" = "打不开那个图片啊！";
+
+/* nothing */
+"OK" = "好的";
+
+/* nothing */
+"There are no saved files!" = "没有保存过的文件啊！";
+
+/* nothing */
+"Print your picture now?" = "现在打印你的图片吗？";
+
+/* nothing */
+"Yes, print it!" = "是的，打印！";
+
+/* nothing */
+"Your picture has been printed!" = "你的图片被打印出来了！";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "在打印你的图片时出了问题";
+
+/* nothing */
+"You can’t print yet!" = "你还不能打印耶！";
+
+/* nothing */
+"Erase this picture?" = "删除这个图片吗？";
+
+/* nothing */
+"Yes, erase it!" = "是的，擦掉！";
+
+/* nothing */
+"No, don’t erase it!" = "不，不要擦掉！";
+
+/* nothing */
+"Remember to use the left mouse button!" = "记住使用鼠标左键!";
+
+/* nothing */
+"Sound muted." = "静音。";
+
+/* nothing */
+"Sound unmuted." = "取消静音。";
+
+/* nothing */
+"Please wait…" = "请等待...";
+
+/* nothing */
+"Erase" = "删除";
+
+/* nothing */
+"Slides" = "幻灯片";
+
+/* nothing */
+"Back" = "退回";
+
+/* nothing */
+"Next" = "文本";
+
+/* nothing */
+"Play" = "播放";
+
+/* nothing */
+"Aa" = "字";
+
+/* nothing */
+"Yes" = "是的";
+
+/* nothing */
+"No" = "不要";
+
+/* nothing */
+"Replace the picture with your changes?" = "确信要更改图片？";
+
+/* nothing */
+"Yes, replace the old one!" = "是的，替换原来的图片！";
+
+/* nothing */
+"No, save a new file!" = "不，保存到新文件";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "选择你要打开的图片，然后点击“打开”。";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "选择你要打开的图片，然后点击“打开”。";
+
+/* nothing */
+"Pick a color." = "选择一种颜色。";
+
+/* nothing */
+"A drawing program for children." = "孩子的绘图程序。";
+
+/* nothing */
+"Drawing program" = "绘图程序";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Color Shift" = "移动";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "单击然后移动鼠标改变部分图片的颜色。";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "单击改变整个图片的颜色。";
+
+/* nothing */
+"Blind" = "外国人";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "";
+
+/* nothing */
+"Blocks" = "拼块";
+
+/* nothing */
+"Chalk" = "粉笔";
+
+/* nothing */
+"Drip" = "水滴";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "单击然后移动鼠标将图片变成驳裂的效果。";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "单击然后移动鼠标将图片变成粉笔画。";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "单击然后移动鼠标将图片变成水滴图。";
+
+/* nothing */
+"Blur" = "模糊";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "单击然后移动鼠标，将图片变模糊。";
+
+/* nothing */
+"Click to blur the entire image." = "单击做出镜子中的效果。";
+
+/* nothing */
+"Bricks" = "拼块";
+
+/* nothing */
+"Click and move to draw large bricks." = "单击然后移动来画火花。";
+
+/* nothing */
+"Click and move to draw small bricks." = "单击然后移动来画火花。";
+
+/* nothing */
+"Calligraphy" = "书法";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "单击然后移动鼠标来绘制相片底片。";
+
+/* nothing */
+"Cartoon" = "漫画";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "单击然后移动鼠标将图片变成粉笔画。";
+
+/* nothing */
+"Confetti" = "五彩纸屑";
+
+/* nothing */
+"Click to throw confetti!" = "点击抛出五彩纸屑！";
+
+/* nothing */
+"Distortion" = "曲解";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "单击然后移动鼠标将图片变形。";
+
+/* nothing */
+"Emboss" = "凸起";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "单击然后移动鼠标将图片凸起。";
+
+/* nothing */
+"Lighten" = "变亮";
+
+/* nothing */
+"Darken" = "变暗";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "单击然后移动鼠标，使图片部分变亮。";
+
+/* nothing */
+"Click to lighten your entire picture." = "单击使图片整体变亮。";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "单击然后移动鼠标，使图片部分变暗。";
+
+/* nothing */
+"Click to darken your entire picture." = "单击使图片整体变暗。";
+
+/* nothing */
+"Fill" = "填充";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "单击图片用颜色填充区域。";
+
+/* nothing */
+"Fisheye" = "鱼眼效果";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "选择图像的一块区域创建鱼眼效果";
+
+/* nothing */
+"Flower" = "花朵";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "单击然后移动鼠标画一个花柄。让我们画一朵花。";
+
+/* nothing */
+"Foam" = "泡泡";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "单击然后移动鼠标用泡泡覆盖一片区域";
+
+/* nothing */
+"Fold" = "字体";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "选择背景色并通过单击翻页";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "单击然后移动鼠标将图片变淡。";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "单击做出镜子中的效果。";
+
+/* nothing */
+"Glass Tile" = "玻璃瓦";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "单击然后移动鼠标在你的图片上放玻璃瓦。";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "单击将整幅图片覆盖玻璃瓦。";
+
+/* nothing */
+"Grass" = "草";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "单击然后移动来画草。不要忘了泥土！";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "单击做出镜子中的效果。";
+
+/* nothing */
+"Symmetric Left/Right" = "";
+
+/* nothing */
+"Symmetric Up/Down" = "";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "万花筒";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "单击然后移动鼠标用对称的画笔（一个万花筒）画图。";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "单击然后移动鼠标用对称的画笔（一个万花筒）画图。";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "单击然后移动鼠标将图片凸起。";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "单击然后移动鼠标用对称的画笔（一个万花筒）画图。";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "单击然后移动鼠标用对称的画笔（一个万花筒）画图。";
+
+/* nothing */
+"Light" = "光";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "单击然后移动鼠标在你的图画上画一束光。";
+
+/* nothing */
+"Metal Paint" = "金属质感";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "单击然后移动鼠标画金属质感效果。";
+
+/* nothing */
+"Mirror" = "镜子";
+
+/* nothing */
+"Flip" = "翻转";
+
+/* nothing */
+"Click to make a mirror image." = "单击做出镜像。";
+
+/* nothing */
+"Click to flip the picture upside-down." = "单击将图片上下翻转。";
+
+/* nothing */
+"Mosaic" = "马赛克";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "单击然后移动鼠标为你的图画部分添加马赛克效果。";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "单击为你的整张图画添加马赛克效果。";
+
+/* nothing */
+"Square Mosaic" = "正方形";
+
+/* nothing */
+"Hexagon Mosaic" = "马赛克";
+
+/* nothing */
+"Irregular Mosaic" = "";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "单击然后移动鼠标为你的图画部分添加马赛克效果。";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "单击为你的整张图画添加马赛克效果。";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "单击然后移动鼠标为你的图画部分添加马赛克效果。";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "单击为你的整张图画添加马赛克效果。";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "单击然后移动鼠标为你的图画部分添加马赛克效果。";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "单击为你的整张图画添加马赛克效果。";
+
+/* nothing */
+"Negative" = "底片";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "单击然后移动鼠标来绘制相片底片。";
+
+/* nothing */
+"Click to turn your painting into its negative." = "单击做出镜子中的效果。";
+
+/* nothing */
+"Noise" = "噪声";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "单击然后移动鼠标，将图片变模糊。";
+
+/* nothing */
+"Click to add noise to your entire picture." = "单击然后移动鼠标将图片变成驳裂的效果。";
+
+/* nothing */
+"Perspective" = "";
+
+/* nothing */
+"Zoom" = "";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "单击然后移动鼠标将图片凸起。";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "单击并拖动在图画上喷出牙膏。";
+
+/* nothing */
+"Puzzle" = "紫色！";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "在图片上选择你要写谜语的区域";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "单击做出镜子中的效果。";
+
+/* nothing */
+"Rails" = "铁路";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "单击然后移动鼠标将图片变淡。";
+
+/* nothing */
+"Rain" = "彩虹";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "单击做出镜子中的效果。";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "单击做出镜子中的效果。";
+
+/* nothing */
+"Rainbow" = "彩虹";
+
+/* nothing */
+"You can draw in rainbow colors!" = "你可以用彩虹的颜色画图耶！";
+
+/* nothing */
+"Real Rainbow" = "彩虹";
+
+/* nothing */
+"ROYGBIV Rainbow" = "彩虹";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "";
+
+/* nothing */
+"Ripples" = "波纹";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "单击用波纹覆盖你的图画。";
+
+/* nothing */
+"Rosette" = "玫瑰花饰";
+
+/* nothing */
+"Picasso" = "毕加索风格";
+
+/* nothing */
+"Click and start drawing your rosette." = "点击开始画玫瑰花饰。";
+
+/* nothing */
+"You can draw just like Picasso!" = "你可以像毕加索一样画图！";
+
+/* nothing */
+"Edges" = "边缘化";
+
+/* nothing */
+"Sharpen" = "锐化";
+
+/* nothing */
+"Silhouette" = "侧面影象";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "单击然后移动鼠标跟踪部分图画的边缘。";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "单击跟踪整个图画。";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "单击然后移动鼠标锐化部分图画。";
+
+/* nothing */
+"Click to sharpen the entire picture." = "单击锐化整个图画。";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "单击然后移动鼠标创建一个黑白侧面影象。";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "单击创建整个图片的黑白侧面影象。";
+
+/* nothing */
+"Shift" = "移动";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "单击在画纸上拖动光标移动你的图画。";
+
+/* nothing */
+"Smudge" = "烟熏处理";
+
+/* nothing */
+"Wet Paint" = "金属质感";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "单击然后移动鼠标使图片有烟熏效果。";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "单击然后移动鼠标，将图片变模糊。";
+
+/* nothing */
+"Snow Ball" = "雪球";
+
+/* nothing */
+"Snow Flake" = "雪片";
+
+/* nothing */
+"Click to add snow balls to your picture." = "单击在图片中添加雪球。";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "单击在图片中添加雪片。";
+
+/* nothing */
+"String edges" = "";
+
+/* nothing */
+"String corner" = "";
+
+/* nothing */
+"String 'V'" = "";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "单击然后移动鼠标在你的图画上画一束光。";
+
+/* nothing */
+"Draw string art arrows with free angles." = "";
+
+/* nothing */
+"Tint" = "滤镜处理";
+
+/* nothing */
+"Color & White" = "";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "单击然后移动鼠标改变部分图片的颜色。";
+
+/* nothing */
+"Click to change the color of your entire picture." = "单击改变整个图片的颜色。";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "单击然后移动鼠标分离部分图画。";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "单击将整个图片颜色分离。";
+
+/* nothing */
+"Toothpaste" = "牙膏";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "单击并拖动在图画上喷出牙膏。";
+
+/* nothing */
+"Tornado" = "";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "单击然后移动鼠标将图片变淡。";
+
+/* nothing */
+"TV" = "电视";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "单击使你的图画看起来像电视上看到的。";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "单击使你的图画看起来像电视上看到的。";
+
+/* nothing */
+"Waves" = "波浪";
+
+/* nothing */
+"Wavelets" = "小波";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "单击使你的图画起水平波纹。单击顶部画低波纹，单击底部画高波纹，单击左面画小波纹，单击右面画长波纹。";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "单击使你的图画起垂直波纹。单击顶部画低波纹，单击底部画高波纹，单击左面画小波纹，单击右面画长波纹。";
+
+/* nothing */
+"Xor Colors" = "颜色";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "单击然后移动鼠标在你的图画上画一束光。";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "单击为你的整张图画添加马赛克效果。";
+
+/* nothing */
+"image is saved to your photo sucessfully" = "照片已经成功保存到了你的相册。";
+
+/* nothing */
+"share your masterpiece to best friends!" = "把你的杰作分享给你的好朋友们吧！";
+
+/* nothing */
+"Share" = "分享";
+
+"share to friends" = "分享杰作给朋友";
+"Cancel" = "取消";
+"WeChat Session" = "微信对话";
+"WeChat Timeline" = "微信朋友圈";
+"Sina Weibo" = "新浪微博";
+"Tencent Weibo" = "腾讯微博";
+"Twitter" = "Twitter";
+"Facebook" = "Facebook";
+"Flickr" = "Flickr";

@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: tuxpaint-i18n@lists.sourceforge.net\nPOT-Creation-Date: 2014-06-03 21:03+0200\nPO-Revision-Date: 2014-07-14 19:47+0200\nLast-Translator: Yannis Kaskamanidis <kiolalis@gmail.com>\nLanguage-Team: \nLanguage: el\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nX-Poedit-Bookmarks: 130,170,-1,-1,-1,-1,-1,-1,-1,-1\nX-Generator: Poedit 1.6.6\n";
+
+/* nothing */
+"Black!" = "Μαύρο!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Σκούρο γκρίζο!";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Ανοιχτό γκρίζο!";
+
+/* nothing */
+"White!" = "Άσπρο!";
+
+/* nothing */
+"Red!" = "Κόκκινο!";
+
+/* nothing */
+"Orange!" = "Πορτοκαλί!";
+
+/* nothing */
+"Yellow!" = "Κίτρινο!";
+
+/* nothing */
+"Light green!" = "Ανοιχτό πράσινο!";
+
+/* nothing */
+"Dark green!" = "Σκούρο πράσινο!";
+
+/* nothing */
+"Sky blue!" = " Μπλέ του ουρανού!";
+
+/* nothing */
+"Blue!" = "Μπλε!";
+
+/* nothing */
+"Lavender!" = "Λεβάντα!";
+
+/* nothing */
+"Purple!" = "Μωβ!";
+
+/* nothing */
+"Pink!" = "Ροζ!";
+
+/* nothing */
+"Brown!" = "Καφέ!";
+
+/* nothing */
+"Tan!" = "Γαλάζιο!";
+
+/* nothing */
+"Beige!" = "Μπέζ!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "οΟ";
+
+/* nothing */
+",.?!" = ",.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{}<>^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "<1>τετράγωνο-1a";
+
+/* nothing */
+"<1>spare-1b" = "<1>τετράγωνο-1b";
+
+/* nothing */
+"<9>spare-9a" = "<9>τετράγωνο-9a";
+
+/* nothing */
+"<9>spare-9b" = "<9>τετράγωνο-9b";
+
+/* nothing */
+"Great!" = "Μπράβο!";
+
+/* nothing */
+"Cool!" = "Ωραία!";
+
+/* nothing */
+"Keep it up!" = "Καλά πας, συνέχισε!";
+
+/* nothing */
+"Good job!" = "Συγχαρητήρια!";
+
+/* nothing */
+"English" = "Αγγλικά";
+
+/* nothing */
+"Hiragana" = "Πίνακας ιδεογραμμάτων Hiragana.";
+
+/* nothing */
+"Katakana" = "Πίνακας ιδεογραμμάτων Katakana.";
+
+/* nothing */
+"Hangul" = "Κορεατικό αλφάβητο (Hangul).";
+
+/* nothing */
+"Thai" = "Ταϋλανδέζικα";
+
+/* nothing */
+"ZH_TW" = "Κινέζικα";
+
+/* nothing */
+"Square" = "Τετράγωνο";
+
+/* nothing */
+"Rectangle" = "Ορθογώνιο";
+
+/* nothing */
+"Circle" = "Κύκλος";
+
+/* nothing */
+"Ellipse" = "Έλλειψη";
+
+/* nothing */
+"Triangle" = "Τρίγωνο";
+
+/* nothing */
+"Pentagon" = "Πεντάγωνο";
+
+/* nothing */
+"Rhombus" = "Ρόμβος";
+
+/* nothing */
+"Octagon" = "Οκτάγωνο";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Το τετράγωνο είναι ορθογώνιο με τις τέσσερις πλευρές ίσες.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Το ορθογώνιο παραλληλόγραμμο έχει τέσσερις πλευρές και τέσσερις ορθές γωνίες.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "Ο κύκλος είναι μια καμπύλη γραμμή της οποίας όλα τα σημεία απέχουν το ίδιο από το κέντρο.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "Η έλλειψη είναι ένας τεντωμένος κύκλος.";
+
+/* nothing */
+"A triangle has three sides." = "Το τρίγωνο έχει τρεις πλευρές.";
+
+/* nothing */
+"A pentagon has five sides." = "Το πεντάγωνο έχει πέντε πλευρές.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Ένας ρόμβος έχει τέσσερις ίσες πλευρές και οι απέναντι πλευρές είναι παράλληλες.";
+
+/* nothing */
+"An octagon has eight equal sides." = "Ένα κανονικό οκτάγωνο έχει οκτώ ίσες πλευρές.";
+
+/* nothing */
+"Tools" = "Εργαλεία";
+
+/* nothing */
+"Colors" = "Χρώματα";
+
+/* nothing */
+"Brushes" = "Πινέλα";
+
+/* nothing */
+"Erasers" = "Σβηστήρες";
+
+/* nothing */
+"Stamps" = "Σφραγίδες";
+
+/* nothing */
+"Shapes" = "Σχήματα";
+
+/* nothing */
+"Letters" = "Γράμματα";
+
+/* nothing */
+"Magic" = "Μαγικά";
+
+/* nothing */
+"Paint" = "Πινέλο";
+
+/* nothing */
+"Stamp" = "Σφραγίδα";
+
+/* nothing */
+"Lines" = "Γραμμές";
+
+/* nothing */
+"Text" = "Κείμενο";
+
+/* nothing */
+"Label" = "Ετικέτα";
+
+/* nothing */
+"Undo" = "Αναίρεση";
+
+/* nothing */
+"Redo" = "Ακύρωση";
+
+/* nothing */
+"Eraser" = "Σβήστρα";
+
+/* nothing */
+"New" = "Νέο";
+
+/* nothing */
+"Open" = "Άνοιγμα";
+
+/* nothing */
+"Save" = "Αποθήκευση";
+
+/* nothing */
+"Print" = "Εκτύπωση";
+
+/* nothing */
+"Quit" = "Έξοδος";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Διάλεξε  χρώμα και μορφή πινέλου για να ζωγραφίσεις.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Διάλεξε μία στάμπα για να την τοποθετήσεις σε διάφορα σημεία του σχεδίου σου.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Κάνε κλικ για να αρχίσεις να ζωγραφίζεις μία γραμμή. Άφησε το πλήκτρο του ποντικιού όταν έχεις ολοκληρώσει τη γραμμή.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Διάλεξε ένα σχήμα. Κάνε κλικ για να επιλέξεις το κέντρου του, σύρε το με το ποντίκι και άφησε το πλήκτρο όταν το σχήμα έχει το μέγεθος που θέλεις. Κίνησε το ποντίκι γύρω για να περιστρέψεις το σχήμα και κάνε κλικ για να ζωγραφιστεί.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Διάλεξε στυλ κειμένου. Κάνε κλικ στη ζωγραφιά σου και άρχισε να γράφεις. Πάτησε [Enter] ή [Tab] για να ολοκληρώσεις το κείμενο.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Διάλεξε στυλ κειμένου. Κάνε κλικ στη ζωγραφιά σου και άρχισε να γράφεις. Πάτησε [Enter] ή [Tab] για να ολοκληρώσεις το κείμενο. Χρησιμοποιώντας το πλήκτρο επιλογής και κάνοντας κλικ σε μια υπάρχουσα ετικέτα, μπορείς να τη μετακινήσεις, να την επεξεργαστείς ή να αλλάξεις το στυλ κειμένου.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Διάλεξε ένα μαγικό εφφέ για να χρησιμοποιήσεις στο σχέδιό σου!";
+
+/* nothing */
+"Undo!" = "Αναίρεση!";
+
+/* nothing */
+"Redo!" = "Επανάληψη!";
+
+/* nothing */
+"Eraser!" = "Σβηστήρα!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Διάλεξε ένα χρώμα ή μία εικόνα για να ξεκινήσεις ένα νέο σχέδιο.";
+
+/* nothing */
+"Open…" = "Άνοιγμα…";
+
+/* nothing */
+"Your image has been saved!" = "Η εικόνα σου αποθηκεύθηκε!";
+
+/* nothing */
+"Printing…" = "Εκτύπωση…";
+
+/* nothing */
+"Bye bye!" = "Γειά χαρά!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Άφησε το πλήκτρο του ποντικιού για να ολοκληρωθεί η γραμμή.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Κράτησε πατημένο το πλήκτρο του ποντικιού για να τεντώσεις το σχήμα.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Κίνησε το ποντίκι για να περιστρέψεις το σχήμα. Κάνε κλικ για να σχεδιαστεί.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Εντάξει λοιπόν… Ας συνεχίσουμε τη σχεδίαση του ίδιου!";
+
+/* nothing */
+"Do you really want to quit?" = "Σίγουρα θέλεις να βγεις από το πρόγραμμα;";
+
+/* nothing */
+"Yes, I’m done!" = "Ναι, τελείωσα!";
+
+/* nothing */
+"No, take me back!" = "Όχι δεν έχω τελειώσει ακόμα!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Αν βγεις από το πρόγραμμα, θα χαθεί η εικόνα σου! Να αποθηκευτεί;";
+
+/* nothing */
+"Yes, save it!" = "Ναι, αποθήκευσέ την!";
+
+/* nothing */
+"No, don’t bother saving!" = "Όχι, μην ασχοληθείς με την αποθήκευση!";
+
+/* nothing */
+"Save your picture first?" = "Να αποθηκευτεί η εικόνα σου πρώτα;";
+
+/* nothing */
+"Can’t open that picture!" = "Δεν μπορώ να ανοίξω αυτή τη ζωγραφιά!";
+
+/* nothing */
+"OK" = "Εντάξει";
+
+/* nothing */
+"There are no saved files!" = "Δεν υπάρχουν αποθηκευμένα αρχεία!";
+
+/* nothing */
+"Print your picture now?" = "Να εκτυπώσω τη ζωγραφιά σου;";
+
+/* nothing */
+"Yes, print it!" = "Ναι, εκτύπωσέ την!";
+
+/* nothing */
+"Your picture has been printed!" = "Η εικόνα σου εκτυπώθηκε!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Λυπάμαι! Δεν ήταν δυνατή η εκτύπωση της ζωγραφιάς σου!";
+
+/* nothing */
+"You can’t print yet!" = "Δεν μπορείς να εκτυπώσεις ακόμη!";
+
+/* nothing */
+"Erase this picture?" = "Να διαγραψω αυτήν την εικόνα;";
+
+/* nothing */
+"Yes, erase it!" = "Ναι, διάγραψέ την!";
+
+/* nothing */
+"No, don’t erase it!" = "Όχι, μην τη διαγράφεις!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Προσοχή, πρέπει να χρησιμοποιείς το αριστερό πλήκτρο του ποντικιού!";
+
+/* nothing */
+"Sound muted." = "Χωρίς ήχο.";
+
+/* nothing */
+"Sound unmuted." = "Με ήχο.";
+
+/* nothing */
+"Please wait…" = "Παρακαλώ περιμένετε...";
+
+/* nothing */
+"Erase" = "Διαγραφή";
+
+/* nothing */
+"Slides" = "Προβολή διαφανειών.";
+
+/* nothing */
+"Back" = "Προηγούμενο";
+
+/* nothing */
+"Next" = "Επόμενο";
+
+/* nothing */
+"Play" = "Αναπαραγωγή";
+
+/* nothing */
+"Aa" = "Αα";
+
+/* nothing */
+"Yes" = "Ναι";
+
+/* nothing */
+"No" = "Όχι";
+
+/* nothing */
+"Replace the picture with your changes?" = "Να αντικαταστήσω τη ζωγραφιά με τις αλλαγές που έκανες;";
+
+/* nothing */
+"Yes, replace the old one!" = "Ναι, αντικατάστησε την παλιά ζωγραφιά!";
+
+/* nothing */
+"No, save a new file!" = "Όχι, κάνε αποθήκευση σε νέο αρχείο!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Διάλεξε τη ζωγραφιά που θέλεις και μετά πάτησε 'Άνοιγμα'.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Διάλεξε τη ζωγραφιά που θέλεις και μετά πάτησε 'Αναπαραγωγή'.";
+
+/* nothing */
+"Pick a color." = "Δάλεξε ένα χρώμα.";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Drawing program" = "Πρόγραμμα ζωγραφικής";
+
+/* nothing */
+"A drawing program for children." = "Ένα πρόγραμμα ζωγραφικής για παιδιά.";
+
+/* nothing */
+"Color Shift" = "Αλλαγή χρώματος";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Κάνε κλικ και κίνησε το ποντίκι για να αλλάξεις τα χρώματα σε τμήματα της ζωγραφιάς σου.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Κάνε κλικ για να αλλάξεις τα χρώματα σε ολόκληρη τη ζωγραφιά σου.";
+
+/* nothing */
+"Blind" = "Θάμπωμα";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Κάντε κλικ στα όρια της εικόνας για να την καλύψετε με το σκίαστρο. Μετακινήστε κάθετα για να ανοίξετε ή να κλείσετε τα σκίαστρα.";
+
+/* nothing */
+"Blocks" = "Κομμάτια";
+
+/* nothing */
+"Chalk" = "Κιμωλία";
+
+/* nothing */
+"Drip" = "Στάξιμο";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Κάνε κλικ και κίνησε το ποντίκι για να κάνεις τη ζωγραφιά κομματάκια.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Κάνε κλικ και κίνησε το ποντίκι για να μετατρέψεις τη ζωγραφιά σε σχέδιο με κιμωλία.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Κάνε κλικ και κίνησε το ποντίκι γύρω για να κάνεις τη ζωγραφιά να στάζει.";
+
+/* nothing */
+"Blur" = "Θόλωμα";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Κάνε κλικ και σύρε το ποντίκι για να θαμπώσεις τη ζωγραφιά.";
+
+/* nothing */
+"Click to blur the entire image." = "Κάνε κλικ για να θολώσεις ολόκληρη τη ζωγραφιά.";
+
+/* nothing */
+"Bricks" = "Τούβλα";
+
+/* nothing */
+"Click and move to draw large bricks." = "Κάνε κλικ και κίνησε το ποντίκι για να ζωγραφίσεις μεγάλα τούβλα.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Κάνε κλικ και και κίνησε το ποντίκι για να ζωγραφίσεις μικρά τούβλα.";
+
+/* nothing */
+"Calligraphy" = "Καλλιγραφία";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Κάνε κλικ και κίνησε το ποντίκι για να σχεδιάσεις καλλιγραφικά.";
+
+/* nothing */
+"Cartoon" = "Σκίτσο";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Κάνε κλικ και κίνησε το ποντίκι γύρω για να κάνεις τη ζωγραφιά να μοιάζει με καρτούν.";
+
+/* nothing */
+"Confetti" = "Χαρτοπόλεμος";
+
+/* nothing */
+"Click to throw confetti!" = "Κάνε κλικ για να πετάξεις χαρτοπόλεμο!";
+
+/* nothing */
+"Distortion" = "Παραμόρφωση";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Κάνε κλικ και σύρε το ποντίκι για να κάνεις τη ζωγραφια σου να παραμορφωθεί σου.";
+
+/* nothing */
+"Emboss" = "Ανάγλυφο";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Κάνε κλικ και σύρε το ποντίκι για να κάνεις την εικόνα ανάγλυφη.";
+
+/* nothing */
+"Lighten" = "Φωτίζω";
+
+/* nothing */
+"Darken" = "Σκουραίνω";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Κάνε κλικ και κίνησε το ποντίκι για να φωτίσεις σημεία από τη ζωγραφιά σου.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Κάνε κλικ για να φωτίσεις ολόκληρη τη ζωγραφιά σου.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Κάνε κλικ και μετακίνησε το ποντίκι για να σκουρήνεις τμήματα της ζωγραφιάς σου.";
+
+/* nothing */
+"Click to darken your entire picture." = "Κάνε κλικ για να σκουρήνεις ολόκληρη τη ζωγραφιά σου.";
+
+/* nothing */
+"Fill" = "Γέμισμα";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Κάνε κλικ στη ζωγραφιά για να γεμίσεις μια περιοχή με χρώμα.";
+
+/* nothing */
+"Fisheye" = "Φακός";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Κάνε κλικ σε ένα τμήμα της εικόνας σου για να δημιουργήσεις εφέ φακού.";
+
+/* nothing */
+"Flower" = "Λουλούδι";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις ένα λουλούδι με κοτσάνι. Άφησε το πλήκτρο του ποντικιού για να ολοκληρωθεί το λουλούδι.";
+
+/* nothing */
+"Foam" = "Αφρός";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Κάνε κλικ και σύρε το ποντίκι για να καλύψεις την περιοχή με φούσκες αφρού.";
+
+/* nothing */
+"Fold" = "Δίπλωμα";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Διάλεξε χρώμα για το φόντο και κάνε κλικ για να γυρίσεις τη γωνία της σελίδας.";
+
+/* nothing */
+"Fretwork" = "Ανάγλυφο";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Κάνε κλικ και σύρε για να σχεδιάσεις επαναλαμβανόμενα μοτίβα.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Κάνε κλικ για να περιστοιχίσεις τη ζωγραφιά σου με επαναλαμβανόμενα μοτίβα.";
+
+/* nothing */
+"Glass Tile" = "Υαλότουβλο";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Κάνε κλικ και σύρε το ποντίκι για να τοποθετήσεις υαλότουβλα στη ζωγραφιά σου.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Κάνε κλικ για να καλύψεις ολόκληρη τη ζωγραφιά σου με υαλότουβλα.";
+
+/* nothing */
+"Grass" = "Γρασίδι";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Κάνε κλικ και κίνησε το ποντίκι για να ζωγραφίσεις το γρασίδι. Μην ξεχάσεις τη λάσπη!";
+
+/* nothing */
+"Halftone" = "Διαβαθμίσεις του γκρι";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Κάνε κλικ και σύρε για να μετατρέψεις τη ζωγραφιά σου σε εφημερίδα.";
+
+/* nothing */
+"Symmetric Left/Right" = "Συμμετρικό Αριστερά/Δεξιά";
+
+/* nothing */
+"Symmetric Up/Down" = "Συμμετρικό Πάνω/Κάτω";
+
+/* nothing */
+"Pattern" = "Πρότυπο";
+
+/* nothing */
+"Tiles" = "Πλακίδια";
+
+/* nothing */
+"Kaleidoscope" = "Καλειδοσκόπιο";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις με δύο πινέλα που είναι συμμετρικά κατά μήκος της αριστερής και δεξιάς πλευράς της εικόνας σου.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις με δύο πινέλα που είναι συμμετρικά κατά μήκος του επάνω και κάτω μέρους της εικόνας σου.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις ένα μοτίβο κατά μήκος της εικόνας σου.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις ένα συμμετρικό μοτίβο κατά μήκος της εικόνας σου.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις με συμμετρικές βούρτσες (καλειδοσκόπιο).";
+
+/* nothing */
+"Light" = "Φως";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Κάνε κλικ και σύρε το ποντίκι για να βάλεις μια δέσμη φωτός στην εικόνα σου.";
+
+/* nothing */
+"Metal Paint" = "Μεταλλική μπογιά";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Κάνε κλικ και σύρε το ποντίκι για να βάψεις με μεταλλικό χρώμα.";
+
+/* nothing */
+"Mirror" = "Καθρέφτης";
+
+/* nothing */
+"Flip" = "Άνω-Κάτω";
+
+/* nothing */
+"Click to make a mirror image." = "Κάνε κλικ για να φτιάξεις μια ζωγραφιά-είδωλο.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Κάνε κλικ για να γυρίσεις τη ζωγραφιά άνω-κάτω.";
+
+/* nothing */
+"Mosaic" = "Μωσαϊκό";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Κάνε κλικ και μετακίνησε το ποντίκι για να προσθέσεις εφέ μωσαϊκού σε τμήματα της ζωγραφιάς σου.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Κάνε κλικ για να προσθέσεις εφέ μωσαϊκού σε ολόκληρη τη ζωγραφιά σου.";
+
+/* nothing */
+"Square Mosaic" = "Τετραγωνικό μωσαϊκό";
+
+/* nothing */
+"Hexagon Mosaic" = "Εξαγωνικό μωσαϊκό";
+
+/* nothing */
+"Irregular Mosaic" = "Ακανόνιστο μωσαϊκό.";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Κάνε κλικ και μετακίνησε το ποντίκι για να προσθέσεις τετραγωνικό μωσαϊκό σε τμήματα της ζωγραφιάς σου.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Κάνε κλικ για να προσθέσεις τετραγωνικό μωσαϊκό σε ολόκληρη τη ζωγραφιά σου.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Κάνε κλικ και μετακίνησε το ποντίκι για να προσθέσεις εξαγωνικό μωσαϊκό σε τμήματα της ζωγραφιάς σου.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Κάνε κλικ για να προσθέσεις εξαγωνικό μωσαϊκό σε ολόκληρη τη ζωγραφιά σου.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Κάνε κλικ και μετακίνησε το ποντίκι για να προσθέσεις ακανόνιστο μωσαϊκό σε τμήματα της ζωγραφιάς σου.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Κάνε κλικ για να προσθέσεις ακανόνιστο μωσαϊκό σε ολόκληρη τη ζωγραφιά σου.";
+
+/* nothing */
+"Negative" = "Αρνητικό";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Κάνε κλικ και κίνησε το ποντίκι για να κάνεις τη ζωγραφιά να μοιάζει με αρνητικό.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Κάνε κλικ για να μετατρέψεις τη ζωγραφιά σου σε αρνητικό.";
+
+/* nothing */
+"Noise" = "Παράσιτα";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Κάνε κλικ και κίνησε το ποντίκι για να προσθέσεις παράσιτα σε τμήματα της ζωγραφιάς σου.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Κάνε κλικ για να προσθέσεις παράσιτα σε ολόκληρη τη ζωραφιά σου. ";
+
+/* nothing */
+"Perspective" = "Προοπτική";
+
+/* nothing */
+"Zoom" = "Εστίαση";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Κάνε κλικ στις γωνίες και σύρε το ποντίκι για να επεκτήνεις τη ζωγραφιά. ";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Κάνε κλικ και σύρε το ποντίκι για να εστιάσεις ή να απομακρυνθείς από τη ζωγραφιά σου.";
+
+/* nothing */
+"Puzzle" = "Σπαζοκεφαλιά";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Κάνε κλικ και σύρε το ποντίκι για να μετακινήσεις την εικόνα πάνω στον καμβά.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Κάνε κλικ για να φτιάξεις μια σπαζοκεφαλιά σε λειτουργία πλήρους οθόνης.";
+
+/* nothing */
+"Rails" = "Ράγες τρένου";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις ράγες διαδρομής τρένων στη ζωγραφιά σου.";
+
+/* nothing */
+"Rainbow" = "Ουράνιο Τόξο";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Μπορείς να ζωγραφίσεις με τα χρώματα του ουράνιου τόξου!";
+
+/* nothing */
+"Rain" = "Βροχή";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Κάνε κλικ για να τοποθετήσεις μία σταγόνα βροχής στη ζωγραφιά σου.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Κάνε κλικ για να καλύψεις τη ζωγραφιά σου με σταγόνες βροχής.";
+
+/* nothing */
+"Real Rainbow" = "Ουράνιο Τόξο";
+
+/* nothing */
+"ROYGBIV Rainbow" = "ROYGBIV Ουράνιο τόξο";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Κάνε κλικ εκεί που θέλεις να ξεκινήσει το ουράνιο τόξο, σύρε το όπου θέλεις να τελειώσει και μετά ζωγράφισε το ουράνιο τόξο.";
+
+/* nothing */
+"Ripples" = "Κυματάκια";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Κάνε κλικ για να εμφανιστούν κυματάκια στη ζωγραφιά σου.";
+
+/* nothing */
+"Rosette" = "Κονκάρδα";
+
+/* nothing */
+"Picasso" = "Πικάσο";
+
+/* nothing */
+"Click and start drawing your rosette." = "Κάνε κλικ και ξεκίνα να ζωγραφίζεις μία κονκάρδα.";
+
+/* nothing */
+"You can draw just like Picasso!" = "Μπορείς να ζωγραφίσεις ακριβώς όπως ο Πικάσσο!";
+
+/* nothing */
+"Edges" = "Άκρες";
+
+/* nothing */
+"Sharpen" = "Όξυνση";
+
+/* nothing */
+"Silhouette" = "Περίγραμμα";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Κάνε κλικ και μετακίνησε το ποντίκι για να επισημάνεις τις άκρες σε τμήματα της ζωγραφιάς σου.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Κάνε κλικ για να επισημάνεις τις άκρες σε ολόκληρη τη ζωγραφιά σου.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Κάνε κλικ και κίνησε το ποντίκι για να οξύνεις τμήματα της ζωγραφιάς σου. ";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Κάνε κλικ για να οξύνεις ολόκληρη τη ζωγραφιά σου.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Κάνε κλικ και μετακίνησε το ποντίκι για να δημιουργήσεις ασπρόμαυρο περίγραμμα. ";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Κάνε κλικ για να δημιουργήσεις  ασπρόμαυρο περίγραμμα ολόκληρης της ζωγραφιάς σου.";
+
+/* nothing */
+"Shift" = "Μετατόπιση";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Κάνε κλικ και σύρε το ποντίκι για να μετατοπίσεις τη ζωγραφιά σου  πάνω στον καμβά.";
+
+/* nothing */
+"Smudge" = "Μουτζούρα";
+
+/* nothing */
+"Wet Paint" = "Υγρή μπογιά";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Κάνε κλικ και κίνησε το ποντίκι γύρω για να μουτζουρώσεις τη ζωγραφιά.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις μια υγρή και μουντζούρικη ζωγραφιά.";
+
+/* nothing */
+"Snow Ball" = "Χιονόμπαλα";
+
+/* nothing */
+"Snow Flake" = "Νιφάδα χιονιού";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Κάνε κλικ για να προσθέσεις μπάλες χιονιού στη ζωγραφιά σου.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Κάνε κλικ για να προσθέσεις νιφάδες χιονιού στη ζωγραφιά σου.";
+
+/* nothing */
+"String edges" = "Άκρες καμπυλωτών γραμμών";
+
+/* nothing */
+"String corner" = "Γωνίες καμπυλωτών γραμμών";
+
+/* nothing */
+"String 'V'" = "Καμπύλες Γραμμές 'V'";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Κάνε κλικ και σύρε για να σχεδιάσεις σύμφωνα με τη τέχνη των καμπυλωτών γραμμών. Σύρε το πάνω κουμπί για να σχεδιάσεις λιγότερες ή περισσότερες γραμμές, δεξιά και αριστερά για να φτιάξεις μεγαλύτερη τρύπα.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις βέλη με καμπύλες γραμμές.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Σχεδίασε καμπυλες γραμμές με ελεύθερους αγγέλους.";
+
+/* nothing */
+"Tint" = "Απόχρωση";
+
+/* nothing */
+"Color & White" = "Χρώμα και άσπρο";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Κάνε κλικ και κίνησε το ποντίκι για να αλλάξεις το χρώμα σε τμήματα της ζωγραφιάς σου.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Κάνε κλικ για να αλλάξεις το χρώμα σε ολόκληρη την εικόνα.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Κάνε κλικ και μετακίνησε το ποντίκι για να μετατρέψεις τμήματα  της ζωγραφιάς σου σε άσπρο και σε ένα χρώμα που επέλεξες.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Κάνε κλικ για να μετατρέψεις τη ζωγραφιά σου σε άσπρη και σε ένα χρώμα της επιλογής σου.";
+
+/* nothing */
+"Toothpaste" = "Οδοντόπαστα";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Κάνε κλικ και σύρε το ποντίκι για να εκτοξεύσεις οδοντόκρεμα στη ζωγραφιά σου.";
+
+/* nothing */
+"Tornado" = "Ανεβοστρόβιλος";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις ανεμοστρόβιλους στη ζωγραφιά σου.";
+
+/* nothing */
+"TV" = "Τηλεόραση";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Κάνε κλικ για να κάνεις τη ζωγραφιά σου να μοιάζει σαν να είναι στην τηλεόραση.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Κάνε κλικ για να κάνεις τη ζωγραφιά σου να μοιάζει σαν να είναι στην τηλεόραση.";
+
+/* nothing */
+"Waves" = "Κύματα";
+
+/* nothing */
+"Wavelets" = "Κυματάκια";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Κάνε κλικ για να κάνεις την εικόνα οριζόντια κυματιστή. Κάνε κλικ προς την κορυφή για κοντύτερα κύματα, προς τη βάση για ψηλότερα, προς τα αριστερά για μικρά κύματα και προς στα δεξια κύματα μεγάλου μήκους. ";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Κάνε κλικ για να κάνεις τη ζωγραφιά κατακόρυφα κυματιστή. Κάνε κλικ προς την κορυφή για κοντύτερα κύματα, προς τη βάση για ψηλότερα κύματα,  προς τα αριστερά για μικρά κύματα και προς τα δεξια για κύματα μεγάλου μήκους. ";
+
+/* nothing */
+"Xor Colors" = "Xor Χρώματα";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Κάνε κλικ και σύρε το ποντίκι για να σχεδιάσεις XOR εφέ.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Κάνε κλικ για να σχεδιάσεις ένα XOR εφέ σε ολόκληρη τη ζωγραφιά σου.";
+

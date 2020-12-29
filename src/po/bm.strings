@@ -1,0 +1,840 @@
+/* nothing */
+"" = "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2010-08-17 15:55-0700\nPO-Revision-Date: 2010-09-04 17:25+0200\nLast-Translator: Fasokan <konate20032001@yahoo.fr>\nLanguage-Team: LANGUAGE <LL@li.org>\nLanguage: bm\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nX-Generator: Pootle 2.1.5\n";
+
+/* nothing */
+"Black!" = "Finman!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Bukurijɛ!";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Bukurijɛ walawala!";
+
+/* nothing */
+"White!" = "Jɛman!";
+
+/* nothing */
+"Red!" = "Bilenman!";
+
+/* nothing */
+"Orange!" = "Woroji!";
+
+/* nothing */
+"Yellow!" = "Nɛrɛmugu!";
+
+/* nothing */
+"Light green!" = "Binkɛnɛ walawala!";
+
+/* nothing */
+"Dark green!" = "Binkɛnɛ mɔnimɔni!";
+
+/* nothing */
+"Sky blue!" = "Kabanɔgɔlaman!";
+
+/* nothing */
+"Blue!" = "bula!";
+
+/* nothing */
+"Lavender!" = "Lawandi!";
+
+/* nothing */
+"Purple!" = "wiyolɛ!";
+
+/* nothing */
+"Pink!" = "Rozi!";
+
+/* nothing */
+"Brown!" = "Kɔlɔboro!";
+
+/* nothing */
+"Tan!" = "Fugafuga!";
+
+/* nothing */
+"Beige!" = "Bukurilaman!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "Qx";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = ",.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{<(^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "<1>kunfalen-1a";
+
+/* nothing */
+"<1>spare-1b" = "<1>kunfalen-1b";
+
+/* nothing */
+"<9>spare-9a" = "<9>kunfalen-9a";
+
+/* nothing */
+"<9>spare-9b" = "<9>kunfalen-9b";
+
+/* nothing */
+"Great!" = "A ɲɛna!";
+
+/* nothing */
+"Cool!" = "A ɲɛna kosɛbɛ!";
+
+/* nothing */
+"Keep it up!" = "Tɛmɛ n’a ye!";
+
+/* nothing */
+"Good job!" = "Baara ɲuman!";
+
+/* nothing */
+"English" = "Angilɛ!";
+
+/* nothing */
+"Hiragana" = "Hiragana (Zapɔnɛ)";
+
+/* nothing */
+"Katakana" = "Katakana (Tayilandi)";
+
+/* nothing */
+"Hangul" = "Hangulu";
+
+/* nothing */
+"Thai" = "Tayilandikan";
+
+/* nothing */
+"ZH_TW" = "Tayiwani mandereni";
+
+/* nothing */
+"Square" = "Kare";
+
+/* nothing */
+"Rectangle" = "Rɛkitangili";
+
+/* nothing */
+"Circle" = "Koori";
+
+/* nothing */
+"Ellipse" = "Elipisi ";
+
+/* nothing */
+"Triangle" = "Tiriyangili";
+
+/* nothing */
+"Pentagon" = "Pɛntagoni ";
+
+/* nothing */
+"Rhombus" = "Lozanzi";
+
+/* nothing */
+"Octagon" = "Ɔkutagoni";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Kare ye rɛkitangili ye, min kɛrɛ naani bɛɛ ye hakɛ kelen ye.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Kɛrɛ naani bɛ rɛkitangili la ani dogodogonin tilennen naani.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "Koori ye ci kurulen ye min ɛrɛyɔn bɛɛ janya ye hakɛ kelen ye.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "Elipisi ye koori samanen ye";
+
+/* nothing */
+"A triangle has three sides." = "Kɛrɛ saba bɛ tiriyangili la.";
+
+/* nothing */
+"A pentagon has five sides." = "Kɛrɛ duuru bɛ pɛntagoni na";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Kɛrɛ nani bɛ lozanzi la, kɛrɛ minnu ye sina ye, olu bɛ taa ɲɔgɔn kɛrɛfɛ, u tɛ maga ɲɔgɔn na fiyɛw";
+
+/* nothing */
+"An octagon has eight equal sides." = "Ɔkutagɔni kɛrɛ ye segin ye, u bɛɛ janya ye hakɛ kelen ye.";
+
+/* nothing */
+"Tools" = "Minɛnw";
+
+/* nothing */
+"Colors" = " ɲɛw ";
+
+/* nothing */
+"Brushes" = "bɔrɔsiw ";
+
+/* nothing */
+"Erasers" = "Jɔsililan";
+
+/* nothing */
+"Stamps" = "Tanpɔnw";
+
+/* nothing */
+"Shapes" = "Cogoyaw";
+
+/* nothing */
+"Letters" = "Siginidenw";
+
+/* nothing */
+"Magic" = "Kabako";
+
+/* nothing */
+"Paint" = "Pɛntiri kɛ";
+
+/* nothing */
+"Stamp" = "Tanpɔn";
+
+/* nothing */
+"Lines" = "Cisiraw";
+
+/* nothing */
+"Text" = "Sɛbɛnni";
+
+/* nothing */
+"Label" = "Tamasiyɛn";
+
+/* nothing */
+"Undo" = "Kɔfɛ";
+
+/* nothing */
+"Redo" = "ɲɛfɛ";
+
+/* nothing */
+"Eraser" = "Jɔsililan";
+
+/* nothing */
+"New" = "Kura";
+
+/* nothing */
+"Open" = "A dayɛlɛ";
+
+/* nothing */
+"Save" = "A mara";
+
+/* nothing */
+"Print" = "A papiyema bɔ";
+
+/* nothing */
+"Quit" = "Bɔ";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "I sagolaɲɛ ni bɔrɔsi dɔ ta ka ɲɛgɛn kɛ.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Ja dɔ ta k'o don i ka ɲɛgɛn na.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Kilike i ka ɲɛgɛn dɔ daminɛ, tɛmɛ n'a ye k'a laban. ";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Cogoya dɔ suganti. Kilike a cɛmancɛ la, a bilayɔrɔ n'a janya hakɛ suganti k'i digilen to, a munumunu, a cɛɛnɛ i ka ɲɛgɛn kɛ. ";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Sɛbɛnni suguya dɔ suganti. Kilike i ka ɲɛgɛn kan i ka sɛbɛnni daminɛ. [Entrer] walima [Tab] digi n'i tilala.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Sɛbɛnni suguya dɔ suganti. Kilike i ka ɲɛgɛn kan i ka sɛbɛnni daminɛ. [Entrer] walima [Tab] digi n'i tilala. N'i kilikera selɛkisiyɔn butɔn kan ani sɛbɛnni kɔrɔlen dɔ, i bɛ se k'a labɔ a nɔ na, k'a sɛbɛn kura ye ani k'a cogoya yɛlɛma.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Kabako ɲɛgɛnyɛlɛmanan dɔ suganti ka k'i ka ɲɛgɛn na. ";
+
+/* nothing */
+"Undo!" = "Kɔfɛ!";
+
+/* nothing */
+"Redo!" = "ɲɛfɛ!";
+
+/* nothing */
+"Eraser!" = "Jɔsililan!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "ɲɛ walima ja dɔ suganti i ka ɲɛgɛn kura dɔ daminɛ.";
+
+/* nothing */
+"Open…" = "A dayɛlɛ";
+
+/* nothing */
+"Your image has been saved!" = "I ka ja marala!";
+
+/* nothing */
+"Printing…" = "A papiyema bɛ ka bɔ…";
+
+/* nothing */
+"Bye bye!" = "K’an bɛn! ";
+
+/* nothing */
+"Let go of the button to complete the line." = "Butɔn digi, ka ci tɔ ka laban.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Butɔn digilen to, i, ka ja sama ka yɛlɛ k'a mɔɔnɔ bɔ.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "ɲinɛnin sama, k'a munumunu ka ɲɛgɛn kɛ.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "A ɲɛna! An ka taa nin ɲɛgɛn in fɛ!";
+
+/* nothing */
+"Do you really want to quit?" = "I bɛ fɛ ka bɔ tiɲɛ yɛrɛ la?";
+
+/* nothing */
+"Yes, I’m done!" = "Ɔwɔ, n tilala!";
+
+/* nothing */
+"No, take me back!" = "Ayi, n lasgin kɔfɛ!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "N'i bɔra, i ka ja bɛ tunun. K'a mara?";
+
+/* nothing */
+"Yes, save it!" = "Ɔwɔ, a mara!";
+
+/* nothing */
+"No, don’t bother saving!" = "Ayi, kan'a mara!";
+
+/* nothing */
+"Save your picture first?" = "K'ia ka ja mara fɔlɔ?";
+
+/* nothing */
+"Can’t open that picture!" = "N ma se ka nin ja in dayɛlɛ!";
+
+/* nothing */
+"OK" = "N sɔnna";
+
+/* nothing */
+"There are no saved files!" = "Fisiye foyi maralen tɛ yan!";
+
+/* nothing */
+"Print your picture now?" = "K'i ka ja papiyema bɔ sisan?";
+
+/* nothing */
+"Yes, print it!" = "Ɔwɔ, a papiyema bɔ!";
+
+/* nothing */
+"Your picture has been printed!" = "I ka ja papiyema bɔra!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Hakɛto! I ka ja papiyema ma se ka bɔ!";
+
+/* nothing */
+"You can’t print yet!" = "I tɛ se ka ja papiyema bɔ fɔlɔ!";
+
+/* nothing */
+"Erase this picture?" = "Ka nin ja in jɔsi?";
+
+/* nothing */
+"Yes, erase it!" = "Ɔwɔ, a jɔsi!";
+
+/* nothing */
+"No, don’t erase it!" = "Ayi, kan'a jɔsi!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Kana ɲinɛ ka baara kɛ nin ɲinɛnin numanyanfanfɛ kɛrɛ ye!";
+
+/* nothing */
+"Sound muted." = "Mankan datugura.";
+
+/* nothing */
+"Sound unmuted." = "Mankan dayɛlɛla.";
+
+/* nothing */
+"Please wait…" = "Hakɛto i k'a kɔnɔ...";
+
+/* nothing */
+"Erase" = "A jɔsi";
+
+/* nothing */
+"Slides" = "Jaw tɛmɛ tɛmɛ ɲɔgɔn kɔ";
+
+/* nothing */
+"Back" = "Seginkɔ";
+
+/* nothing */
+"Next" = "ɲɛfɛta";
+
+/* nothing */
+"Play" = "A bil'a la";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Ɔwɔ";
+
+/* nothing */
+"No" = "Ayi";
+
+/* nothing */
+"Replace the picture with your changes?" = "Ka ja mara n'i ka yɛlɛmaw tali ye ba la wa?";
+
+/* nothing */
+"Yes, replace the old one!" = "Ɔwɔ, kɔrɔlen yɛlɛma!";
+
+/* nothing */
+"No, save a new file!" = "Ayi, kura mara!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "I sagolaja suganti, ka kilike \"a dayɛlɛ\" kan.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "I sagola jaw suganti, kilike i k'a bil'a la. ";
+
+/* nothing */
+"Pick a color." = "ɲɛ dɔ suganti.";
+
+/* nothing */
+"A drawing program for children." = "Demisɛnw ka ɲɛgɛn taabolo dɔ.";
+
+/* nothing */
+"Drawing program" = "ɲɛgɛn taabolo. ";
+
+/* nothing */
+"Tux Paint" = "Pɛntiri Tukisi .";
+
+/* nothing */
+"Color Shift" = "ɲɛw yɛlɛmani";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Kilike i ka ɲinɛnin cɛɛnɛ walasa ka ja fan dɔw ɲɛ yɛlɛma.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Kilike walasa ka ja fan bɛɛ ɲɛ yɛlɛma.";
+
+/* nothing */
+"Blind" = "Kɛnɛ lankolon";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Kilike i ka ja dawolo dɔ kan walasa ka kɛnɛ lankolon dɔ sɔrɔ.";
+
+/* nothing */
+"Blocks" = "Kurukuruw ";
+
+/* nothing */
+"Chalk" = "Lakɛrɛ";
+
+/* nothing */
+"Drip" = "Toni";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja yɛlɛma k’a kɛ kurukuru misɛnniw ye";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja yɛlɛma k’a kɛ i ko a ɲɛgɛnna ni lakɛrɛ ye.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Kilike, i ka ja yɛlɛma k’a kɛ I ko nɔgɔlan bɔnnen b’a kan.";
+
+/* nothing */
+"Blur" = "ɲɛ malasali";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ɲɛgɛn kɛ ni tɛgɛ tilennenya ye";
+
+/* nothing */
+"Click to blur the entire image." = "Kilike i ka ɲinɛnin cɛɛnɛ walasa ka ja fan bɛɛ ɲɛ malasa.";
+
+/* nothing */
+"Bricks" = "Birikidenw";
+
+/* nothing */
+"Click and move to draw large bricks." = "Kilike i ka ɲinɛnin cɛɛnɛ ka birikiden kunba dɔw ɲɛgɛn.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Kilike i ka ɲinɛnin cɛɛnɛ ka biriden misɛnnin dɔw ɲɛgɛn. ";
+
+/* nothing */
+"Calligraphy" = "Tɛgɛtilennenya";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ɲɛgɛn kɛ ni tɛgɛtilennenya ya.";
+
+/* nothing */
+"Cartoon" = "Wɔkulɔnin";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Kilike, i ka ɲinɛnin munumunu walasa i ka ja ka yɛlɛma ka kɛ wɔkulɔnin ye.";
+
+/* nothing */
+"Confetti" = "Kɔnfeti (papiye ɲɛgɛnnen mɔlɔnkɔtɔlen)";
+
+/* nothing */
+"Click to throw confetti!" = "Kilike, i ka kɔnfɛtiw fili!";
+
+/* nothing */
+"Distortion" = "Ja cogoya yɛlɛmali.";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka cogoya dɔw yɛlɛma i ka ja la. ";
+
+/* nothing */
+"Emboss" = "ɲɛ sankɔrɔtali";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Kilike, I ka ɲinɛnin cɛɛnɛ walasa ka ja ɲɛ sankɔrɔta.";
+
+/* nothing */
+"Lighten" = "Lajɛyali";
+
+/* nothing */
+"Darken" = "Ladibili";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ walasa ka ja fan dɔw lajɛya.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Kilike, i ka ja fan bɛɛ ɲɛ lajɛya.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Kilike, ka ɲinɛnin cɛɛnɛ walasa ka ja fan dɔ ɲɛ ladibi.";
+
+/* nothing */
+"Click to darken your entire picture." = "Kilike, i ka ja fan bɛɛ ɲɛ ladibi. ";
+
+/* nothing */
+"Fill" = "Lafali";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Kilike ja kan, i k'i ka yɔrɔ sugantilen lafa ni ɲɛ dɔ ye. ";
+
+/* nothing */
+"Fisheye" = "Jɛgɛ ɲɛ";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Ja fan dɔ suganti, i k'o yɛlɛma k'o kɛ i ko jɛgɛ ɲɛ. ";
+
+/* nothing */
+"Flower" = "Fulɔri";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka fulɔri dɔ ɲɛgɛn. Taa a fɛ, ka ɲɛgɛn laban. ";
+
+/* nothing */
+"Foam" = "Kangaji";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Kilike, i ka ɲinɛnin cɛɛnɛ walasa ka ja fan dɔw lafa ni kangaji ye.";
+
+/* nothing */
+"Fold" = "Kuruli";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "ɲɛ dɔ suganti, ka kilike dogodogonin dɔ kan, walasa k’a kuru.";
+
+/* nothing */
+"Glass Tile" = "Wɛɛrɛ karo";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka wɛɛrɛ karo ɲɔgɔn kɛ ja fan dɔw la.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Kilike, i ka wɛɛrɛ karo ɲɔgɔn kɛ ja fan bɛɛ la. ";
+
+/* nothing */
+"Grass" = "Bin";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Kilike, i ka bin ja ɲɛgɛn. Kana ɲinɛ bɔgɔ kɔ!";
+
+/* nothing */
+"Symmetric Left/Right" = "simetiriki Kinin/Numan";
+
+/* nothing */
+"Symmetric Up/Down" = "Simetiriki Sanfɛ/Duguma";
+
+/* nothing */
+"Kaleidoscope" = "Kaleyidosikɔpu ";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ɲɛgɛn kɛ ni bɔrɔsi fila ye, bɔrɔsi minnu ye simetiriki ye i ka ja ɲɛgɛnta kinin n’a numan fɛ. ";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ɲɛgɛn kɛ ni bɔrɔsi fila ye, bɔrɔsi minnu ye simetiriki ye i ka ja ɲɛgɛnta sanfɛ n’a duguma";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ɲɛgɛn kɛ ni bɔrɔsi fila ye minnu ye simetiriki ye (i n'a fɔ kaleyidosikɔpu).";
+
+/* nothing */
+"Light" = "Yelen";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka yelen ɛrɛyɔn ɲɛgɛn.";
+
+/* nothing */
+"Metal Paint" = "Nɛgɛji";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Kilike, i ka ɲinɛnin cɛɛnɛ i ka pɛntiri kɛ ni nɛgɛji ye.";
+
+/* nothing */
+"Mirror" = "Dungare";
+
+/* nothing */
+"Flip" = "Turukunkanni";
+
+/* nothing */
+"Click to make a mirror image." = "Kilike, i ka ja filɛ i ko a bɛ ka bɔ dungare la. ";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Kilike, i ka ja yɛlɛma yɛlɛma sanfɛla ni dugumana cɛ.";
+
+/* nothing */
+"Mosaic" = "Mozayiki";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan dɔw kɛ mozayiki ye.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan bɛɛ kɛ mozayiki ye.";
+
+/* nothing */
+"Square Mosaic" = "Kare mozayiki";
+
+/* nothing */
+"Hexagon Mosaic" = "Ɛkizagoni mozayiki";
+
+/* nothing */
+"Irregular Mosaic" = "Mozayiki cogoya caman";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan dɔw kɛ kare mozayikiman ye.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan bɛɛ kɛ mozayiki ye.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan dɔw kɛ mozaki ye ani karo ɛkizakoniw.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Kilike, i ka ja fan bɛɛ kɛ mozayiki ye ani karo ɛkizagoniw.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan dɔw kɛ mozayiki cogoya caman ye.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Kilike, i ka ja fan bɛɛ kɛ mozayiki cogoya caman ye.";
+
+/* nothing */
+"Negative" = "Negatifu";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan dɔw kɛ negatifu ye.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Kilike, i ka ja fan bɛɛ kɛ negatifu ye.";
+
+/* nothing */
+"Noise" = "Parasitiw ";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ka ja fan dɔw kɛ parasitiw ye.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Kilike, i ka ja fan bɛɛ kɛ parasitiw ye.";
+
+/* nothing */
+"Perspective" = "Pɛrisipɛkitiwu";
+
+/* nothing */
+"Zoom" = "Bonyali ni dɔgɔyali";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Kilike dogodogonin dɔ kan, ka ɲinɛnin cɛɛnɛ ka ja kɛ pɛrisipɛkitiwu ye.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka taa duguma walasa ka ja dɔgɔya, walima ka taa sanfɛ walasa ka ja bonya. ";
+
+/* nothing */
+"Puzzle" = "Pizɔli";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "I bɛ fɛ ka ja fan min kɛ pizɔli ye, kilike o yɔrɔ kan.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Kilike ja kan walasa a bɛ ka kɛ pizɔli ye.";
+
+/* nothing */
+"Rails" = "Arayew";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ walasa ka arayew ɲɛgɛn i ka ja kan.";
+
+/* nothing */
+"Rainbow" = "Ala ka murujan";
+
+/* nothing */
+"You can draw in rainbow colors!" = "I bɛ se ka ɲɛgɛn kɛ ni Ala ka murujan ɲɛw ye.";
+
+/* nothing */
+"Rain" = "Sanji";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Kilike, i ka sanji toni toni dɔ kɛ i ka ja kan.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Kilike, i ka ja fan bɛɛ kɛ sanji toni toni ye.";
+
+/* nothing */
+"Real Rainbow" = "Ala ka murujan yɛrɛ.";
+
+/* nothing */
+"ROYGBIV Rainbow" = "Ala ka murujan lakika.";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "I bɛ fɛ Ala ka murujan ka daminɛ yɔrɔ min na ja kan, kilike o yɔrɔ kan, kalanin sama ka se fɔ i ɲɛnayɔrɔ la, i k'i kilikelen bɔ butɔn kan.";
+
+/* nothing */
+"Ripples" = "Jila kooriw ";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Kilike, i ka jila kooriw kɛ ja kan.";
+
+/* nothing */
+"Rosette" = "Rozasi";
+
+/* nothing */
+"Picasso" = "Pikaso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Kilike, i k'i ka rozasi ɲɛgɛnni daminɛ.";
+
+/* nothing */
+"You can draw just like Picasso!" = "I bɛ se ka ɲɛgɛn kɛ i ko pikaso b'a kɛ cogo min na.";
+
+/* nothing */
+"Edges" = "Dawolow";
+
+/* nothing */
+"Sharpen" = "Manuguyali";
+
+/* nothing */
+"Silhouette" = "Ja cogoya";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ walasa ka ja dafɛla dɔw ye.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Kilike walasa ka ja fan bɛɛ lajɛ.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan dɔw misɛnya.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan bɛɛ misɛnya.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Kilike, i ka ɲinɛnin cɛɛnɛ i ka ja fan dɔw kɛ finman ni jɛman ye.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Kilike i ka ja fan bɛɛ kɛ finman ni jɛman ye.";
+
+/* nothing */
+"Shift" = "Ja bɔli a nɔ na";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Kilike, i ka ja bɔ a nɔ na kadiri kɔnɔ.";
+
+/* nothing */
+"Smudge" = "Bagandajilaman";
+
+/* nothing */
+"Wet Paint" = "Pɛntiri kɛnɛ";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja kɛ i ko a kɛnɛ don.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja kɛ i ko a ɲiginnen n’a nɔgɔlen don. ";
+
+/* nothing */
+"Snow Ball" = "Sanbɛlɛnin";
+
+/* nothing */
+"Snow Flake" = "Sanbɛlɛninkulu";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Kilike I ka sanbɛlɛnin ɲɛgɛn k’i ka ja la.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Kilike, i ka sanbɛlɛninkulu k’i ka ja la.";
+
+/* nothing */
+"String edges" = "Fisɛliw (3)";
+
+/* nothing */
+"String corner" = "Fisɛliw (2)";
+
+/* nothing */
+"String 'V'" = "Fisɛliw (1)";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ciw kɛ. A samani o samani ka taa sanfɛ, dɔ bɛ fara ciw kan. N'i y'a sama ka taa kininfɛ walima numanfɛ, dɔ bɛ fara cɛmancɛ dingɛ bonya kan. ";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Kilike, i ka ɲinɛnin layaala ya ka dogodogonin tilennenw ci.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka kalakisɛw ci.";
+
+/* nothing */
+"Tint" = "ɲɛw";
+
+/* nothing */
+"Color & White" = "ɲɛ dɔ + jɛman na";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan dɔw yɛlɛma.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ɲɛ kɛ ja fan bɛɛ la. ";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka ja fan dɔw kɛ jɛman ye, ka fan dɔw kɛ ɲɛ wɛrɛ ye.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Kilike, i ka ja fan bɛɛ kɛ jɛman n'i sagola ɲɛ wɛrɛ ye.";
+
+/* nothing */
+"Toothpaste" = "Dako safunɛ";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka dako safunɛ seri seri ja kan. ";
+
+/* nothing */
+"Tornado" = "Fununfunun";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Kilike, i ka ɲinɛnin cɛɛnɛ ka fununfunu ɲɛgɛn i ka ja kan.";
+
+/* nothing */
+"TV" = "Telewisɔn";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Kilike i ka ɲinɛnin cɛɛnɛ k'i ka ja fan dɔw kɛ i ko u bɛ ka bɔ telewisɔn na. ";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Kilike, i k'a kɛ i ko i ka ja bɛ ka bɔ telewisɔn na. ";
+
+/* nothing */
+"Waves" = "Jijɔdingɛ";
+
+/* nothing */
+"Wavelets" = "Jijɔdingɛ misɛnniw";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Kilike i ka jijɔdingɛ dɔ kɛ i ka ja jɔjan fɛ. Kilike sanfɛ i ka jijɔdingɛ surunmanninw kɛ, i ka kilike duguma ka jijɔdingɛ jamanjaw kɛ. Kilike numanfɛ ka ka dɔ bɔ anpilitidi la, kilike kininfɛ ka dɔ fara anpilitidi kan.  ";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Kilike i ka jijɔdingɛ dɔ kɛ i ka ja jɔsurun fɛ.  Kilike sanfɛ i ka jijɔdingɛ surunmanninw kɛ, i ka kilike duguma ka jijɔdingɛ jamanjaw kɛ. Kilike numanfɛ ka ka dɔ bɔ anpilitidi la, kilike kininfɛ ka dɔ fara anpilitidi kan.  ";
+

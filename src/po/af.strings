@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: af\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2013-10-26 17:43+0900\nPO-Revision-Date: 2014-07-18 08:21+0200\nLast-Translator: Dawid van Wyngaard <dawid.vanwyngaard@gmail.com>\nLanguage-Team: translate-discuss-af@lists.sourceforge.net\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: af\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Poedit 1.6.6\n";
+
+/* nothing */
+"Black!" = "Swart!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Donker grys!";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Ligte grys!";
+
+/* nothing */
+"White!" = "Wit!";
+
+/* nothing */
+"Red!" = "Rooi!";
+
+/* nothing */
+"Orange!" = "Oranje!";
+
+/* nothing */
+"Yellow!" = "Geel!";
+
+/* nothing */
+"Light green!" = "Ligte groen!";
+
+/* nothing */
+"Dark green!" = "Donkergroen!";
+
+/* nothing */
+"Sky blue!" = "Hemelblou!";
+
+/* nothing */
+"Blue!" = "Blou!";
+
+/* nothing */
+"Lavender!" = "Laventel!";
+
+/* nothing */
+"Purple!" = "Pers!";
+
+/* nothing */
+"Pink!" = "Pienk!";
+
+/* nothing */
+"Brown!" = "Bruin!";
+
+/* nothing */
+"Tan!" = "Rooibruin!";
+
+/* nothing */
+"Beige!" = "Beige!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = ",.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{<(^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "<1>spaar-1a";
+
+/* nothing */
+"<1>spare-1b" = "<1>spaar-1b";
+
+/* nothing */
+"<9>spare-9a" = "<9>spaar-9a";
+
+/* nothing */
+"<9>spare-9b" = "<9>spaar-9b";
+
+/* nothing */
+"Great!" = "Mooi!";
+
+/* nothing */
+"Cool!" = "Oulik!";
+
+/* nothing */
+"Keep it up!" = "Hou so aan!";
+
+/* nothing */
+"Good job!" = "Mooi so!";
+
+/* nothing */
+"English" = "Engels";
+
+/* nothing */
+"Hiragana" = "Hiragana";
+
+/* nothing */
+"Katakana" = "Katakana";
+
+/* nothing */
+"Hangul" = "Hangul";
+
+/* nothing */
+"Thai" = "Thai";
+
+/* nothing */
+"ZH_TW" = "ZH_TW";
+
+/* nothing */
+"Square" = "Vierkant";
+
+/* nothing */
+"Rectangle" = "Reghoek";
+
+/* nothing */
+"Circle" = "Sirkel";
+
+/* nothing */
+"Ellipse" = "Ellips";
+
+/* nothing */
+"Triangle" = "Driehoek";
+
+/* nothing */
+"Pentagon" = "Vyfhoek";
+
+/* nothing */
+"Rhombus" = "Rombus";
+
+/* nothing */
+"Octagon" = "Agthoek";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "'n Vierkant is 'n reghoek met vier ewe lang kante.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "'n Reghoek het vier kante en vier regte hoeke.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "'n Sirkel is 'n kromme waar al die punte dieselfde afstand van die middel af is.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "'n Ellips is 'n uitgerekte sirkel.";
+
+/* nothing */
+"A triangle has three sides." = "'n Driehoek het drie kante.";
+
+/* nothing */
+"A pentagon has five sides." = "'n Vyfhoek het vyf kante.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "'n Rombus het 4 ewe lang kante en teenoorstaande kante is parallel.";
+
+/* nothing */
+"An octagon has eight equal sides." = "'n Agthoek het agt kante.";
+
+/* nothing */
+"Tools" = "Gereedskap";
+
+/* nothing */
+"Colors" = "Kleure";
+
+/* nothing */
+"Brushes" = "Kwasse";
+
+/* nothing */
+"Erasers" = "Uitveërs";
+
+/* nothing */
+"Stamps" = "Stempels";
+
+/* nothing */
+"Shapes" = "Vorms";
+
+/* nothing */
+"Letters" = "Letters";
+
+/* nothing */
+"Magic" = "Towerkuns";
+
+/* nothing */
+"Paint" = "Verf";
+
+/* nothing */
+"Stamp" = "Stempel";
+
+/* nothing */
+"Lines" = "Lyne";
+
+/* nothing */
+"Text" = "Teks";
+
+/* nothing */
+"Label" = "Etiket";
+
+/* nothing */
+"Undo" = "Ontdoen";
+
+/* nothing */
+"Redo" = "Herdoen";
+
+/* nothing */
+"Eraser" = "Uitveër";
+
+/* nothing */
+"New" = "Nuwe";
+
+/* nothing */
+"Open" = "Maak oop";
+
+/* nothing */
+"Save" = "Stoor";
+
+/* nothing */
+"Print" = "Druk";
+
+/* nothing */
+"Quit" = "Sluit af";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Kies 'n kleur en 'n kwasvorm om mee te verf.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Kies 'n prentjie om as 'n stempel te gebruik op die tekening.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Klik-en-hou om 'n lyn te begin teken en laat los om die lyn te voltooi.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Kies 'n vorm. Klik op die plek waar die middelpunt moet kom en sleep die rand tot die grootte wat jy wil hê. Beweeg rond om dit te draai en klik daarop om dit te teken.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Kies 'n styl vir die teks. Klik op die prent en begin tik. Druk [Enter] of [Tab] om die teks te voltooi.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Kies 'n styl vir die teks. Klik op die prent en begin tik. Druk [Enter] of [tab] om die teks te voltooi. Deur met die kiesknoppie op 'n bestaande etiket te klik, kan dit geskuif, geredigeer of die teksstyl verander word.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Kies 'n tower-effek om op die tekening te gebruik!";
+
+/* nothing */
+"Undo!" = "Ontdoen!";
+
+/* nothing */
+"Redo!" = "Herdoen!";
+
+/* nothing */
+"Eraser!" = "Uitveër!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Kies 'n kleur of prent om 'n nuwe tekening mee te begin.";
+
+/* nothing */
+"Open…" = "Maak oop…";
+
+/* nothing */
+"Your image has been saved!" = "Die prent is gestoor!";
+
+/* nothing */
+"Printing…" = "Besig om te druk…";
+
+/* nothing */
+"Bye bye!" = "Totsiens!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Los die knoppie om die lyn te voltooi.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Hou die knoppie om die vorm te rek.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Beweeg die muis om die vorm te draai. Klik om dit te teken.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Goed dan... Kom ons teken verder op hierdie een!";
+
+/* nothing */
+"Do you really want to quit?" = "Wil jy werklik afsluit?";
+
+/* nothing */
+"Yes, I’m done!" = "Ja, ek is klaar!";
+
+/* nothing */
+"No, take me back!" = "Nee, vat my terug!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "As jy ophou, sal jy die prent verloor. Wil jy dit eers bêre?";
+
+/* nothing */
+"Yes, save it!" = "Ja, stoor dit!";
+
+/* nothing */
+"No, don’t bother saving!" = "Nee, moenie stoor nie!";
+
+/* nothing */
+"Save your picture first?" = "Wil jy eers die prent stoor?";
+
+/* nothing */
+"Can’t open that picture!" = "Kan nie daardie prent oopmaak nie!";
+
+/* nothing */
+"OK" = "Goedso";
+
+/* nothing */
+"There are no saved files!" = "Daar is geen gestoorde lêers nie!";
+
+/* nothing */
+"Print your picture now?" = "Wil jy nou die prent laat druk?";
+
+/* nothing */
+"Yes, print it!" = "Ja, laat dit druk!";
+
+/* nothing */
+"Your picture has been printed!" = "Die prent is gedruk!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Jammer, die prent kon nie gedruk word nie!";
+
+/* nothing */
+"You can’t print yet!" = "Jy kan nog nie druk nie!";
+
+/* nothing */
+"Erase this picture?" = "Vee hierdie prent uit?";
+
+/* nothing */
+"Yes, erase it!" = "Ja, vee dit uit!";
+
+/* nothing */
+"No, don’t erase it!" = "Nee, moenie dit uitvee nie!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Onthou om die linker-muisknoppie te gebruik!";
+
+/* nothing */
+"Sound muted." = "Klank af.";
+
+/* nothing */
+"Sound unmuted." = "Klank aan.";
+
+/* nothing */
+"Please wait…" = "Wag asseblief…";
+
+/* nothing */
+"Erase" = "Vee uit";
+
+/* nothing */
+"Slides" = "Skyfies";
+
+/* nothing */
+"Back" = "Terug";
+
+/* nothing */
+"Next" = "Volgende";
+
+/* nothing */
+"Play" = "Speel";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Ja";
+
+/* nothing */
+"No" = "Nee";
+
+/* nothing */
+"Replace the picture with your changes?" = "Vervang die prent met jou veranderinge?";
+
+/* nothing */
+"Yes, replace the old one!" = "Ja, vervang die ou een!";
+
+/* nothing */
+"No, save a new file!" = "Nee, stoor 'n nuwe lêer!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Kies die prent wat jy wil hê en klik “Maak oop”.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Kies die prente wat jy wil hê en klik “Maak oop”.";
+
+/* nothing */
+"Pick a color." = "Kies 'n kleur.";
+
+/* nothing */
+"A drawing program for children." = "'n Tekenprogram vir kinders.";
+
+/* nothing */
+"Drawing program" = "Tekenprogram";
+
+/* nothing */
+"Tux Paint" = "Tux Verf";
+
+/* nothing */
+"Color Shift" = "Kleurverandering";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Klik en beweeg die muis om die kleure in 'n gedeelte van die prent te verander.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Klik om kleure in die hele prent te verander.";
+
+/* nothing */
+"Blind" = "Blinding";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Klik na aan die rand van die prent om vensterblindings oor dit te trek. Beweeg loodreg om die blindings oop of toe te maak.";
+
+/* nothing */
+"Blocks" = "Blokke";
+
+/* nothing */
+"Chalk" = "Bordkryt";
+
+/* nothing */
+"Drip" = "Drup";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Klik en beweeg die muis om die prent blokkerig te maak.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Klik en beweeg die muis om die prent te verander na 'n bordkryt-tekening.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Klik en beweeg die muis om die prent te laat afdrup.";
+
+/* nothing */
+"Blur" = "Verwaas";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Klik en beweeg die muis om die prent wasig te maak.";
+
+/* nothing */
+"Click to blur the entire image." = "Klik om die hele prent te wasig te maak.";
+
+/* nothing */
+"Bricks" = "Stene";
+
+/* nothing */
+"Click and move to draw large bricks." = "Klik en beweeg om groot stene te teken.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Klik en beweeg om klein stene te teken.";
+
+/* nothing */
+"Calligraphy" = "Kalligrafie";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Klik en beweeg die muis om met kalligrafie te teken.";
+
+/* nothing */
+"Cartoon" = "Cartoon";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Klik en beweeg die muis om die prent te verander na 'n cartoon.";
+
+/* nothing */
+"Confetti" = "Konfetti";
+
+/* nothing */
+"Click to throw confetti!" = "Klik om konfetti te strooi!";
+
+/* nothing */
+"Distortion" = "Distorsie";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Klik en sleep die muis om 'n distorsie in die prent te veroorsaak.";
+
+/* nothing */
+"Emboss" = "Embosseer";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Klik en sleep die muis om die prent te embosseer.";
+
+/* nothing */
+"Lighten" = "Maak ligter";
+
+/* nothing */
+"Darken" = "Maak donkerder";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Klik en beweeg die muis om gedeeltes van die prent ligter te maak.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Klik om die hele prent ligter te maak.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Klik en beweeg die muis om gedeeltes van die prent donkerder te maak.";
+
+/* nothing */
+"Click to darken your entire picture." = "Klik om die hele prent donkerder te maak.";
+
+/* nothing */
+"Fill" = "Opvul";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Klik in die prent om daardie area met kleur te vul.";
+
+/* nothing */
+"Fisheye" = "Visoog";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Klik iewers op die prent vir 'n visoog-lens-effek.";
+
+/* nothing */
+"Flower" = "Blom";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Klik en sleep om 'n blomsteel te teken. Laat los om die blom te voltooi.";
+
+/* nothing */
+"Foam" = "Skuim";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Klik en sleep die muis om in te kleur met seepborrels.";
+
+/* nothing */
+"Fold" = "Vou";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Kies 'n agtergrondkleur en klik dan om die hoek van die bladsy om te vou.";
+
+/* nothing */
+"Fretwork" = "Lys werk";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Klik en sleep om herhalende patrone te teken.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Klik om herhalende patrone om die prent te maak.";
+
+/* nothing */
+"Glass Tile" = "Glasteël";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Klik en sleep die muis om glasteëls oor die prent te plaas.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Klik om die hele prent met glasteëls te bedek.";
+
+/* nothing */
+"Grass" = "Gras";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Klik en beweeg om gras te teken. Moenie die grond vergeet nie!";
+
+/* nothing */
+"Halftone" = "Raster";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Klik en sleep om die prent na 'n koerant papier te verander.";
+
+/* nothing */
+"Symmetric Left/Right" = "Simmetries Links/Regs";
+
+/* nothing */
+"Symmetric Up/Down" = "Simmetries Op/Af";
+
+/* nothing */
+"Pattern" = "Patroon";
+
+/* nothing */
+"Tiles" = "Teels";
+
+/* nothing */
+"Kaleidoscope" = "Kaleidoskoop";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Klik en sleep die muis om met simmetriese kwasse te verf oor die linker- en regterkant van die prent.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Klik en sleep die muis om met simmetriese kwasse te verf oor die bo- en onderkant van die prent.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Klik en sleep die muis om 'n patroon oor die prent te teken.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Klik en sleep die muis om 'n patroon en sy simmetriese oor die prent te verf.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Klik en sleep die muis om met simmetriese kwasse te verf ('n kaleidoskoop).";
+
+/* nothing */
+"Light" = "Lig";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Klik en sleep om 'n ligstraal op die prent te teken.";
+
+/* nothing */
+"Metal Paint" = "Metaalverf";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Klik en sleep die muis om met metaalverf te verf.";
+
+/* nothing */
+"Mirror" = "Spieël";
+
+/* nothing */
+"Flip" = "Keer om";
+
+/* nothing */
+"Click to make a mirror image." = "Klik om 'n spieëlbeeld te maak.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Klik om die prent onderstebo te swaai.";
+
+/* nothing */
+"Mosaic" = "Mosaïek";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Klik en beweeg die muis om gedeeltes van die prent 'n mosaïek-effek te gee.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Klik om die hele prent 'n mosaïek-effek te gee.";
+
+/* nothing */
+"Square Mosaic" = "Vierkant-mosaïek";
+
+/* nothing */
+"Hexagon Mosaic" = "Seshoek-mosaïek";
+
+/* nothing */
+"Irregular Mosaic" = "Onreëlmatige mosaïek";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Klik en beweeg die muis om gedeeltes van die prent 'n vierkant-mosaïek-effek te gee.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Klik om die hele prent 'n vierkant-mosaïek-effek te gee.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Klik en beweeg die muis om gedeeltes van die prent 'n seshoek-mosaïek-effek te gee.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Klik om die hele prent 'n seshoek-mosaïek-effek te gee.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Klik en beweeg die muis om gedeeltes van die prent 'n onreëlmatige mosaïek-effek te gee.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Klik om die hele prent 'n onreëlmatige mosaïek-effek te gee.";
+
+/* nothing */
+"Negative" = "Negatief";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Klik en beweeg die muis om gedeeltes negatief te maak, met teenoorgestelde kleure.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Klik om die prent na sy negatief te verander.";
+
+/* nothing */
+"Noise" = "Geraas";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Klik en beweeg die muis om geraas (spikkels) op gedeeltes van die prent te maak.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Klik om geraas (spikkels) op die hele prent te maak.";
+
+/* nothing */
+"Perspective" = "Perspektief";
+
+/* nothing */
+"Zoom" = "Zoem";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Klik op die hoeke en sleep na waar jy die prent wil rek.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Klik en sleep die muis op om die prent in te zoem en sleep af om uit te zoem.";
+
+/* nothing */
+"Puzzle" = "Legkaart";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Klik en beweeg die muis om die prent rond te skuif op die verfdoek.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Klik om 'n legkaart in volskermmodus te maak.";
+
+/* nothing */
+"Rails" = "Treinspore";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Klik en sleep om treinspore op die prent te teken.";
+
+/* nothing */
+"Rain" = "Reën";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Klik om 'n reëndruppel op die prent te teken.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Klik om die prent vol reëndruppels te maak.";
+
+/* nothing */
+"Rainbow" = "Reënboog";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Jy kan met reënboogkleure teken!";
+
+/* nothing */
+"Real Rainbow" = "Regte reënboog";
+
+/* nothing */
+"ROYGBIV Rainbow" = "ROGGBIV-reënboog";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Klik waar die reënboog moet begin, en sleep dan die muis tot waar dit moet stop. As jy die knoppie los, word die reënboog geteken.";
+
+/* nothing */
+"Ripples" = "Rimpels";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Klik met muis om rimpels oor die prent te maak.";
+
+/* nothing */
+"Rosette" = "Roset";
+
+/* nothing */
+"Picasso" = "Picasso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Klik en teken 'n roset.";
+
+/* nothing */
+"You can draw just like Picasso!" = "Jy kan net soos Picasso teken!";
+
+/* nothing */
+"Edges" = "Rande";
+
+/* nothing */
+"Sharpen" = "Verskerp";
+
+/* nothing */
+"Silhouette" = "Silhoeët";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Klik en beweeg die muis om rande op te spoor in gedeeltes van die prent.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Klik om die hele prent se rande op te spoor.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Klik en beweeg die muis om gedeeltes van die prent skerper te maak.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Klik om die hele prent skerper te maak.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Klik en beweeg die muis om 'n swart en wit silhoeët te maak.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Klik om 'n swart en wit silhoeët van die hele prent te skep.";
+
+/* nothing */
+"Shift" = "Skuif";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Klik en sleep die muis om die prent rond te skuif op die verfdoek.";
+
+/* nothing */
+"Smudge" = "Smeer";
+
+/* nothing */
+"Wet Paint" = "Nat verf";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Klik en beweeg die muis om die prent te smeer.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Klik en beweeg die muis rond om met nat, smerige verf te teken.";
+
+/* nothing */
+"Snow Ball" = "Sneeubal";
+
+/* nothing */
+"Snow Flake" = "Sneeuvlokkie";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Klik om sneeuballe op die prent te maak.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Klik om sneeuvlokkies oor die prent te maak.";
+
+/* nothing */
+"String edges" = "Lynkuns kante";
+
+/* nothing */
+"String corner" = "Lynkuns hoek";
+
+/* nothing */
+"String 'V'" = "Lynkuns 'V'";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Klik en sleep die muis om lynkuns te teken. Sleep van bo na onder vir minder of meer lyne. Beweeg links of regs om 'n groter gat te maak.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Klik en sleep om pyltjies met lynkuns te teken.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Teken lynkunspyltjies met vry hoeke.";
+
+/* nothing */
+"Tint" = "Tint";
+
+/* nothing */
+"Color & White" = "Kleur & wit";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Klik en beweeg die muis om gedeeltes van die prent se kleure te verander.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Klik om die hele prent se kleure te verander.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Klik en beweeg die muis om gedeeltes van die prent te verander na wit en 'n kleur van jou keuse.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Klik om die hele prent te verander na wit en 'n kleur van jou keuse.";
+
+/* nothing */
+"Toothpaste" = "Tandepasta";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Klik en sleep die muis om tandepasta op die prent uit te druk.";
+
+/* nothing */
+"Tornado" = "Tornado";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Klik en sleep om 'n tornadotregter op die prent te teken.";
+
+/* nothing */
+"TV" = "TV";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Klik en sleep die muis dele van die prent te laat lyk asof dit op TV is.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Klik om die prent te laat lyk asof dit op TV is.";
+
+/* nothing */
+"Waves" = "Golwe";
+
+/* nothing */
+"Wavelets" = "Golfies";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Klik om die prent horisontaal te laat golf. Klik nader aan bo vir korter golwe, onder vir hoër golwe, links vir klein golfies en regs vir lang golwe.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Klik om die prent vertikaal te laat golf. Klik nader aan bo vir korter golwe, onder vir hoër golwe, links vir klein golfies en regs vir lang golwe.";
+
+/* nothing */
+"Xor Colors" = "Xor Kleure";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Klik en sleep om 'n XOR uitwerking te teken";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Klik om die hele prent 'n XOR utiwerking te gee";
+

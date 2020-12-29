@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: tuxpaint-i18n@lists.sourceforge.net\nPOT-Creation-Date: 2014-07-04 21:47+0200\nPO-Revision-Date: 2010-09-17 16:19+0200fu\nLast-Translator: none\nLanguage-Team: none\nLanguage: cgg\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n";
+
+/* nothing */
+"Black!" = "Nikiragura";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Siliva Ekwasire";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Siliva";
+
+/* nothing */
+"White!" = "Mutare";
+
+/* nothing */
+"Red!" = "Rwejungu";
+
+/* nothing */
+"Orange!" = "Kinekye";
+
+/* nothing */
+"Yellow!" = "Kinekye";
+
+/* nothing */
+"Light green!" = "kijubwe";
+
+/* nothing */
+"Dark green!" = "Kijubwe Ekwasire";
+
+/* nothing */
+"Sky blue!" = "Bururu";
+
+/* nothing */
+"Blue!" = "Bururu";
+
+/* nothing */
+"Lavender!" = "ya kikanaana";
+
+/* nothing */
+"Purple!" = "kakobe";
+
+/* nothing */
+"Pink!" = "Pinka";
+
+/* nothing */
+"Brown!" = "Kyakwera";
+
+/* nothing */
+"Tan!" = "Kyakwera etakwasire";
+
+/* nothing */
+"Beige!" = "Kitaka";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "o0";
+
+/* nothing */
+",.?!" = "???";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{<(^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "00";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "<1>spare-1a";
+
+/* nothing */
+"<1>spare-1b" = "<1>spare-1b";
+
+/* nothing */
+"<9>spare-9a" = "<9>spare-9a";
+
+/* nothing */
+"<9>spare-9b" = "<9>spare-9b";
+
+/* nothing */
+"Great!" = "Wakora";
+
+/* nothing */
+"Cool!" = "Nikirungi";
+
+/* nothing */
+"Keep it up!" = "Tabaruka";
+
+/* nothing */
+"Good job!" = "Wakora kurungi";
+
+/* nothing */
+"English" = "Orungyereza";
+
+/* nothing */
+"Hiragana" = "Orugyapaani";
+
+/* nothing */
+"Katakana" = "Orugyapaani orwanguhi";
+
+/* nothing */
+"Hangul" = "Orukoreya";
+
+/* nothing */
+"Thai" = "Orutai";
+
+/* nothing */
+"ZH_TW" = "Oruchaina";
+
+/* nothing */
+"Square" = "Kirikwingana hoona";
+
+/* nothing */
+"Rectangle" = "Nkemeza";
+
+/* nothing */
+"Circle" = "Nkenziga";
+
+/* nothing */
+"Ellipse" = "Nkeihuri";
+
+/* nothing */
+"Triangle" = "Ekyeshonda ishatu";
+
+/* nothing */
+"Pentagon" = "Ekyeshonda itano";
+
+/* nothing */
+"Rhombus" = "Ekyeshonda ina zihengami";
+
+/* nothing */
+"Octagon" = "Ekyeshonda munaana";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "EKirikwingana hoona ne nkemeza kwonka eshonda zilingana";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Nkemeza eine embaju ina, kwonka ibiri zonka zingana";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "Nkenziga ";
+
+/* nothing */
+"An ellipse is a stretched circle." = "";
+
+/* nothing */
+"A triangle has three sides." = "Ekyeshonda ishatu kyine embaju ishatu";
+
+/* nothing */
+"A pentagon has five sides." = "Ekyeshonda itano kyine embaju itano";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Ekyeshonda ina zihengami kyeine embaju ina, ibiri zitaribugana";
+
+/* nothing */
+"An octagon has eight equal sides." = "Ekyeshonda munana kyeine embaju munaana ezirikwingana";
+
+/* nothing */
+"Tools" = "Ebikozeso";
+
+/* nothing */
+"Colors" = "Erangi";
+
+/* nothing */
+"Brushes" = "Zaaburashi";
+
+/* nothing */
+"Erasers" = "Ebisanguzo";
+
+/* nothing */
+"Stamps" = "Ebinkumi";
+
+/* nothing */
+"Shapes" = "Endebeka";
+
+/* nothing */
+"Letters" = "Omukono";
+
+/* nothing */
+"Magic" = "Ebyamahano";
+
+/* nothing */
+"Paint" = "Siiga";
+
+/* nothing */
+"Stamp" = "Kinkumi";
+
+/* nothing */
+"Lines" = "Enyiriri";
+
+/* nothing */
+"Text" = "Eshuura";
+
+/* nothing */
+"Label" = "Handika";
+
+/* nothing */
+"Undo" = "Garuka Enyima";
+
+/* nothing */
+"Redo" = "Garukamu";
+
+/* nothing */
+"Eraser" = "Ekisanguzo";
+
+/* nothing */
+"New" = "Ekisya";
+
+/* nothing */
+"Open" = "Iguraho";
+
+/* nothing */
+"Save" = "Biika";
+
+/* nothing */
+"Print" = "Shohoza ahampapura";
+
+/* nothing */
+"Quit" = "Hunguka";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Tolana erangi naburasshi ebyorakozese okusiiga";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Torana akabonero ekyorakozese omu kisshushani ekyi ori kuteera";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Imata otandike omusitaari. Ihaho engaro omusitaari guhwe";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Ronda endebeka. Imata kandi okonde ahagati, kurura mpaka obu otunge sayizi eyorikwenda. Okyeetoroze reero imata okukiteera ";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Torana ekihandiiko. Imata ahakiiwateera obaase kuhandika. Nyiga [ENTER] nainga [TAB] okumaliliza.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Torana ekihandiiko. Imata ahakiiwateera obaase kuhandika. Nyiga [ENTER] nainga [TAB] okumaliliza. Waakozesa ebikozeso bye'byokugyenderaho, noobasa";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Kwata ekyamahano okikozese ahakiiwateera!";
+
+/* nothing */
+"Undo!" = "Kishazemu!";
+
+/* nothing */
+"Redo!" = "Kigarukemu!";
+
+/* nothing */
+"Eraser!" = "Ekisanguzo!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Ronda erangi nainga ekishushani kutandika ekisya.";
+
+/* nothing */
+"Open…" = "Iguraho...";
+
+/* nothing */
+"Your image has been saved!" = "Ekishushani kyawe kya biikwa!";
+
+/* nothing */
+"Printing…" = "Kirimu ku shohoza ahampapura...";
+
+/* nothing */
+"Bye bye!" = "Ogumeho!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Reka eipesha kumarayo omusitaari.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Guumizamu okwimata obone okuhangusya endebeka.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Sindika mawusi okwetoroza ekyakorwa. Imata okukiteera.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Kale mbwenu... Reka tugumizemu okuteera ekyi!";
+
+/* nothing */
+"Do you really want to quit?" = "Namazima nooyenda okuhinguka?";
+
+/* nothing */
+"Yes, I’m done!" = "Yeego, na'amara!";
+
+/* nothing */
+"No, take me back!" = "Ingaha, ongaruzeyo!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Ku orarugeho nooza kufeerwa ekishushani kyawe. Tukibiike?";
+
+/* nothing */
+"Yes, save it!" = "Yeego, kibiike!";
+
+/* nothing */
+"No, don’t bother saving!" = "Ingaha, otakibiika!";
+
+/* nothing */
+"Save your picture first?" = "Ekishushani kyawe kiibanze kiibiikwe?";
+
+/* nothing */
+"Can’t open that picture!" = "Ekishushani ekyo tikya baasa kwigurwa!";
+
+/* nothing */
+"OK" = "Kale";
+
+/* nothing */
+"There are no saved files!" = "Tihariho ebihandiko ebibibikirwe!";
+
+/* nothing */
+"Print your picture now?" = "Oshohoze ekishushani kywawe ahampapura?";
+
+/* nothing */
+"Yes, print it!" = "Yeego, kishohoze!";
+
+/* nothing */
+"Your picture has been printed!" = "Ekishushani kyawe kyateerwa!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Bambe! Ekishushani kyawe tikyateerwa!";
+
+/* nothing */
+"You can’t print yet!" = "Tokabaasa kushohoza ahampapura hati!";
+
+/* nothing */
+"Erase this picture?" = "Sangura ekishushani ekyi?";
+
+/* nothing */
+"Yes, erase it!" = "Yeego, kisangure!";
+
+/* nothing */
+"No, don’t erase it!" = "Ingaha, otakisangura!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Ijuka kunyiga mawusi ahabukono bwabumosho!";
+
+/* nothing */
+"Sound muted." = "Eiraka ryeihwamu.";
+
+/* nothing */
+"Sound unmuted." = "Eiraka tiryeihwamu.";
+
+/* nothing */
+"Please wait…" = "Orikazaara we, rindaho...";
+
+/* nothing */
+"Erase" = "Sangura";
+
+/* nothing */
+"Slides" = "Filiimu";
+
+/* nothing */
+"Back" = "Enyima";
+
+/* nothing */
+"Next" = "Ekindi";
+
+/* nothing */
+"Play" = "Zaana";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Yeego";
+
+/* nothing */
+"No" = "Apana";
+
+/* nothing */
+"Replace the picture with your changes?" = "Omumwanya gwekishushani tamu ebiwahindura?";
+
+/* nothing */
+"Yes, replace the old one!" = "Yeego, chusa ekikuru!";
+
+/* nothing */
+"No, save a new file!" = "Apaana, biika fayiro ensya!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Torana ekishushani kyorikwenda reero onyige \"Iguraho\".";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Torana ebishushani ebyorikwenda reero onyige \"Zaana\".";
+
+/* nothing */
+"Pick a color." = "Ihamu erangi.";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Drawing program" = "Akeire kukuteera ebishushani";
+
+/* nothing */
+"A drawing program for children." = "Akeire kabaana kuteera ebishushani.";
+
+/* nothing */
+"Color Shift" = "Chusa erangi";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Imata kandi otambuze mawusi kuhindura erangi omubicweka bye'kishushani.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Imata kuhindura erangi omukishushani kyona.";
+
+/* nothing */
+"Blind" = "Mpumi";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Imata haihi nomuheru gwekishushani ebicweka ebitarikureeba birugemu. Tambura ahaiguru, ahansi neinga omumbaju okwigura neinga orkukinga ebicweka ebindi.";
+
+/* nothing */
+"Blocks" = "Ebihigikizo";
+
+/* nothing */
+"Chalk" = "Einoni";
+
+/* nothing */
+"Drip" = "Kutonyooka";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Imata kandi oyetoroze mawusi okuhindura ekishushani kyawe obukuba nkekibihigikizo.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Imata kandi oyetoroze mawusi okuhindura ekishushani kyawe okuba nkeinoni.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Imata kandi oyetoroze mawusi okuhindura ekishushani kyawe okutonyooka.";
+
+/* nothing */
+"Blur" = "Okutarebekagye";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Imata kandi oyetoroze mawusi okuhindura ekishushani kyawe okutarebekagye.";
+
+/* nothing */
+"Click to blur the entire image." = "Imata okuhindura ekishushani okutarebekagye.";
+
+/* nothing */
+"Bricks" = "Amatafari";
+
+/* nothing */
+"Click and move to draw large bricks." = "Imata kandi oyetoroze mawusi okuteera amatafari amahango.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Imata kandi oyetoroze mawusi okuteera amatafari amakye.";
+
+/* nothing */
+"Calligraphy" = "Empandika enungi";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Imata kandi oyetoroze mawusi okuteera omumpandika enungi.";
+
+/* nothing */
+"Cartoon" = "Katuuni";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Imata kandi oyetoroze mawusi okuhindura ekishushani omu katuuni";
+
+/* nothing */
+"Confetti" = "Baluuni";
+
+/* nothing */
+"Click to throw confetti!" = "Imata okuzanisa baluuni";
+
+/* nothing */
+"Distortion" = "Ohindure";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Imata kandi okurure mawusi okuhindura ekishushani kyawe";
+
+/* nothing */
+"Emboss" = "Kora";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Imata kandi okurure mawusi okukora ekishushani kyawe";
+
+/* nothing */
+"Lighten" = "Kyakise";
+
+/* nothing */
+"Darken" = "Bikwatise";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Imata kandi okurure mawusi okwasya ekishushani kyawe";
+
+/* nothing */
+"Click to lighten your entire picture." = "Imata okwakise ekishushani kyona";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Imata kandi okurure mawusi okwatise ebicweka bye'kishushani ";
+
+/* nothing */
+"Click to darken your entire picture." = "Imata okwatise ekishushani kyona";
+
+/* nothing */
+"Fill" = "Ijuza";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Imata omukishushani okwijuza omumwanya ogwo erangi";
+
+/* nothing */
+"Fisheye" = "Akokureebesa";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Imata ahakacweka kekishushani otunge ahokureebera";
+
+/* nothing */
+"Flower" = "Ekimuli";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Imata kandi okurure oteere omukono gwekimuli. Reeka mawusi okumala ekimuli.";
+
+/* nothing */
+"Foam" = "Orufuro";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Imata kandi okurure mawusi kushweka omwanya ogurimu amatondo gorufuro.";
+
+/* nothing */
+"Fold" = "Zinga";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Torana erangi yiwakunda, imata kuhindura enshonda ya peegi.";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Imata kandi okurure oteere enyambi eyemikono.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Imata okushweka ekishushani kyawe namatondo genjura.";
+
+/* nothing */
+"Glass Tile" = "Tayilo za gilasi";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Imata kandi okurure mawusi okuteka tayilo za gilasi aha kishushani kyawe.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Imata oswheka kishushani kyawe kyona ne tayilo za gilasi.";
+
+/* nothing */
+"Grass" = "Obunyatsi";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Imata kandi okurure oteere ebinyatsi. Oteebwa oburofa!";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Imata okuhindura ekishushani kyawe kibe nka negatiivu";
+
+/* nothing */
+"Symmetric Left/Right" = "Ebirashwana bumosho/buryo";
+
+/* nothing */
+"Symmetric Up/Down" = "Ebirashwana ahaiguru/ahansi";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "Akantu karimu erangi nyningi";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Imata kandi okurure mawusi kuteera naza burashi ibiri ezirashwana omubusho bwekishushani kyawe no'buryo.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Imata kandi okurure mawusi kuteera naza burashi ibiri ezirashwana ahaiguru yekishushani kyawe nahansi.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Imata kandi okurure mawusi okukora ekishushani kyawe";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Imata kandi okurure mawusi kuteera naza burashi ibiri ezirashwana omubusho bwekishushani kyawe no'buryo.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Imata kandi okurure mawusi kuteera naza burashi ezirashwana (Akantu karimu erangi nyningi).";
+
+/* nothing */
+"Light" = "Ekyerereezi";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Imata kandi okurure kuteera amarangi gekyerereezi ahakishushani.";
+
+/* nothing */
+"Metal Paint" = "Erangi eri nkekyoma";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Imata kandi okurure mawusi okusiiga erangi eri nkekyoma";
+
+/* nothing */
+"Mirror" = "Endeberwamu";
+
+/* nothing */
+"Flip" = "Churama";
+
+/* nothing */
+"Click to make a mirror image." = "Imata okukora ekishushani nke'kiri omundeberwamu";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Imata okuchurama ekishushani ";
+
+/* nothing */
+"Mosaic" = "Ekishushani ekikozibwe na za gilaasi";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Imata kandi otambuze mawusi okuhindura ebicweeka bimwe byekishushani bibe nke ebishushani ebikozibwe na za gilaasi ";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Imata okuhindura ekishushani kyona kibe nke ebishushani ekikozibwe na za gilaasi";
+
+/* nothing */
+"Square Mosaic" = "Ekishushani kyeshonda ina ezilingana ekiri nke bishushani ekikozibwe na za gilaasi";
+
+/* nothing */
+"Hexagon Mosaic" = "Ekishushani kyeshonda munaana ezilingana ekiri nkebishushani ekikozibwe na za gilaasi";
+
+/* nothing */
+"Irregular Mosaic" = "Ekishushani kyeshonda ezitalingana ekiri nkekishushani ekikozibwe na za gilaasi";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Imata kandi otambuze mawusi okwongyera omubi cweeka bye'kishushani kyawe akantu akeshonda ina ezilingana akari nkekishushani ekikozibwe na za gilaasi.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Imata okwongyera omu kishushani kyona akantu akeshonda ina ezilingana akari nkekishushani ekikozibwe na za gilaasi.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Imata kandi otambuze mawusi okwongyera omubicweeka bye'kishushani kyawe akantu akeshonda mukaaga ezilingana akari nkekishushani ekikozibwe na za gilaasi.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Imata kandi otambuze mawusi okwongyera omukishushani kyona akantu akeshonda mukaaga ezilingana akari nkekishushani ekikozibwe na za gilaasi.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Imata kandi otambuze mawusi okwongyera omubi cweeka bye'kishushani kyawe akantu akeshonda ezitalingana akari nkekishushani ekikozibwe na za gilaasi.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Imata kandi otambuze mawusi okwongyera omukishushani kyona akantu akeshonda ezitalingana akari nkekishushani ekikozibwe na za gilaasi.";
+
+/* nothing */
+"Negative" = "Negativu";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Imata kandi otambuze mawusi okuhindura ekishushani kyawe kibe nka negatiivu ";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Imata okuhindura ekishushani kyawe kibe nka negatiivu";
+
+/* nothing */
+"Noise" = "Yiraguza";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Imata kandi otambuze mawusi okwiraguza ebicweeka bye'kishushani kyawe.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Imata okwiraguza ekishushani kyawe kyona.";
+
+/* nothing */
+"Perspective" = "Konkworiku";
+
+/* nothing */
+"Zoom" = "Hangusya";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Imata aha shonda zekishushani kandi okurure ahorenda nkoku nooyenda okukihangusya";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Imata kandi okurure ahaiguru kuhangusya nainga oshume kukikyendeza.";
+
+/* nothing */
+"Puzzle" = "Akazaano kebigambo";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Imata ekicweeka kyekishushani ahorenda akazaano kebigambo";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Imata okushweka komputa yoona n'akazaano kebigambo";
+
+/* nothing */
+"Rails" = "Obuziga bwegaari yomwika";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Imata kandi okurure kuteera obuziga bwegaari yomwika omukishushani kyawe.";
+
+/* nothing */
+"Rainbow" = "Omuhanganzima";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Noobasa kuteera omurangi zomuhanganzima";
+
+/* nothing */
+"Rain" = "Enjura";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Imata okuta eitondo ryenjura omukishushani kyawe.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Imata okushweka ekishushani kyawe namatondo genjura.";
+
+/* nothing */
+"Real Rainbow" = "Omuhanganzima gwenyini";
+
+/* nothing */
+"ROYGBIV Rainbow" = "Omuhanganzima ROYGBIV ";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Imata ahorikwenda omuhanganzima gutandikire, kurura kuhisya ahu orikwenda guhike reero tandika oteere omuhanganzima";
+
+/* nothing */
+"Ripples" = "Ebingonzi";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Imata kureetaho ebingonzi birebekye omu kishushani kyawe.";
+
+/* nothing */
+"Rosette" = "Akabonero kari nkekimuri";
+
+/* nothing */
+"Picasso" = "Picasso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Imata reero otandike kuteera akabonero akari nkekimuri";
+
+/* nothing */
+"You can draw just like Picasso!" = "Noobasa okuteera nka Picasso!";
+
+/* nothing */
+"Edges" = "Ahamuheeru gwekintu";
+
+/* nothing */
+"Sharpen" = "Shongora";
+
+/* nothing */
+"Silhouette" = "Omwirima ndindidi";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Imata kandi otanbuze mawusi oboone .... omukishushani kyawe. ";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Imata kandi otanbuze mawusi kushongora ebicweeka bye'kishushani kyawe. ";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Imata kushongora ekishushani kyona.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Imata kandi otambuze mawusi kureetaho omurima ndindidi";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Imata okureetaho omurima ndindidi omukishushani kyona.";
+
+/* nothing */
+"Shift" = "Furuka";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Imata kandi okurure ekishushani kyawe okukifurura.";
+
+/* nothing */
+"Smudge" = "Norofakaza";
+
+/* nothing */
+"Wet Paint" = "Erangi embisi";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Imata kandi otambuze mawusi ogyetoroze orikurofakaza ekishushani.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Imata kandi otambuze mawusi ogyetoroze oteere nerangi embisi.";
+
+/* nothing */
+"Snow Ball" = "Omupiira gwo'rubaare.";
+
+/* nothing */
+"Snow Flake" = "Akajuma ko'rubaare.";
+
+/* nothing */
+"Click to add snow balls to your picture." = "imata okwongyera omukishushani kyawe omupiira gwo'rubaare.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Imata okwongyera omukishushani kyawe akajuma ko'rubaare.";
+
+/* nothing */
+"String edges" = "Embaju ze'bigambo";
+
+/* nothing */
+"String corner" = "Eshonda ze'bigambo";
+
+/* nothing */
+"String 'V'" = "Ekigambo 'V'";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Imata kandi okurure oteere ebyemikono. Kurura kuruga ahamutwe kuhika ahansi kuteera emisitari inche nainga nyingi; bumusho nainga buryo otungye ekiina kihango.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Imata kandi okurure oteere enyambi eyemikono.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Teera enyambi eyemikono neshonda zitasimbire.";
+
+/* nothing */
+"Tint" = "Erangi yokuhindura erangi eyindi";
+
+/* nothing */
+"Color & White" = "Erangi na mutare";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Imata kandi oyetoroze mawusi okuhindura erangi yebicweeka byekishushani kyawe.";
+
+/* nothing */
+"Click to change the color of your entire picture." = " Imata okuhindura erangi yekishushani kyawe ";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Imata kandi oyetoroze mawusi okuhindura ebicweeka byekishushani kyawe kubihindura mutare nerangi endijo eyoratorane. ";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Imata okuhindura ekishushani kyona kukihindura mutare nerangi endijo eyoratorane.";
+
+/* nothing */
+"Toothpaste" = "Omubazi gwamaino";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Imata kandi oyetoroze mawusi kushuka namaani omubazi gwamaino omukishushani kyawe.";
+
+/* nothing */
+"Tornado" = "Akasoroora";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Imata kandi okurure okuteera akasorrora kari nkomubiritizi omukishushani kyawe.";
+
+/* nothing */
+"TV" = "Tiivi";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Imata kandi okurure okuhindura ebicweeka byekishushani kyawe kurebeka nke biri aha tiivi.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Imata okuhindura ekishushani kyawe kyona kurebeka nke kiri aha tiivi. ";
+
+/* nothing */
+"Waves" = "Ebingonzi";
+
+/* nothing */
+"Wavelets" = "Ebirenzingamu";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Imata oretere ekishushani kyezingemu omubukiika. Imata haihi nahamutwe otunge ebirezingamu bigufu, haihi na'hansi otunge ebirezingamu ebiche, kandi obumosho okutunga ebirenzingamu ebilingwa.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Imata oretere ekishushani kyezingemu omubukiika. Imata haihi nahamutwe otunge ebirezingamu bigufu, haihi na'hansi otunge ebirezingamu ebiche, kandi obumosho okutunga ebirenzingamu ebilingwa.";
+
+/* nothing */
+"Xor Colors" = "Erangi";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Imata kandi okurure oteere enyambi eyemikono.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Imata okuhindura ekishushani kyona kibe nke ebishushani ekikozibwe na za gilaasi";
+

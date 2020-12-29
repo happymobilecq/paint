@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2014-06-03 21:03+0200\nPO-Revision-Date: 2014-06-08 01:05+0200\nLast-Translator: Juan Pablo <juanpabl@gmail.com>\nLanguage-Team: softaragonés\nLanguage: an\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n != 1);\nX-Generator: Virtaal 0.7.1\n";
+
+/* nothing */
+"Black!" = "Negra!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Grisa fosca!";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Grisa clara!";
+
+/* nothing */
+"White!" = "Blanca!";
+
+/* nothing */
+"Red!" = "Roya!";
+
+/* nothing */
+"Orange!" = "Narancha!";
+
+/* nothing */
+"Yellow!" = "Amariella!";
+
+/* nothing */
+"Light green!" = "Verda clara!";
+
+/* nothing */
+"Dark green!" = "Verda fosca!";
+
+/* nothing */
+"Sky blue!" = "Azul ciel!";
+
+/* nothing */
+"Blue!" = "Azul!";
+
+/* nothing */
+"Lavender!" = "Espigol!";
+
+/* nothing */
+"Purple!" = "Morada!";
+
+/* nothing */
+"Pink!" = "Rosa!";
+
+/* nothing */
+"Brown!" = "Marrón!";
+
+/* nothing */
+"Tan!" = "Canela!";
+
+/* nothing */
+"Beige!" = "Beige!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = ",.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{<(^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "<1>spare-1a";
+
+/* nothing */
+"<1>spare-1b" = "<1>spare-1b";
+
+/* nothing */
+"<9>spare-9a" = "<9>spare-9a";
+
+/* nothing */
+"<9>spare-9b" = "<9>spare-9b";
+
+/* nothing */
+"Great!" = "Muit bien!";
+
+/* nothing */
+"Cool!" = "Chenial!";
+
+/* nothing */
+"Keep it up!" = "Sigue asinas!";
+
+/* nothing */
+"Good job!" = "Buen treballo!";
+
+/* nothing */
+"English" = "Anglés";
+
+/* nothing */
+"Hiragana" = "Hiragana (chaponés)";
+
+/* nothing */
+"Katakana" = "Katakana (chaponés)";
+
+/* nothing */
+"Hangul" = "Hangul (coreán)";
+
+/* nothing */
+"Thai" = "Tailandés";
+
+/* nothing */
+"ZH_TW" = "ZH_TW";
+
+/* nothing */
+"Square" = "Quadrau";
+
+/* nothing */
+"Rectangle" = "Rectanglo";
+
+/* nothing */
+"Circle" = "Cerclo";
+
+/* nothing */
+"Ellipse" = "Elipse";
+
+/* nothing */
+"Triangle" = "Trianglo";
+
+/* nothing */
+"Pentagon" = "Pentagono";
+
+/* nothing */
+"Rhombus" = "Rombo";
+
+/* nothing */
+"Octagon" = "Octagono";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Un quadrau ye un rectanglo con os quatro costaus iguals.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Un rectanglo tiene quatro costaus y quatro anglos rectos.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "A circumferencia ye una linia curva que totz os suyos puntos se troban a la mesma distancia d'o centro.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "Una elipse ye un cerclo esclafau.";
+
+/* nothing */
+"A triangle has three sides." = "Un trianglo tiene tres costaus.";
+
+/* nothing */
+"A pentagon has five sides." = "Un pentágono tiene cinco costaus.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Un rombo tiene quatro costaus iguals y os suyos costaus opuestos son paralelos.";
+
+/* nothing */
+"An octagon has eight equal sides." = "Un octagono tiene ueito costaus iguals.";
+
+/* nothing */
+"Tools" = "Ferramientas";
+
+/* nothing */
+"Colors" = "Colors";
+
+/* nothing */
+"Brushes" = "Pincels";
+
+/* nothing */
+"Erasers" = "Gomas";
+
+/* nothing */
+"Stamps" = "Siellos";
+
+/* nothing */
+"Shapes" = "Formas";
+
+/* nothing */
+"Letters" = "Letras";
+
+/* nothing */
+"Magic" = "Machia";
+
+/* nothing */
+"Paint" = "Pintura";
+
+/* nothing */
+"Stamp" = "Siello";
+
+/* nothing */
+"Lines" = "Linias";
+
+/* nothing */
+"Text" = "Texto";
+
+/* nothing */
+"Label" = "Etiqueta";
+
+/* nothing */
+"Undo" = "Desfer";
+
+/* nothing */
+"Redo" = "Refer";
+
+/* nothing */
+"Eraser" = "Goma";
+
+/* nothing */
+"New" = "Nuevo";
+
+/* nothing */
+"Open" = "Ubrir";
+
+/* nothing */
+"Save" = "Alzar";
+
+/* nothing */
+"Print" = "Imprentar";
+
+/* nothing */
+"Quit" = "Salir";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Triga una color y un pincel ta dibuixar.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Triga un siello ta estampar en o tuyo dibuixo.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Fe clic con o ratet ta empecipiar a dibuixar una linia; solta-lo ta completar-la.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Triga una forma. Fe clic ta trigar a ón será o centro; arrociega o cursor y suelta o ratet quan tiengas a grandaria que quiers. Mueve o cursor ta rotar-la y fe clic ta dibuixar-la.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Triga un estilo de texto. Fe clic en o tuyo dibuixo ta empecipiar a escribir. Preta [Enter] u [Tab] quan haigas rematau d'escribir.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Triga un estilo de texto. Fe clic y prencipia a escribir. Presiona [Enter] u [Tab] quan remates. Puetz editar-lo, mover-lo y cambiar-ne o estilo trigando-lo con o ratet.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Triga uno d'os efectos machicos ta fer-lo servir en o tuyo dibuixo!";
+
+/* nothing */
+"Undo!" = "Desfer-lo!";
+
+/* nothing */
+"Redo!" = "Tornar a fer-lo!";
+
+/* nothing */
+"Eraser!" = "Goma de borrar!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Triga una color u un dibuixo ta prencipiar a dibuixar.";
+
+/* nothing */
+"Open…" = "Ubrindo…";
+
+/* nothing */
+"Your image has been saved!" = "S'ha alzau a tuya imachen!";
+
+/* nothing */
+"Printing…" = "Imprentando…";
+
+/* nothing */
+"Bye bye!" = "Dica luego!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Suelta o ratet ta completar a linia.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Mantiene pretau o botón ta estirar a forma.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Mueve o ratet ta rotar a forma. Fe clic ta dibuixar-la.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Muit bien... A seguir dibuixando!";
+
+/* nothing */
+"Do you really want to quit?" = "De verdat que quiers ir-te-ne?";
+
+/* nothing */
+"Yes, I’m done!" = "Sí, ya ye prou por agora!";
+
+/* nothing */
+"No, take me back!" = "No, quiero tornar!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Si te vas, perderás o tuyo dibuixo, lo quiers alzar?";
+
+/* nothing */
+"Yes, save it!" = "Sí, alza-lo!";
+
+/* nothing */
+"No, don’t bother saving!" = "No, m'importa igual!";
+
+/* nothing */
+"Save your picture first?" = "Quiers alzar antes o tuyo dibuixo?";
+
+/* nothing */
+"Can’t open that picture!" = "No puetz ubrir ixe dibuixo!";
+
+/* nothing */
+"OK" = "Acceptar";
+
+/* nothing */
+"There are no saved files!" = "No i hai garra documento alzaus!";
+
+/* nothing */
+"Print your picture now?" = "Quiers imprentar agora o tuyo dibuixo?";
+
+/* nothing */
+"Yes, print it!" = "Sí, imprenta-lo!";
+
+/* nothing */
+"Your picture has been printed!" = "O tuyo dibuixo s'ha imprentau.";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Vai, ya lo siento! No s'ha puesto imprentar o tuyo dibuixo.";
+
+/* nothing */
+"You can’t print yet!" = "No puetz tornar a imprentar encara!";
+
+/* nothing */
+"Erase this picture?" = "Quiers borrar iste dibuixo?";
+
+/* nothing */
+"Yes, erase it!" = "Sí, borra-lo!";
+
+/* nothing */
+"No, don’t erase it!" = "No! No lo borres!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Fe servir o botón cucho d'o ratet!";
+
+/* nothing */
+"Sound muted." = "O son ye desactivau.";
+
+/* nothing */
+"Sound unmuted." = "O son ye activau.";
+
+/* nothing */
+"Please wait…" = "Aguarda un poquet…";
+
+/* nothing */
+"Erase" = "Borrar";
+
+/* nothing */
+"Slides" = "Diapositivas";
+
+/* nothing */
+"Back" = "Anterior";
+
+/* nothing */
+"Next" = "Siguient";
+
+/* nothing */
+"Play" = "Reproducir";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Sí";
+
+/* nothing */
+"No" = "No";
+
+/* nothing */
+"Replace the picture with your changes?" = "Quiers reemplazar o dibuixo con os tuyos cambeos?";
+
+/* nothing */
+"Yes, replace the old one!" = "Sí, substituye-lo!";
+
+/* nothing */
+"No, save a new file!" = "No, alza un documento nuevo!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Triga o dibuixo que quieras y dimpués fe clic en \"Ubrir\".";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Triga o dibuixo que quiera y dimpués fe clic en \"Reproducir\".";
+
+/* nothing */
+"Pick a color." = "Triga una color.";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Drawing program" = "Un programa de dibuixo";
+
+/* nothing */
+"A drawing program for children." = "Un programa de dibuixo ta ninos.";
+
+/* nothing */
+"Color Shift" = "Cambiar de color";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Fe clic y mueve o ratet ta cambiar as colors en qualsiquier parte d'o tuyo dibuixo.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Fe clic ta cambiar as colors de tot o dibuixo.";
+
+/* nothing */
+"Blind" = "Persianas";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Fe clic en un canto d'a imachen ta dibuixar persianas. Mueve o ratet perpendicularment ta ubrir-las u zarrar-las.";
+
+/* nothing */
+"Blocks" = "Quadretz";
+
+/* nothing */
+"Chalk" = "Clarión";
+
+/* nothing */
+"Drip" = "Gotiar";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Fe clic y mueve o ratet ta quadricular a imachen.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Fe clic y mueve o ratet ta que o dibuixo pareixca feito con clarión.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Fe clic y mueve o ratet ta fer gotiar o dibuixo.";
+
+/* nothing */
+"Blur" = "Difuminar";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Fe clic y mueve o ratet ta difuminar o dibuixo.";
+
+/* nothing */
+"Click to blur the entire image." = "Fe clic ta difuminar tot o dibuixo.";
+
+/* nothing */
+"Bricks" = "Ladrillos";
+
+/* nothing */
+"Click and move to draw large bricks." = "Fe clic y mueve o ratet ta dibuixar ladrillos grans.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Fe clic y mueve o ratet ta dibuixar ladrillos chicotz.";
+
+/* nothing */
+"Calligraphy" = "Caligrafía";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Fe clic y mueve o ratet ta dibuixar en modo caligrafía.";
+
+/* nothing */
+"Cartoon" = "Comic";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Fe clic y mueve o ratet ta que o tuyo dibuixo se veiga como en un comic.";
+
+/* nothing */
+"Confetti" = "Confeti";
+
+/* nothing */
+"Click to throw confetti!" = "Lanza confeti fendo clic con o ratet!";
+
+/* nothing */
+"Distortion" = "Distorsión";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Fe clic y arrociega o ratet ta distorsionar o tuyo dibuixo.";
+
+/* nothing */
+"Emboss" = "Relieu";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Fe clic y arrociega o ratet ta dar-le relieu a o tuyo dibuixo.";
+
+/* nothing */
+"Lighten" = "Aclarir";
+
+/* nothing */
+"Darken" = "Escurir";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Fe clic y mueve o ratet ta aclarir bellas partes d'o tuyo dibuixo.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Fe clic ta aclarir tot o dibuixo.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Fe clic ta escurir bellas partes d'o tuyo dibuixo.";
+
+/* nothing */
+"Click to darken your entire picture." = "Fe clic ta escurir tot o dibuixo.";
+
+/* nothing */
+"Fill" = "Replenar";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Fe clic en o dibuixo ta replenar un aria de color.";
+
+/* nothing */
+"Fisheye" = "Uello de peix";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Fe clic en qualsiquier parte d'o tuyo dibuixo ta creyar-ie un efecto de uello de peix.";
+
+/* nothing */
+"Flower" = "Flor";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Fe clic y arrociega o ratet ta dibuixar o tallo d'a flor. Solta-lo ta rematar a flor.";
+
+/* nothing */
+"Foam" = "Esbruma";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Fe clic y arrociega o ratet ta creyar bambollas de sabón.";
+
+/* nothing */
+"Fold" = "Doblar";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Esleye una color de fondo y fe clic ta entornar una d'as cantonadas d'a fuella.";
+
+/* nothing */
+"Fretwork" = "Marquetería";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Fe clic y arrociega ta dibuixar patrons repetitivos.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Fe clic ta rodiar o dibuixo con patrons repetitivos.";
+
+/* nothing */
+"Glass Tile" = "Rechola";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Fe clic y arrociega o ratet ta meter recholas sobre o tuyo dibuixo.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Fe clic ta emplir o tuyo dibuixo de recholas.";
+
+/* nothing */
+"Grass" = "Hierba";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Fe clic y mueve o ratet ta dibuixar hierba. No t'ixuplides d'a tierra!";
+
+/* nothing */
+"Halftone" = "Semitonos";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Fe clic y arrociega ta tornar o tuyo dibuixo en un periodico.";
+
+/* nothing */
+"Symmetric Left/Right" = "Simetrico zurda/dreita";
+
+/* nothing */
+"Symmetric Up/Down" = "Simetrico alto/abaixo";
+
+/* nothing */
+"Pattern" = "Patrón";
+
+/* nothing */
+"Tiles" = "Recholas";
+
+/* nothing */
+"Kaleidoscope" = "Caleidoscopio";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Fe clic y arrociega o ratet ta dibuixar con dos pincels simetricos con respecto a la zurda y dreita d'o tuyo dibuixo.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Fe clic y arrociega o ratet ta dibuixar con dos pincels simetricos con respecto a l'alto y l'abaixo d'o tuyo dibuixo.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Fe clic y arrociega o ratet ta dibuixar patrons sobre tot o dibuixo.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Fe clic y arrociega o ratet ta dibuixar un patrón y o suyo simetrico sobre tot o dibuixo.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Fe clic y arrociega o ratet ta dibuixar con pinceles simetricos (como en un caleidoscopio).";
+
+/* nothing */
+"Light" = "Luz";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Fe clic y arrociega o ratet ta dibuixar un rayo de luz.";
+
+/* nothing */
+"Metal Paint" = "Pintura metalica";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Fe clic y arrociega o ratet ta pintar con una color metalizada.";
+
+/* nothing */
+"Mirror" = "Espiello";
+
+/* nothing */
+"Flip" = "Voltiar";
+
+/* nothing */
+"Click to make a mirror image." = "Fe clic ta chirar a tuya imachen en horizontal.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Fe clic ta chirar a tuya imachen en vertical.";
+
+/* nothing */
+"Mosaic" = "Mosaico";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Fe clic y mueve o ratet ta adhibir un efecto de mosaico en bella parte d'o tuyo dibuixo.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Fe clic ta aconseguir un efecto de mosaico en tot o dibuixo.";
+
+/* nothing */
+"Square Mosaic" = "Mosaico quadrau";
+
+/* nothing */
+"Hexagon Mosaic" = "Mosaico hexagonal";
+
+/* nothing */
+"Irregular Mosaic" = "Mosaico irregular";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Fe clic y mueve o ratet ta aconsegui un efecto de mosaico quadrau en bella parte d'o tuyo dibuixo.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Fe clic ta aconseguir un efecto de mosaico quadrau en tot o dibuixo.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Fe clic y mueve o ratet ta aconseguir un efecto de mosaico hexagonal en bella parte d'o tuyo dibuixo.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Fe clic ta aconseguir un efecto de mosaico hexagonal en tot o dibuixo.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Fe clic y mueve o ratet ta aconseguir un mosaico irregular en partes d'o dibuixo.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Fe clic ta aconseguir un efecto de mosaico irregular en tot o dibuixo.";
+
+/* nothing */
+"Negative" = "Negativo";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Fe clic y mueve o ratet ta veyer bella parte d'o tuyo dibuixo en negativo.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Fe clic ta veyer o tuyo dibuixo en negativo.";
+
+/* nothing */
+"Noise" = "Rudio";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Fe clic y mueve o ratet ta adhibir rudio a distintas partes d'o tuyo dibuixo.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Fe clic ta adhibir ruido a tot o dibuixo.";
+
+/* nothing */
+"Perspective" = "Perspectiva";
+
+/* nothing */
+"Zoom" = "Zoom";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Fe clic en as cantonadas y arrociega o cursor ta estirar o dibuixo.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Fe clic y arrociega o ratet ta amanar u aluenyar o dibuixo.";
+
+/* nothing */
+"Puzzle" = "Puzle";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Fe clic en a parte d'o dibuixo que quiers que se veiga como un puzle.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Fe clic ta convertir en un puzle tot d'o dibuixo.";
+
+/* nothing */
+"Rails" = "Vías";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Fe clic y arrociega ta dibuixar vías de tren en o tuyo dibuixo.";
+
+/* nothing */
+"Rainbow" = "Arco de Sant Chuan";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Puetz dibuixar en as colors de l'arco de Sant Chuan!";
+
+/* nothing */
+"Rain" = "Plevia";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Fe clic ta dibuixar una gota de plevia en o tuyo dibuixo.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Fe clic ta emplir o tuyo dibuixo con gotas de plevia.";
+
+/* nothing */
+"Real Rainbow" = "Arco de Sant Chuan real";
+
+/* nothing */
+"ROYGBIV Rainbow" = "Arco de Sant Chuan";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Fe clic an que quiers que prencipie o tuyo arco de Sant Chuan; arrociega y dimpués suelta o ratet.";
+
+/* nothing */
+"Ripples" = "Ondas";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Fe clic ta dibuixar ondas en o tuyo dibuixo.";
+
+/* nothing */
+"Rosette" = "Roseta";
+
+/* nothing */
+"Picasso" = "Picasso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Fe clic y empecipia a dibuixar a tuya roseta.";
+
+/* nothing */
+"You can draw just like Picasso!" = "Puetz pintar igual que Picasso!";
+
+/* nothing */
+"Edges" = "Cantos";
+
+/* nothing */
+"Sharpen" = "Enfocar";
+
+/* nothing */
+"Silhouette" = "Silueta";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Fe clic y mueve o ratet ta perfilar os cantos en bella parte d'o dibuixo.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Fe clic ta perfilar os cantos de tot o dibuixo.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Fe clic y mueve o ratet ta enfocar bella parte d'o tuyo dibuixo.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Fe clic ta enfocar tot o dibuixo.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Fe clic y mueve o ratet ta creyar siluetas en blanco y negro.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Fe clic ta que o tuyo dibuixo se veiga en blanco y negro.";
+
+/* nothing */
+"Shift" = "Desplazar";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Fe clic ta mover o dibuixo sobre o lienzo.";
+
+/* nothing */
+"Smudge" = "Difuminar";
+
+/* nothing */
+"Wet Paint" = "Pintura humida";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Fe clic y mueve o ratet ta difuminar o tuyo dibuixo.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Fe clic y mueve o ratet ta dibuixar con pintura humida.";
+
+/* nothing */
+"Snow Ball" = "Bola de nieu";
+
+/* nothing */
+"Snow Flake" = "Floco de nieu";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Fe clic ta dibuixar bolas de nieu.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Fe clic ta dibuixar copos de nieu.";
+
+/* nothing */
+"String edges" = "Filograma";
+
+/* nothing */
+"String corner" = "Filograma 90º";
+
+/* nothing */
+"String 'V'" = "Filograma en V";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Fe clic y arrociega ta dibuixar un filograma. Arrociega o cursor enta alto u enta baixo ta creyar mas u menos linias, y enta a zurda u a dreita ta controlar a grandaria d'o forau central.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Fe clic y arrociega o ratet ta dibuixar filogramas en anglo recto.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Dibuixa filogramas de distintos anglos.";
+
+/* nothing */
+"Tint" = "Tintar";
+
+/* nothing */
+"Color & White" = "Color y blanco";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Fe clic y mueve o ratet ta cambiar a color en bella parte d'o tuyo dibuixo.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Fe clic ta cambiar a color de tot o tuyo dibuixo.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Fe clic y mueve o ratet ta que bella parte d'o tuyo dibuixo amaneixca en blanco y a color que tu trigues.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Fe clic ta que o tuyo dibuixo amaneixca en blanco y a color que tu trigues.";
+
+/* nothing */
+"Toothpaste" = "Pasta de dients";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Fe clic y arrociega ta extender a pasta de dientes por o tuyo dibuixo.";
+
+/* nothing */
+"Tornado" = "Tornado";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Fe clic y arrociega o ratet ta dibuixar un tornado.";
+
+/* nothing */
+"TV" = "TV";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Fe clic y arrociega o ratet ta fer que bella parte d'o tuyo dibuixo se veigan como en a televisión.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Fe clic ta que tot o tuyo dibuixo se veiga como en a televisión.";
+
+/* nothing */
+"Waves" = "Ondas";
+
+/* nothing */
+"Wavelets" = "Ondular";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Fe clic ta fer que dibuixo quede ondulau horizonalment. Fe clic en o cobalto ta obtener ondetas mas curtas, y en o cobaixo ta que sían mas largas, en la zurda ta que sían mas chicotas y a la dreita ta que sían mas grans.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Fe clic ta que o dibuixo quede ondulau verticalment. Fe clic alto ta obtener ondas mas curtas, abaixo ta que sían mas largas, a la zurda ta que sían mas chicotas y a la dreita mas grans.";
+
+/* nothing */
+"Xor Colors" = "XOR de colors";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Fe clic y arrociega ta dibuixar un efecto XOR.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Fe clic ta dibuixar un efecto XOR sobre tot o dibuixo.";
+

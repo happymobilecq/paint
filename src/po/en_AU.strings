@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2014-06-03 21:03+0200\nPO-Revision-Date: 2014-06-29 23:36+0930\nLast-Translator: ilox <ilox11@gmail.com>\nLanguage-Team: none\nLanguage: en_AU\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nX-Generator: Poedit 1.6.5\n";
+
+/* nothing */
+"Black!" = "Black!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Dark grey! Some people spell it “dark gray”.";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Light grey! Some people spell it “light gray”.";
+
+/* nothing */
+"White!" = "White!";
+
+/* nothing */
+"Red!" = "Red!";
+
+/* nothing */
+"Orange!" = "Orange!";
+
+/* nothing */
+"Yellow!" = "Yellow!";
+
+/* nothing */
+"Light green!" = "Light green!";
+
+/* nothing */
+"Dark green!" = "Dark green!";
+
+/* nothing */
+"Sky blue!" = "Sky blue!";
+
+/* nothing */
+"Blue!" = "Blue!";
+
+/* nothing */
+"Lavender!" = "Lavender!";
+
+/* nothing */
+"Purple!" = "Purple!";
+
+/* nothing */
+"Pink!" = "Pink!";
+
+/* nothing */
+"Brown!" = "Brown!";
+
+/* nothing */
+"Tan!" = "Tan!";
+
+/* nothing */
+"Beige!" = "Beige!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = ",.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{<(^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "<1>spare-1a";
+
+/* nothing */
+"<1>spare-1b" = "<1>spare-1b";
+
+/* nothing */
+"<9>spare-9a" = "<9>spare-9a";
+
+/* nothing */
+"<9>spare-9b" = "<9>spare-9b";
+
+/* nothing */
+"Great!" = "Great!";
+
+/* nothing */
+"Cool!" = "Cool!";
+
+/* nothing */
+"Keep it up!" = "Keep it up!";
+
+/* nothing */
+"Good job!" = "Good job!";
+
+/* nothing */
+"English" = "English";
+
+/* nothing */
+"Hiragana" = "Hiragana";
+
+/* nothing */
+"Katakana" = "Katakana";
+
+/* nothing */
+"Hangul" = "Hangul";
+
+/* nothing */
+"Thai" = "Thai";
+
+/* nothing */
+"ZH_TW" = "ZH_TW";
+
+/* nothing */
+"Square" = "Square";
+
+/* nothing */
+"Rectangle" = "Rectangle";
+
+/* nothing */
+"Circle" = "Circle";
+
+/* nothing */
+"Ellipse" = "Ellipse";
+
+/* nothing */
+"Triangle" = "Triangle";
+
+/* nothing */
+"Pentagon" = "Pentagon";
+
+/* nothing */
+"Rhombus" = "Rhombus";
+
+/* nothing */
+"Octagon" = "Octagon";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "A square is a rectangle with four equal sides.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "A rectangle has four sides and four right angles.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "A circle is a curve where all points have the same distance from the centre.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "An ellipse is a stretched circle.";
+
+/* nothing */
+"A triangle has three sides." = "A triangle has three sides.";
+
+/* nothing */
+"A pentagon has five sides." = "A pentagon has five sides.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "A rhombus has four equal sides, and opposite sides are parallel.";
+
+/* nothing */
+"An octagon has eight equal sides." = "An octagon has eight equal sides.";
+
+/* nothing */
+"Tools" = "Tools";
+
+/* nothing */
+"Colors" = "Colours";
+
+/* nothing */
+"Brushes" = "Brushes";
+
+/* nothing */
+"Erasers" = "Erasers";
+
+/* nothing */
+"Stamps" = "Stamps";
+
+/* nothing */
+"Shapes" = "Shapes";
+
+/* nothing */
+"Letters" = "Letters";
+
+/* nothing */
+"Magic" = "Magic";
+
+/* nothing */
+"Paint" = "Paint";
+
+/* nothing */
+"Stamp" = "Stamp";
+
+/* nothing */
+"Lines" = "Lines";
+
+/* nothing */
+"Text" = "Text";
+
+/* nothing */
+"Label" = "Label";
+
+/* nothing */
+"Undo" = "Undo";
+
+/* nothing */
+"Redo" = "Redo";
+
+/* nothing */
+"Eraser" = "Eraser";
+
+/* nothing */
+"New" = "New";
+
+/* nothing */
+"Open" = "Open";
+
+/* nothing */
+"Save" = "Save";
+
+/* nothing */
+"Print" = "Print";
+
+/* nothing */
+"Quit" = "Quit";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Pick a colour and a brush shape to draw with.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Pick a picture to stamp around your drawing.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Click to start drawing a line. Let go to complete it.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Pick a shape. Click to pick the centre, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an existing label, you can move it, edit it and change its text style." = "Choose a style of text. Click on your drawing and you can start typing.  Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an existing label, you can move it, edit it and change its text style.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Pick a magical effect to use on your drawing!";
+
+/* nothing */
+"Undo!" = "Undo!";
+
+/* nothing */
+"Redo!" = "Redo!";
+
+/* nothing */
+"Eraser!" = "Eraser!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Pick a colour or picture with which to start a new drawing.";
+
+/* nothing */
+"Open…" = "Open…";
+
+/* nothing */
+"Your image has been saved!" = "Your image has been saved!";
+
+/* nothing */
+"Printing…" = "Printing…";
+
+/* nothing */
+"Bye bye!" = "Bye bye!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Let go of the button to complete the line.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Hold the button to stretch the shape.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Move the mouse to rotate the shape. Click to draw it.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "OK then… Let’s keep drawing this one!";
+
+/* nothing */
+"Do you really want to quit?" = "Do you really want to quit?";
+
+/* nothing */
+"Yes, I’m done!" = "Yes, I’m done!";
+
+/* nothing */
+"No, take me back!" = "No, take me back!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "If you quit, you’ll lose your picture! Save it?";
+
+/* nothing */
+"Yes, save it!" = "Yes, save it!";
+
+/* nothing */
+"No, don’t bother saving!" = "No, don’t bother saving!";
+
+/* nothing */
+"Save your picture first?" = "Save your picture first?";
+
+/* nothing */
+"Can’t open that picture!" = "Can’t open that picture!";
+
+/* nothing */
+"OK" = "OK";
+
+/* nothing */
+"There are no saved files!" = "There are no saved files!";
+
+/* nothing */
+"Print your picture now?" = "Print your picture now?";
+
+/* nothing */
+"Yes, print it!" = "Yes, print it!";
+
+/* nothing */
+"Your picture has been printed!" = "Your picture has been printed!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Sorry! Your picture could not be printed!";
+
+/* nothing */
+"You can’t print yet!" = "You can’t print yet!";
+
+/* nothing */
+"Erase this picture?" = "Erase this picture?";
+
+/* nothing */
+"Yes, erase it!" = "Yes, erase it!";
+
+/* nothing */
+"No, don’t erase it!" = "No, don’t erase it!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Remember to use the left mouse button!";
+
+/* nothing */
+"Sound muted." = "Sound muted.";
+
+/* nothing */
+"Sound unmuted." = "Sound unmuted.";
+
+/* nothing */
+"Please wait…" = "Please wait…";
+
+/* nothing */
+"Erase" = "Erase";
+
+/* nothing */
+"Slides" = "Slides";
+
+/* nothing */
+"Back" = "Back";
+
+/* nothing */
+"Next" = "Next";
+
+/* nothing */
+"Play" = "Play";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Yes";
+
+/* nothing */
+"No" = "No";
+
+/* nothing */
+"Replace the picture with your changes?" = "Replace the picture with your changes?";
+
+/* nothing */
+"Yes, replace the old one!" = "Yes, replace the old one!";
+
+/* nothing */
+"No, save a new file!" = "No, save a new file!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Choose the picture you want, then click “Open”.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Choose the pictures you want, then click “Play”.";
+
+/* nothing */
+"Pick a color." = "Pick a colour.";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Drawing program" = "Drawing program";
+
+/* nothing */
+"A drawing program for children." = "A drawing program for children.";
+
+/* nothing */
+"Color Shift" = "Colour Shift";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Click and move the mouse to change the colours in parts of your picture.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Click to change the colours in your entire picture.";
+
+/* nothing */
+"Blind" = "Blind";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds.";
+
+/* nothing */
+"Blocks" = "Blocks";
+
+/* nothing */
+"Chalk" = "Chalk";
+
+/* nothing */
+"Drip" = "Drip";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Click and move the mouse around to make the picture blocky.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Click and move the mouse around to turn the picture into a chalk drawing.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Click and move the mouse around to make the picture drip.";
+
+/* nothing */
+"Blur" = "Blur";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Click and move the mouse around to blur the image.";
+
+/* nothing */
+"Click to blur the entire image." = "Click to blur the entire image.";
+
+/* nothing */
+"Bricks" = "Bricks";
+
+/* nothing */
+"Click and move to draw large bricks." = "Click and move to draw large bricks.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Click and move to draw small bricks.";
+
+/* nothing */
+"Calligraphy" = "Calligraphy";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Click and move the mouse around to draw in calligraphy.";
+
+/* nothing */
+"Cartoon" = "Cartoon";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Click and move the mouse around to turn the picture into a cartoon.";
+
+/* nothing */
+"Confetti" = "Confetti";
+
+/* nothing */
+"Click to throw confetti!" = "Click to throw confetti!";
+
+/* nothing */
+"Distortion" = "Distortion";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Click and drag the mouse to cause distortion in your picture.";
+
+/* nothing */
+"Emboss" = "Emboss";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Click and drag the mouse to emboss the picture.";
+
+/* nothing */
+"Lighten" = "Lighten";
+
+/* nothing */
+"Darken" = "Darken";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Click and move the mouse to lighten parts of your picture.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Click to lighten your entire picture.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Click and move the mouse to darken parts of your picture.";
+
+/* nothing */
+"Click to darken your entire picture." = "Click to darken your entire picture.";
+
+/* nothing */
+"Fill" = "Fill";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Click in the picture to fill that area with colour.";
+
+/* nothing */
+"Fisheye" = "Fisheye";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Click on part of your picture to create a fisheye effect.";
+
+/* nothing */
+"Flower" = "Flower";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Click and drag to draw a flower stalk. Let go to finish the flower.";
+
+/* nothing */
+"Foam" = "Foam";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Click and drag the mouse to cover an area with foamy bubbles.";
+
+/* nothing */
+"Fold" = "Fold";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Choose a background colour and click to turn the corner of the page over.";
+
+/* nothing */
+"Fretwork" = "Fretwork";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Click and drag to draw repetitive patterns. ";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Click to surround your picture with repetitive patterns.";
+
+/* nothing */
+"Glass Tile" = "Glass Tile";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Click and drag the mouse to put glass tile over your picture.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Click to cover your entire picture in glass tiles.";
+
+/* nothing */
+"Grass" = "Grass";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Click and move to draw grass. Don’t forget the dirt!";
+
+/* nothing */
+"Halftone" = "Halftone";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Click and drag to turn your drawing into a newspaper.";
+
+/* nothing */
+"Symmetric Left/Right" = "Symmetric Left/Right";
+
+/* nothing */
+"Symmetric Up/Down" = "Symmetric Up/Down";
+
+/* nothing */
+"Pattern" = "Pattern";
+
+/* nothing */
+"Tiles" = "Tiles";
+
+/* nothing */
+"Kaleidoscope" = "Kaleidoscope";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Click and drag the mouse to draw a pattern across the picture.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Click and drag the mouse to draw a pattern plus its symmetric across the picture.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Click and drag the mouse to draw with symmetric brushes (a kaleidoscope).";
+
+/* nothing */
+"Light" = "Light";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Click and drag to draw a beam of light on your picture.";
+
+/* nothing */
+"Metal Paint" = "Metal Paint";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Click and drag the mouse to paint with a metallic colour.";
+
+/* nothing */
+"Mirror" = "Mirror";
+
+/* nothing */
+"Flip" = "Flip";
+
+/* nothing */
+"Click to make a mirror image." = "Click to make a mirror image.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Click to flip the picture upside-down.";
+
+/* nothing */
+"Mosaic" = "Mosaic";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Click and move the mouse to add a mosaic effect to parts of your picture.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Click to add a mosaic effect to your entire picture.";
+
+/* nothing */
+"Square Mosaic" = "Square Mosaic";
+
+/* nothing */
+"Hexagon Mosaic" = "Hexagon Mosaic";
+
+/* nothing */
+"Irregular Mosaic" = "Irregular Mosaic";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Click and move the mouse to add a square mosaic to parts of your picture.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Click to add a square mosaic to your entire picture.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Click and move the mouse to add a hexagonal mosaic to parts of your picture.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Click to add a hexagonal mosaic to your entire picture.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Click and move the mouse to add an irregular mosaic to parts of your picture.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Click to add an irregular mosaic to your entire picture.";
+
+/* nothing */
+"Negative" = "Negative";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Click and move the mouse around to make your painting negative.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Click to turn your painting into its negative.";
+
+/* nothing */
+"Noise" = "Noise";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Click and move the mouse to add noise to parts of your picture.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Click to add noise to your entire picture.";
+
+/* nothing */
+"Perspective" = "Perspective";
+
+/* nothing */
+"Zoom" = "Zoom";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Click on the corners and drag where you want to stretch the picture.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Click and drag up to zoom in or drag down to zoom out the picture.";
+
+/* nothing */
+"Puzzle" = "Puzzle";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Click the part of your picture where would you like a puzzle.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Click to make a puzzle in fullscreen mode.";
+
+/* nothing */
+"Rails" = "Rails";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Click and drag to draw train track rails on your picture.";
+
+/* nothing */
+"Rainbow" = "Rainbow";
+
+/* nothing */
+"You can draw in rainbow colors!" = "You can draw in rainbow colours!";
+
+/* nothing */
+"Rain" = "Rain";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Click to place a rain drop onto your picture.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Click to cover your picture with rain drops.";
+
+/* nothing */
+"Real Rainbow" = "Real Rainbow";
+
+/* nothing */
+"ROYGBIV Rainbow" = "ROYGBIV Rainbow";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow.";
+
+/* nothing */
+"Ripples" = "Ripples";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Click to make ripples appear over your picture.";
+
+/* nothing */
+"Rosette" = "Rosette";
+
+/* nothing */
+"Picasso" = "Picasso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Click and start drawing your rosette.";
+
+/* nothing */
+"You can draw just like Picasso!" = "You can draw just like Picasso!";
+
+/* nothing */
+"Edges" = "Edges";
+
+/* nothing */
+"Sharpen" = "Sharpen";
+
+/* nothing */
+"Silhouette" = "Silhouette";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Click and move the mouse to trace edges in parts of your picture.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Click to trace edges in your entire picture.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Click and move the mouse to sharpen parts of your picture.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Click to sharpen the entire picture.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Click and move the mouse to create a black and white silhouette.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Click to create a black and white silhouette of your entire picture.";
+
+/* nothing */
+"Shift" = "Shift";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Click and drag to shift your picture around on the canvas.";
+
+/* nothing */
+"Smudge" = "Smudge";
+
+/* nothing */
+"Wet Paint" = "Wet Paint";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Click and move the mouse around to smudge the picture.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Click and move the mouse around to draw with wet, smudgy paint.";
+
+/* nothing */
+"Snow Ball" = "Snow Ball";
+
+/* nothing */
+"Snow Flake" = "Snow Flake";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Click to add snow balls to your picture.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Click to add snow flakes to your picture.";
+
+/* nothing */
+"String edges" = "String edges";
+
+/* nothing */
+"String corner" = "String corner";
+
+/* nothing */
+"String 'V'" = "String 'V'";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Click and drag to draw arrows made of string art.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Draw string art arrows with free angles.";
+
+/* nothing */
+"Tint" = "Tint";
+
+/* nothing */
+"Color & White" = "Colour & White";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Click and move the mouse around to change the colour of parts of your picture.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Click to change the colour of your entire picture.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Click and move the mouse around to turn parts of your picture into white and a colour you choose.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Click to turn your entire picture into white and a colour you choose.";
+
+/* nothing */
+"Toothpaste" = "Toothpaste";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Click and drag to squirt toothpaste onto your picture.";
+
+/* nothing */
+"Tornado" = "Tornado";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Click and drag to draw a tornado funnel on your picture.";
+
+/* nothing */
+"TV" = "TV";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Click and drag to make parts of your picture look like they are on television.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Click to make your picture look like it's on television.";
+
+/* nothing */
+"Waves" = "Waves";
+
+/* nothing */
+"Wavelets" = "Wavelets";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves.";
+
+/* nothing */
+"Xor Colors" = "Xor Colours";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Click and drag to draw a XOR effect";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Click to draw a XOR effect on the whole picture";
+

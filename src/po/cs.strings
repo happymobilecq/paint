@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2013-10-26 17:43+0900\nPO-Revision-Date: 2010-07-08 13:33+0100\nLast-Translator: Zdeněk Chalupský <chalzd@gmail.com>\nLanguage-Team: Czech <cs@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: cs\nX-Generator: KBabel 1.10.2\nPlural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\nX-Poedit-Language: Czech\nX-Poedit-Country: CZECH REPUBLIC\n";
+
+/* nothing */
+"Black!" = "Černá!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Tmavě šedá! Někdo říká i tmavě sivá.";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Světle šedá! Někdo říká i světle sivá.";
+
+/* nothing */
+"White!" = "Bílá!";
+
+/* nothing */
+"Red!" = "Červená!";
+
+/* nothing */
+"Orange!" = "Oranžová!";
+
+/* nothing */
+"Yellow!" = "Žlutá!";
+
+/* nothing */
+"Light green!" = "Světle zelená!";
+
+/* nothing */
+"Dark green!" = "Tmavě zelená!";
+
+/* nothing */
+"Sky blue!" = "Nebesky modrá!";
+
+/* nothing */
+"Blue!" = "Modrá!";
+
+/* nothing */
+"Lavender!" = "Levandulová!";
+
+/* nothing */
+"Purple!" = "Fialová!";
+
+/* nothing */
+"Pink!" = "Růžová!";
+
+/* nothing */
+"Brown!" = "Hnědá!";
+
+/* nothing */
+"Tan!" = "Tříslová!!";
+
+/* nothing */
+"Beige!" = "Béžová!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = ",.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{}<>^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "00";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "";
+
+/* nothing */
+"<1>spare-1b" = "";
+
+/* nothing */
+"<9>spare-9a" = "";
+
+/* nothing */
+"<9>spare-9b" = "";
+
+/* nothing */
+"Great!" = "Výborně!";
+
+/* nothing */
+"Cool!" = "Skvěle!";
+
+/* nothing */
+"Keep it up!" = "Jen tak dál!";
+
+/* nothing */
+"Good job!" = "Dobrá práce!";
+
+/* nothing */
+"English" = "Anglicky";
+
+/* nothing */
+"Hiragana" = "Hiragana";
+
+/* nothing */
+"Katakana" = "Katakana";
+
+/* nothing */
+"Hangul" = "Hungul";
+
+/* nothing */
+"Thai" = "Thajsky";
+
+/* nothing */
+"ZH_TW" = "Tradiční čínštinou";
+
+/* nothing */
+"Square" = "Čtverec";
+
+/* nothing */
+"Rectangle" = "Obdélník";
+
+/* nothing */
+"Circle" = "Kruh";
+
+/* nothing */
+"Ellipse" = "Elipsa";
+
+/* nothing */
+"Triangle" = "Trojúhelník";
+
+/* nothing */
+"Pentagon" = "Pětiúhelník";
+
+/* nothing */
+"Rhombus" = "Kosočtverec";
+
+/* nothing */
+"Octagon" = "Osmiúhelník";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Čtverec je pravoúhelník se čtyřmi stejnými stranami.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Obdélník má čtyři strany, čtyři pravé úhly, sousední strany jinak dlouhé, protilehlé mají stejnou délku.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "Kruh je křivka, kde všechny body mají stejnou vzdálenost od společného středu.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "Elipsu vytvoříme zploštěním nebo protažením kruhu.";
+
+/* nothing */
+"A triangle has three sides." = "Trojúhelník má tři strany.";
+
+/* nothing */
+"A pentagon has five sides." = "Pětiúhelník má pět stran.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Kosočtverec má čtyři stejné strany, protilehlé jsou rovnoběžné. Strany nemusí svírat pravý úhel.";
+
+/* nothing */
+"An octagon has eight equal sides." = "Osmiúhelník má osm stejných stran.";
+
+/* nothing */
+"Tools" = "Nástroje";
+
+/* nothing */
+"Colors" = "Barvy";
+
+/* nothing */
+"Brushes" = "Štětce";
+
+/* nothing */
+"Erasers" = "Gumy";
+
+/* nothing */
+"Stamps" = "Razítka";
+
+/* nothing */
+"Shapes" = "Tvary";
+
+/* nothing */
+"Letters" = "Písmena";
+
+/* nothing */
+"Magic" = "Magie";
+
+/* nothing */
+"Paint" = "Kreslit";
+
+/* nothing */
+"Stamp" = "Razítko";
+
+/* nothing */
+"Lines" = "Úsečky";
+
+/* nothing */
+"Text" = "Text";
+
+/* nothing */
+"Label" = "Štítek - text";
+
+/* nothing */
+"Undo" = "Zpět";
+
+/* nothing */
+"Redo" = "Znovu";
+
+/* nothing */
+"Eraser" = "Guma";
+
+/* nothing */
+"New" = "Nový";
+
+/* nothing */
+"Open" = "Otevřít";
+
+/* nothing */
+"Save" = "Uložit";
+
+/* nothing */
+"Print" = "Tisk";
+
+/* nothing */
+"Quit" = "Ukončit";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Vyber barvu a druh štětce, kterým chceš kreslit.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Vyber obrázek, který chceš otisknout do své kresby.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Stiskni pro zahájení kreslení čáry. Uvolni pro dokončení.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Vyber tvar. Stiskni tlačítko na zvoleném místě, tažením nastav velikost. Myší tvar natoč, kliknutím práci dokonči.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Vyber si styl textu. Klikni na obrázek a můžeš začít psát. K dokončení textu stiskni klávesu [Enter] nebo [Tab].";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Vyber si styl textu. Klikni na obrázek a můžeš začít psát. K dokončení textu stiskni klávesu [Enter] nebo [Tab]. Pomocí tlačítka pro výběr a klepnutím můžeš existují štítek, přesunout, upravit nebo změnit styl textu.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Vyber si magický efekt, který chceš v kresbě použít.";
+
+/* nothing */
+"Undo!" = "Zpět! Omezený počet zpětných kroků (18).";
+
+/* nothing */
+"Redo!" = "Znovu!";
+
+/* nothing */
+"Eraser!" = "Vymazat!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Vyber si barvu nebo obrázek, s kterým začneš nový výkres.";
+
+/* nothing */
+"Open…" = "Otevřít…";
+
+/* nothing */
+"Your image has been saved!" = "Tvůj obrázek byl uložen!";
+
+/* nothing */
+"Printing…" = "Tiskne se…";
+
+/* nothing */
+"Bye bye!" = "Ahoj!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Uvolni tlačítko myši a úsečka se ukončí.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Drž tlačítko a táhni myší - zvolený tvar se bude zvětšovat.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Pohybem myši se bude tvar otáčet. Klikni pro jeho nakreslení.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Dobrá... A teď můžeme pokračovat dál!";
+
+/* nothing */
+"Do you really want to quit?" = "Opravdu chceš malování ukončit?";
+
+/* nothing */
+"Yes, I’m done!" = "Ano, jsem hotov!";
+
+/* nothing */
+"No, take me back!" = "Nechci, ještě budu kreslit!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Pokud skončíš, ztratíš svůj obrázek. Chceš ho uložit?";
+
+/* nothing */
+"Yes, save it!" = "Ano, uložit!";
+
+/* nothing */
+"No, don’t bother saving!" = "Ne, nebudeme ho ukládat!";
+
+/* nothing */
+"Save your picture first?" = "Chceš nejdřív uložit svůj obrázek?";
+
+/* nothing */
+"Can’t open that picture!" = "Tento obrázek nelze otevřít!";
+
+/* nothing */
+"OK" = "OK";
+
+/* nothing */
+"There are no saved files!" = "Nejsou zde žádné uložené soubory!";
+
+/* nothing */
+"Print your picture now?" = "Chceš obrázek vytisknout?";
+
+/* nothing */
+"Yes, print it!" = "Ano, vytisknout!";
+
+/* nothing */
+"Your picture has been printed!" = "Obrázek byl vytištěn!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Omlouváme se! Tvůj obraz nemohl být vytištěn!";
+
+/* nothing */
+"You can’t print yet!" = "Zatím nelze tisknout!";
+
+/* nothing */
+"Erase this picture?" = "Smazat tento obrázek?";
+
+/* nothing */
+"Yes, erase it!" = "Ano smazat!";
+
+/* nothing */
+"No, don’t erase it!" = "Ne, nemazat!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Nezapomeň používat levé tlačítko myši!";
+
+/* nothing */
+"Sound muted." = "Ztlumit zvuk.";
+
+/* nothing */
+"Sound unmuted." = "Zapnout zvuk.";
+
+/* nothing */
+"Please wait…" = "Prosím počkej…";
+
+/* nothing */
+"Erase" = "Smazat";
+
+/* nothing */
+"Slides" = "Prezentace";
+
+/* nothing */
+"Back" = "Zpět";
+
+/* nothing */
+"Next" = "Další";
+
+/* nothing */
+"Play" = "Přehrát";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Ano";
+
+/* nothing */
+"No" = "Ne";
+
+/* nothing */
+"Replace the picture with your changes?" = "Nahradit starý obrázek změněným obrázkem?";
+
+/* nothing */
+"Yes, replace the old one!" = "Ano, nahradit starý obrázek!";
+
+/* nothing */
+"No, save a new file!" = "Ne, ulož jako nový obrázek!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Vyber si obrázek a klepni na \"Otevřít\".";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Vyber si obrázek a klikni na \"Přehrát\".";
+
+/* nothing */
+"Pick a color." = "Vyber si barvu.";
+
+/* nothing */
+"A drawing program for children." = "Kreslicí program pro děti.";
+
+/* nothing */
+"Drawing program" = "Kreslicí program";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Color Shift" = "Změnit barvy";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Klepnutím, nebo pohybem myši, změníš barvy v obrázku.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Klikni pro změnu barvy celého obrázku.";
+
+/* nothing */
+"Blind" = "Roleta";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Klikni na okraj obrázku pro vytažení žaluzie. Kolmý pohyb k otevření nebo zavření žaluzie.";
+
+/* nothing */
+"Blocks" = "Kostky";
+
+/* nothing */
+"Chalk" = "Křída";
+
+/* nothing */
+"Drip" = "Kapání";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Pohybem myši vytvoříš mozaiku z kostiček. Klepnutím rozkostičkuješ část.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Pohybem myši po čáře získáš vzhled čáry od křídy.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Klepni nebo pohybuj myší a obrázek se rozteče.";
+
+/* nothing */
+"Blur" = "Rozostřit";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Pohybem myši obrázek rozmažeš. Kliknutím rozmažeš část obrázku.";
+
+/* nothing */
+"Click to blur the entire image." = "Klikni pro rozmazání celého obrazu.";
+
+/* nothing */
+"Bricks" = "Cihly";
+
+/* nothing */
+"Click and move to draw large bricks." = "Kliknutím, nebo pohybem myši  nakreslíš velké cihly.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Kliknutím, nebo pohybem myši  nakreslíš malé cihly.";
+
+/* nothing */
+"Calligraphy" = "Písmomalířství";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Stiskem a pohybem myši získáš kaligrafické písmo. Vyznačuje se rozdílnou tloušťkou tahu.";
+
+/* nothing */
+"Cartoon" = "Komiks";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Stiskem a pohybem myši získáš komiksový vzhled obrázku.";
+
+/* nothing */
+"Confetti" = "Konfety";
+
+/* nothing */
+"Click to throw confetti!" = "Klikni pro házení konfet!";
+
+/* nothing */
+"Distortion" = "Zkreslení";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Kliknutím nebo tažením myši vyvoláš narušení čar a zkreslení obrázku.";
+
+/* nothing */
+"Emboss" = "Protlačení";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Kliknutím, nebo tažením myši protlačíš vybrané části obrázku.";
+
+/* nothing */
+"Lighten" = "Zesvětlit";
+
+/* nothing */
+"Darken" = "Ztmavit";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Při stisklém tlačítku pohybem myši zesvětlíš vybrané části obrázku.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Klikni pro zesvětlení celého obrázku.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Stiskni tlačítko a pohybuj myší - ztmavíš části obrázku.";
+
+/* nothing */
+"Click to darken your entire picture." = "Klikni pro ztmavení celého obrázku.";
+
+/* nothing */
+"Fill" = "Výplň";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Klikni do obrázku a oblast se vyplní barvou.";
+
+/* nothing */
+"Fisheye" = "Rybí oko";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Klikni na část obrázku pro vytvoření efektu rybího oka.";
+
+/* nothing */
+"Flower" = "Květina";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Klepnutím a tažením nakresli stonek květu. Po uvolnění tlačítka se objeví květ.";
+
+/* nothing */
+"Foam" = "Pěna";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Stiskni tlačítko myši, pohybem myši pokryješ vybrané části obrázku pěnivými bublinami.";
+
+/* nothing */
+"Fold" = "Přehyb";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Vyber si barvu pozadí a klikni pro otočení rohu stránky.";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Klepni a pohybuj myší - rozostříš obrázek.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Klikni na pokrytí tvého obrázku dešťovými kapkami.";
+
+/* nothing */
+"Glass Tile" = "Skleněné dlaždice";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Kliknutím nebo tažením tažením myši polož skleněné dlaždice přes svůj obrázek.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Klikni pro pokrytí celého obrazu skleněnými dlaždicemi.";
+
+/* nothing */
+"Grass" = "Tráva";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Při stisklém tlačítku pohybuj myší a nakreslíš trávu. Nezapomeň na hlínu!";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Klikni pro vytvoření negativu z celého obrázku.";
+
+/* nothing */
+"Symmetric Left/Right" = "";
+
+/* nothing */
+"Symmetric Up/Down" = "";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "Kaleidoskop";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Stiskni a pohybuj myší, nakreslíš symetrické obrazce (kaleidoskop).";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Stiskni a pohybuj myší, nakreslíš symetrické obrazce (kaleidoskop).";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Kliknutím, nebo tažením myši protlačíš vybrané části obrázku.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Stiskni a pohybuj myší, nakreslíš symetrické obrazce (kaleidoskop).";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Stiskni a pohybuj myší, nakreslíš symetrické obrazce (kaleidoskop).";
+
+/* nothing */
+"Light" = "Světlo";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Stisknutím a tažením nakresli světelnou stopu na svůj obrázek.";
+
+/* nothing */
+"Metal Paint" = "Kovová barva";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Kliknutím a tažením myši naneste barvu s kovovým zabarvením.";
+
+/* nothing */
+"Mirror" = "Zrcadlit";
+
+/* nothing */
+"Flip" = "Převrátit";
+
+/* nothing */
+"Click to make a mirror image." = "Kliknutím vytvoříš zrcadlový obrázku.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Kikni a obrázek se otočí vzhůru nohama.";
+
+/* nothing */
+"Mosaic" = "Mozaika";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Stiskni tlačítko myši a pohybem myši přidej mozaiku na vybrané části obrázku.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Kliknutím přidáš mozaiku na celý obrázek.";
+
+/* nothing */
+"Square Mosaic" = "Čtvercová mozaika";
+
+/* nothing */
+"Hexagon Mosaic" = "Śestiúhelníková mozaika";
+
+/* nothing */
+"Irregular Mosaic" = "Nepravidelná mozaika";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Stiskni tlačítko myši a pohybem myši přidej čtvercovou mozaiku na vybrané části obrázku.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Kliknutím přidáš čtvercovou mozaiku na celý obrázek.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Kliknutím nebo pohybem myši přidej šestiúhelníkovou mozaiku na vybrané části obrázku.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Kliknutím přidáš šestiúhelníkovou mozaiku na celý obrázek.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Stikni tlačítko a pohybem myši přidej nepravidelnou mozaiku na vybrané části obrázku.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Kliknutím přidáš nepravidelnou mozaiku na celý obrázek.";
+
+/* nothing */
+"Negative" = "Negativ";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Stiskni tlačítko a pohybuj myší - vykreslíš negativ.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Klikni pro vytvoření negativu z celého obrázku.";
+
+/* nothing */
+"Noise" = "Zrno";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Stiskni tlačítko a pohybem myši přidej zrno do části obrázku.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Kliknutím přidáš zrno do celého obrázku.";
+
+/* nothing */
+"Perspective" = "Perspektiva";
+
+/* nothing */
+"Zoom" = "Lupa";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Uchopením za roh roztáhni svůj obrázek požadovaným směrem.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Klikni a tažením nahoru, nebo dolů zvětši, nebo zmenši obrázek.";
+
+/* nothing */
+"Puzzle" = "Puzzle";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Klikni na část obrázku, kde chceš mít puzzle.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Klikni na tlačítko, pro vytvoření puzzlí na celé obrazovce.";
+
+/* nothing */
+"Rails" = "Koleje";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Kliknutím, nebo tažením nakresli vlakové koleje.";
+
+/* nothing */
+"Rain" = "Déšť";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Klikni na místo, kde chceš nakreslit dešťové kapky.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Klikni na pokrytí tvého obrázku dešťovými kapkami.";
+
+/* nothing */
+"Rainbow" = "Duha";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Kresli v duhových barvách!";
+
+/* nothing */
+"Real Rainbow" = "Skutečná duha";
+
+/* nothing */
+"ROYGBIV Rainbow" = "Sedmibarevná duha.";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Klikni pro začátek duhy, přetáhni kurzor na místo, kde chceš aby končila a tlačítko myši uvolni.";
+
+/* nothing */
+"Ripples" = "Kruhové vlny";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Klikni pro zobrazení kruhů na vodě.";
+
+/* nothing */
+"Rosette" = "Růžice";
+
+/* nothing */
+"Picasso" = "Picasso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Stiskni tlačítko a tažením do středu začni kreslit růžice.";
+
+/* nothing */
+"You can draw just like Picasso!" = "Můžeš kreslit, stejně jako Picasso!";
+
+/* nothing */
+"Edges" = "Hrany";
+
+/* nothing */
+"Sharpen" = "Zaostřit";
+
+/* nothing */
+"Silhouette" = "Silueta";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Stiskni tlačítko a pohybem myši zvýrazni hrany v některých částech obrázku.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Klepni pro zvýraznění hran v celém obrázku.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Klikni a pohybem myši zvýrazni (zaostři) okraje.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Klikni pro zvýraznění (zaostření) okrajů celého obrázku.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Kliknutím, nebo pohybem myši vytvoř černoubílou siluetu.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Klikni a vytvoř černobílou siluetu celého obrazu.";
+
+/* nothing */
+"Shift" = "Změna polohy";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Klepnutím a tažením přesuň svůj obrázek na nové místo.";
+
+/* nothing */
+"Smudge" = "Rozmazat";
+
+/* nothing */
+"Wet Paint" = "Čerstvě natřeno";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Kliknutím, nebo pohybem myši rozmažeš obrázek.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Klikni, nebo pohybem myši vytvoř mokrý, rozmazaný nátěr.";
+
+/* nothing */
+"Snow Ball" = "Sněhová koule";
+
+/* nothing */
+"Snow Flake" = "Vločky";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Kliknutím přidáš na obrázek sněhové koule.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Kliknutím přidáš na svůj obrázek sněhové vločky.";
+
+/* nothing */
+"String edges" = "Síťování od okrajů";
+
+/* nothing */
+"String corner" = "Síťování roh";
+
+/* nothing */
+"String 'V'" = "Síťované  'V'";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Klepnutím a tažením nakresli síť. Nahoře - méně linek, dole - více linek, vlavo a vpravo - síť od okrajů.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Klepnutím a tažením nakresli dekorativní prostorové šipky.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Nakresli prostorové dekorativní šipky s volným úhly.";
+
+/* nothing */
+"Tint" = "Obarvit";
+
+/* nothing */
+"Color & White" = "Barva & bílá";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Stiskem tlačítka a pohybem myši změn barvu částí obrázku.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Klikni pro změnu barvy celého obrázku.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Kliknutím, nebo pohybem myši přebarvíš nastavenou barvou, tmavé barvy a světlé barvy změníš na bílou. ";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Klikni pro převedení celého obrázku do bílé, nebo tebou vybrané barvy.";
+
+/* nothing */
+"Toothpaste" = "Zubní pasta";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Stisknutím a tažením naneseš na svůj obrázek zubní pastu. Můžeš si vybrat i barvu.";
+
+/* nothing */
+"Tornado" = "Tornádo";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Klepnutím a tažením nakresli cestu tornáda po obrázku.";
+
+/* nothing */
+"TV" = "TV";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Kliknutím a tažením, docílíš vzhledu obrazu v televizi s viditelným řádkováním.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Klikni, aby tvůj obrázek vypadal, jako v špatně naladěné televizi.";
+
+/* nothing */
+"Waves" = "Vlny";
+
+/* nothing */
+"Wavelets" = "Zvlnění";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Klikni, aby se obraz zvlnil do stran. Nahoru - kratší a dolů - delší vlny, vlevo - nízké a vpravo - vysoké vlny.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Klikni na tlačítko, pro zvlnění obrázku na výšku. Nahoru pro kratší  a dolů pro delší vlny, vlevo pro nízké a vpravo pro vysoké vlny.";
+
+/* nothing */
+"Xor Colors" = "Barvy";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Klepnutím a tažením nakresli dekorativní prostorové šipky.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Kliknutím přidáš mozaiku na celý obrázek.";
+

@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: tuxpaint-i18n@lists.sourceforge.net\nPOT-Creation-Date: 2014-07-04 21:47+0200\nPO-Revision-Date: 2005-01-09 14:49+0100\nLast-Translator: \nLanguage-Team: none\nLanguage: br\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n";
+
+/* nothing */
+"Black!" = "Du !";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "";
+
+/* nothing */
+"White!" = "Gwenn !";
+
+/* nothing */
+"Red!" = "Ruz !";
+
+/* nothing */
+"Orange!" = "Orañjez !";
+
+/* nothing */
+"Yellow!" = "Melen !";
+
+/* nothing */
+"Light green!" = "Gris sklaer !";
+
+/* nothing */
+"Dark green!" = "Teñvaloc'h";
+
+/* nothing */
+"Sky blue!" = "Glas oabl !";
+
+/* nothing */
+"Blue!" = "Glas !";
+
+/* nothing */
+"Lavender!" = "";
+
+/* nothing */
+"Purple!" = "Limestra !";
+
+/* nothing */
+"Pink!" = "Roz !";
+
+/* nothing */
+"Brown!" = "Kistin !";
+
+/* nothing */
+"Tan!" = "Rous !";
+
+/* nothing */
+"Beige!" = "Louet-gell !";
+
+/* nothing */
+"qx" = "";
+
+/* nothing */
+"QX" = "";
+
+/* nothing */
+"oO" = "";
+
+/* nothing */
+",.?!" = "";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "";
+
+/* nothing */
+"017" = "";
+
+/* nothing */
+"O0" = "";
+
+/* nothing */
+"1Il|" = "";
+
+/* nothing */
+"<1>spare-1a" = "";
+
+/* nothing */
+"<1>spare-1b" = "";
+
+/* nothing */
+"<9>spare-9a" = "";
+
+/* nothing */
+"<9>spare-9b" = "";
+
+/* nothing */
+"Great!" = "Fiskal !";
+
+/* nothing */
+"Cool!" = "Brav !";
+
+/* nothing */
+"Keep it up!" = "Kalon vat !";
+
+/* nothing */
+"Good job!" = "Labour mat !";
+
+/* nothing */
+"English" = "";
+
+/* nothing */
+"Hiragana" = "";
+
+/* nothing */
+"Katakana" = "";
+
+/* nothing */
+"Hangul" = "";
+
+/* nothing */
+"Thai" = "";
+
+/* nothing */
+"ZH_TW" = "";
+
+/* nothing */
+"Square" = "Karrezenn";
+
+/* nothing */
+"Rectangle" = "Hirgarrezenn";
+
+/* nothing */
+"Circle" = "Kelc'h";
+
+/* nothing */
+"Ellipse" = "";
+
+/* nothing */
+"Triangle" = "Tric'horn";
+
+/* nothing */
+"Pentagon" = "Pempkorn";
+
+/* nothing */
+"Rhombus" = "";
+
+/* nothing */
+"Octagon" = "Pempkorn";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Un hirgarrezenn he deus pevar zu.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Un hirgarrezenn he deus pevar zu.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "";
+
+/* nothing */
+"An ellipse is a stretched circle." = "";
+
+/* nothing */
+"A triangle has three sides." = "Un tric'horneg en deus tri zu.";
+
+/* nothing */
+"A pentagon has five sides." = "Ur pempkorneg en deus pemp tu.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "";
+
+/* nothing */
+"An octagon has eight equal sides." = "Ur pempkorneg en deus pemp tu.";
+
+/* nothing */
+"Tools" = "Binvioù";
+
+/* nothing */
+"Colors" = "Livioù";
+
+/* nothing */
+"Brushes" = "Barroù-livañ";
+
+/* nothing */
+"Erasers" = "Gomennoù";
+
+/* nothing */
+"Stamps" = "Dielloù";
+
+/* nothing */
+"Shapes" = "Stummoù";
+
+/* nothing */
+"Letters" = "Lizherennoù";
+
+/* nothing */
+"Magic" = "Strobinellus";
+
+/* nothing */
+"Paint" = "Livañ";
+
+/* nothing */
+"Stamp" = "Diell";
+
+/* nothing */
+"Lines" = "Linennoù";
+
+/* nothing */
+"Text" = "Testenn";
+
+/* nothing */
+"Label" = "";
+
+/* nothing */
+"Undo" = "Nullañ";
+
+/* nothing */
+"Redo" = "Adober";
+
+/* nothing */
+"Eraser" = "Gomenn";
+
+/* nothing */
+"New" = "Nevez";
+
+/* nothing */
+"Open" = "Digeriñ";
+
+/* nothing */
+"Save" = "Gwarediñ";
+
+/* nothing */
+"Print" = "Moullañ";
+
+/* nothing */
+"Quit" = "Kuitaat";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Diuz ul liv hag ur moull-livañ evit tresañ";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Dibab ur skeudenn evit ensoc'hañ anezhi e-barzh da dresadenn.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Klik evit kregiñ da dresañ ul linenn.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Diuz ur stumm. Klik warnañ, dibab e blas hag e vent. Lak anezhañ da dreiñ en ur bouezañ, ha klik evit e dresañ a-benn ar fin.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Diuz ur stil testenn. Klik war da skeudenn ha krog da vizskrivañ un destenn.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Diuz ur stil testenn. Klik war da skeudenn ha krog da vizskrivañ un destenn.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Dibab un efed strobinellus evit kemmañ da dresadenn !";
+
+/* nothing */
+"Undo!" = "Nullañ !";
+
+/* nothing */
+"Redo!" = "Adober !";
+
+/* nothing */
+"Eraser!" = "Diverkañ !";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Dibab ur skeudenn evit ensoc'hañ anezhi e-barzh da dresadenn.";
+
+/* nothing */
+"Open…" = "Digeriñ ...";
+
+/* nothing */
+"Your image has been saved!" = "Gwaredet eo da skeudenn !";
+
+/* nothing */
+"Printing…" = "O voullañ...";
+
+/* nothing */
+"Bye bye!" = "Kenavo !";
+
+/* nothing */
+"Let go of the button to complete the line." = "Dalc'h da bouezañ war an afell evit peurleuniañ al linenn.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Dalc'h da bouezañ war an afell evit astenn ar stumm.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Fiñv al logodenn evit ober un dro gant ar stumm. Klik evit tresañ anezhañ.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Mat ! neuze kendalc'homp gant an dresadenn !";
+
+/* nothing */
+"Do you really want to quit?" = "Fellout a ra dit mont kuit ?";
+
+/* nothing */
+"Yes, I’m done!" = "";
+
+/* nothing */
+"No, take me back!" = "";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Kollet e vo da skeudenn mar kuitez ! Gwarediñ a rez ?";
+
+/* nothing */
+"Yes, save it!" = "";
+
+/* nothing */
+"No, don’t bother saving!" = "";
+
+/* nothing */
+"Save your picture first?" = "Gwarediñ ar skeudenn e gentañ ?";
+
+/* nothing */
+"Can’t open that picture!" = "N'haller digeriñ ar skeudenn-se !";
+
+/* nothing */
+"OK" = "Mat eo !";
+
+/* nothing */
+"There are no saved files!" = "Restr ebet gwaredet !";
+
+/* nothing */
+"Print your picture now?" = "Moullañ ar skeudenn diouzhtu ?";
+
+/* nothing */
+"Yes, print it!" = "";
+
+/* nothing */
+"Your picture has been printed!" = "Moullet eo bet da skeudenn !";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Moullet eo bet da skeudenn !";
+
+/* nothing */
+"You can’t print yet!" = "N'hallan ket moullañ atav !";
+
+/* nothing */
+"Erase this picture?" = "Diverkañ an dresadenn-se ?";
+
+/* nothing */
+"Yes, erase it!" = "";
+
+/* nothing */
+"No, don’t erase it!" = "";
+
+/* nothing */
+"Remember to use the left mouse button!" = "";
+
+/* nothing */
+"Sound muted." = "";
+
+/* nothing */
+"Sound unmuted." = "";
+
+/* nothing */
+"Please wait…" = "";
+
+/* nothing */
+"Erase" = "Diverkañ";
+
+/* nothing */
+"Slides" = "";
+
+/* nothing */
+"Back" = "Distro";
+
+/* nothing */
+"Next" = "Testenn";
+
+/* nothing */
+"Play" = "";
+
+/* nothing */
+"Aa" = "As";
+
+/* nothing */
+"Yes" = "Ya";
+
+/* nothing */
+"No" = "Ne ra ket";
+
+/* nothing */
+"Replace the picture with your changes?" = "";
+
+/* nothing */
+"Yes, replace the old one!" = "";
+
+/* nothing */
+"No, save a new file!" = "Ket, gwarediñ dindan un anv nevez";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Diuz ur skeudenn ha klik war 'digeriñ' neuze.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Diuz ur skeudenn ha klik war 'digeriñ' neuze.";
+
+/* nothing */
+"Pick a color." = "";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Drawing program" = "Meziant tresañ";
+
+/* nothing */
+"A drawing program for children." = "Ur meziant tresañ evit ar vugale.";
+
+/* nothing */
+"Color Shift" = "";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Blind" = "";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "";
+
+/* nothing */
+"Blocks" = "Bloc'hadoù";
+
+/* nothing */
+"Chalk" = "Kleiz";
+
+/* nothing */
+"Drip" = "Beradenn";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Klik ha fiñv al logodenn evit kaout bloc'hadoù bihan.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Klik ha fiñv al logodenn evit cheñch ar skeudenn en un dresadenn gleiz.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Klik ha fiñv al logodenn evit lakaat ar skeudenn da c'hlebiañ.";
+
+/* nothing */
+"Blur" = "Luziañ";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to blur the entire image." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Bricks" = "Bloc'hadoù";
+
+/* nothing */
+"Click and move to draw large bricks." = "Klik ha fiñv al logodenn evit tresañ bloc'hadoù bras.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Klik ha fiñv al logodenn evit tresañ bloc'hadoù bihan.";
+
+/* nothing */
+"Calligraphy" = "";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Klik ha fiñv al logodenn evit kaout ar rakluc'henn.";
+
+/* nothing */
+"Cartoon" = "Tresadenn-vev";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Klik ha fiñv al logodenn evit cheñch ar skeudenn en un dresadenn-vev.";
+
+/* nothing */
+"Confetti" = "";
+
+/* nothing */
+"Click to throw confetti!" = "";
+
+/* nothing */
+"Distortion" = "";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Emboss" = "";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Lighten" = "Gris sklaer !";
+
+/* nothing */
+"Darken" = "Teñvaloc'h";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Klik ha fiñv al logodenn evit cheñch liv an dresadenn.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to darken your entire picture." = "Klik ha fiñv al logodenn evit cheñch liv an dresadenn.";
+
+/* nothing */
+"Fill" = "Leuniañ";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Klik war ar skeudenn evit leuniañ al leur-se gant ul liv.";
+
+/* nothing */
+"Fisheye" = "";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Flower" = "";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "";
+
+/* nothing */
+"Foam" = "";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Klik war ar skeudenn evit leuniañ al leur-se gant ul liv.";
+
+/* nothing */
+"Fold" = "";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Glass Tile" = "";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Klik ha fiñv al logodenn evit cheñch liv an dresadenn.";
+
+/* nothing */
+"Grass" = "Geot";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Klik ha fiñv al logodenn evit tresañ geot. Na zisoñj ket ar poultr.";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Symmetric Left/Right" = "";
+
+/* nothing */
+"Symmetric Up/Down" = "";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Klik ha fiñv al logodenn evit lakaat al livioù da deñvalaat.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Klik ha fiñv al logodenn evit lakaat al livioù da deñvalaat.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Klik ha fiñv al logodenn evit lakaat al livioù da deñvalaat.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Klik ha fiñv al logodenn evit lakaat al livioù da deñvalaat.";
+
+/* nothing */
+"Light" = "Gris sklaer !";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Metal Paint" = "Livañ";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Klik ha fiñv al logodenn evit lakaat al livioù da deñvalaat.";
+
+/* nothing */
+"Mirror" = "Melezour";
+
+/* nothing */
+"Flip" = "Eilpennañ";
+
+/* nothing */
+"Click to make a mirror image." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Klik evit lakaat ar skeudenn war an tu gin.";
+
+/* nothing */
+"Mosaic" = "Strobinellus";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Square Mosaic" = "Karrezenn";
+
+/* nothing */
+"Hexagon Mosaic" = "Strobinellus";
+
+/* nothing */
+"Irregular Mosaic" = "";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Negative" = "Rakluc'henn";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Klik ha fiñv al logodenn evit kaout ar rakluc'henn.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Noise" = "";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Klik ha fiñv al logodenn evit cheñch liv an dresadenn.";
+
+/* nothing */
+"Perspective" = "";
+
+/* nothing */
+"Zoom" = "";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Puzzle" = "Limestra !";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Rails" = "";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Rainbow" = "Gwareg ar Glav";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Gallout a rez tresañ gant livioù ar Garreg-ar-Glav !";
+
+/* nothing */
+"Rain" = "Gwareg ar Glav";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Real Rainbow" = "Gwareg ar Glav";
+
+/* nothing */
+"ROYGBIV Rainbow" = "Gwareg ar Glav";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "";
+
+/* nothing */
+"Ripples" = "";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Rosette" = "";
+
+/* nothing */
+"Picasso" = "";
+
+/* nothing */
+"Click and start drawing your rosette." = "Klik evit kregiñ da dresañ ul linenn.";
+
+/* nothing */
+"You can draw just like Picasso!" = "Gallout a rez tresañ gant livioù ar Garreg-ar-Glav !";
+
+/* nothing */
+"Edges" = "";
+
+/* nothing */
+"Sharpen" = "Stummoù";
+
+/* nothing */
+"Silhouette" = "";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Klik ha fiñv al logodenn evit cheñch liv an dresadenn.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Klik evit kaout ar skeudenn en ur melezour.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Shift" = "";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Smudge" = "Displanaat";
+
+/* nothing */
+"Wet Paint" = "Livañ";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Snow Ball" = "";
+
+/* nothing */
+"Snow Flake" = "";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"String edges" = "";
+
+/* nothing */
+"String corner" = "";
+
+/* nothing */
+"String 'V'" = "";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "";
+
+/* nothing */
+"Tint" = "Livaj";
+
+/* nothing */
+"Color & White" = "";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Klik ha fiñv al logodenn evit cheñch ar skeudenn en un dresadenn-vev.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Klik ha fiñv al logodenn evit cheñch ar skeudenn en un dresadenn-vev.";
+
+/* nothing */
+"Toothpaste" = "";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Tornado" = "";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"TV" = "";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Klik ha fiñv al logodenn evit cheñch liv an dresadenn.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Klik ha fiñv al logodenn evit cheñch liv an dresadenn.";
+
+/* nothing */
+"Waves" = "Gwarediñ";
+
+/* nothing */
+"Wavelets" = "Gwarediñ";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "";
+
+/* nothing */
+"Xor Colors" = "Livioù";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Klik ha fiñv al logodenn evit displanaat ar skeudenn.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Klik evit kaout ar skeudenn en ur melezour.";
+

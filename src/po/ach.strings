@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: tuxpaint-i18n@lists.sourceforge.net\nPOT-Creation-Date: 2014-06-03 21:03+0200\nPO-Revision-Date: 2010-12-09 09:00+0200\nLast-Translator: \nLanguage-Team: \nLanguage: ach\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n > 1);\n";
+
+/* nothing */
+"Black!" = "Col!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Ocido buruburu atika! Jo mukene gi coyo ni '' ocido yitoyito atika''.";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Ocido buruburu! Jo mukene gi coyo ni '' ocido yitoyito''.";
+
+/* nothing */
+"White!" = "Tar!";
+
+/* nothing */
+"Red!" = "Kwar!";
+
+/* nothing */
+"Orange!" = "Oreny!";
+
+/* nothing */
+"Yellow!" = "Yelo!";
+
+/* nothing */
+"Light green!" = "Alumalum!";
+
+/* nothing */
+"Dark green!" = "Cido ma lalum!";
+
+/* nothing */
+"Sky blue!" = "Bululu calo pol!";
+
+/* nothing */
+"Blue!" = "Bululu!";
+
+/* nothing */
+"Lavender!" = "Macalo papul!";
+
+/* nothing */
+"Purple!" = "Papul!";
+
+/* nothing */
+"Pink!" = "Pinki!";
+
+/* nothing */
+"Brown!" = "Lobolobo";
+
+/* nothing */
+"Tan!" = "Apuapua!";
+
+/* nothing */
+"Beige!" = "Okwor-okwor!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = ",.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{<(^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1II|";
+
+/* nothing */
+"<1>spare-1a" = "<1>cipea-1a";
+
+/* nothing */
+"<1>spare-1b" = "<1>cipea-1b";
+
+/* nothing */
+"<9>spare-9a" = "<9>cipea-9a";
+
+/* nothing */
+"<9>spare-9b" = "<9>cipea-9b";
+
+/* nothing */
+"Great!" = "Ber atika!";
+
+/* nothing */
+"Cool!" = "Leng!";
+
+/* nothing */
+"Keep it up!" = "Mede kwede anyim!";
+
+/* nothing */
+"Good job!" = "Tic maber!";
+
+/* nothing */
+"English" = "Leb munu";
+
+/* nothing */
+"Hiragana" = "Hiragana";
+
+/* nothing */
+"Katakana" = "Katakana";
+
+/* nothing */
+"Hangul" = "Hangul";
+
+/* nothing */
+"Thai" = "Thai";
+
+/* nothing */
+"ZH_TW" = "ZH_TW";
+
+/* nothing */
+"Square" = "Lagwic angwen marom ducu";
+
+/* nothing */
+"Rectangle" = "Lagwic angwen me aryo ma opime romrom";
+
+/* nothing */
+"Circle" = "Lawala";
+
+/* nothing */
+"Ellipse" = "Lawala ma kidiyo tungcel";
+
+/* nothing */
+"Triangle" = "Lagwic adek";
+
+/* nothing */
+"Pentagon" = "Lagwic abic maromrom";
+
+/* nothing */
+"Rhombus" = "Lagwic angwen marom ento tye ogotogot";
+
+/* nothing */
+"Octagon" = "Lagwic aboro maromrom";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Cikwea obedo lagwic angwen ma romrom.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Rectangle tye ki lake angwen ki gwic angwen.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "Circle obedo lawala ma aa ki kamoo keken ki ibute oo icwinye romaroma";
+
+/* nothing */
+"An ellipse is a stretched circle." = "Ellipse obedo lawala ma kitelo bute";
+
+/* nothing */
+"A triangle has three sides." = "Triangle tye ki gwic adek";
+
+/* nothing */
+"A pentagon has five sides." = "Pentagon tye ki gwic abic";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Rhombus tye ki bute angwen marom, kun aryo ki iye otere maromaroma";
+
+/* nothing */
+"An octagon has eight equal sides." = "Octagon tye ki bute aboro marom aroma";
+
+/* nothing */
+"Tools" = "Jami tic";
+
+/* nothing */
+"Colors" = "Rangi";
+
+/* nothing */
+"Brushes" = "Lajwac";
+
+/* nothing */
+"Erasers" = "Laduny";
+
+/* nothing */
+"Stamps" = "Ladong alama";
+
+/* nothing */
+"Shapes" = "Kite";
+
+/* nothing */
+"Letters" = "Nukuta";
+
+/* nothing */
+"Magic" = "Tangu";
+
+/* nothing */
+"Paint" = "Ling";
+
+/* nothing */
+"Stamp" = "Dong alama";
+
+/* nothing */
+"Lines" = "Rek";
+
+/* nothing */
+"Text" = "Coc";
+
+/* nothing */
+"Label" = "Lanyut";
+
+/* nothing */
+"Undo" = "Dwok kit macon";
+
+/* nothing */
+"Redo" = "Dwok dok kit ma onongo itimo kwede";
+
+/* nothing */
+"Eraser" = "Lajwa";
+
+/* nothing */
+"New" = "Nyen";
+
+/* nothing */
+"Open" = "Yabi";
+
+/* nothing */
+"Save" = "Gwok maber";
+
+/* nothing */
+"Print" = "Go i karatac";
+
+/* nothing */
+"Quit" = "Wek woko";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Kwany rangi ki kit pa lajwac cite igo kwede.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Kwany cal ma omyero idi iteng cal megi ma igoyo.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Dii me cako goyo rek. Wek wot ka tyeko goyo ne.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Kwany kite. Di me yero dyere,ywaa, ci wek ywayo ka oo i kit ma imito. Ywa calo lawala ka imito wiro ne, ci i di me goyo cal man.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Yer kit coc mo keken.Di kum cal megi ci dong iromo cako goyo coc. Di Enter onyo Tab me tyeko coc megi.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Yer kit coc mo keken.Di kum cal megi ci dong iromo dong cako goyo coc.Di (Donyi) onyo Tab me tyeko coc megi.Ka itiyo ki layer jami kun idiyo coc ma dong tye,iromo diro kakare, loko ne kit ma imito kun bene iloko wa kit coc ne. ";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Yer wek otime calo tangu tangu ikum cal megi!";
+
+/* nothing */
+"Undo!" = "Dwok kit macon!";
+
+/* nothing */
+"Redo!" = "Dwok kit ma onwongo itimo kede ni!";
+
+/* nothing */
+"Eraser!" = "Lajwa!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Kwany rangi onyo cal ma omyero icak ki goc manyen.";
+
+/* nothing */
+"Open…" = "Yab...";
+
+/* nothing */
+"Your image has been saved!" = "Cal megi ki tyeko gwoko woko!";
+
+/* nothing */
+"Printing…" = "Tye ka goyo coc i karatac...";
+
+/* nothing */
+"Bye bye!" = "Dong maber ba!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Wek citi ikum ladic me tyeko  rek.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Mak ladic me telo onyo nyayo kit cal megi.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Dir oyo me wiro cal mamegi.Dii me goyo ne.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Kakare...Wamede ki goyo cal eni ni!";
+
+/* nothing */
+"Do you really want to quit?" = "Adaa imito aao?";
+
+/* nothing */
+"Yes, I’m done!" = "Eyo,dong atyeko oo!";
+
+/* nothing */
+"No, take me back!" = "Ku, dwoka dok cen!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Ka i aao, ibino rwenyo cal mamegi woko! Imito gwoko ne?";
+
+/* nothing */
+"Yes, save it!" = "Eyo, gwoki!";
+
+/* nothing */
+"No, don’t bother saving!" = "Ku, pe iyele me gwoko ne!";
+
+/* nothing */
+"Save your picture first?" = "Kong ki gwok cali maenini?";
+
+/* nothing */
+"Can’t open that picture!" = "Yabo cal eno ni oloya woko!";
+
+/* nothing */
+"OK" = "Aya do.";
+
+/* nothing */
+"There are no saved files!" = "Pe tye fayil mo keken ma onongo kigwoko.";
+
+/* nothing */
+"Print your picture now?" = "Ki go cal mamegi ni dong ikaratac?";
+
+/* nothing */
+"Yes, print it!" = "Eyo, go ne!";
+
+/* nothing */
+"Your picture has been printed!" = "Kityeko dong goyo cal mamegi woko! ";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Tim wa kica! Pe wa goyo cal mamegi!";
+
+/* nothing */
+"You can’t print yet!" = "Pwod pe iromo goyo cal mamegi";
+
+/* nothing */
+"Erase this picture?" = "Duny cal eni woko?";
+
+/* nothing */
+"Yes, erase it!" = "Eyo,duny oo!";
+
+/* nothing */
+"No, don’t erase it!" = "Ku, pe iduny!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Po me tic ki mapeca tung acam me oyo/ladic!";
+
+/* nothing */
+"Sound muted." = "Dwon kineko oo weng.";
+
+/* nothing */
+"Sound unmuted." = "Dwon kiyabu.";
+
+/* nothing */
+"Please wait…" = "Tim ber ikur...";
+
+/* nothing */
+"Erase" = "Duny";
+
+/* nothing */
+"Slides" = "cale macer malube aluba ";
+
+/* nothing */
+"Back" = "Cen";
+
+/* nothing */
+"Next" = "Mede anyim";
+
+/* nothing */
+"Play" = "Tuki";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Eyo";
+
+/* nothing */
+"No" = "Ku";
+
+/* nothing */
+"Replace the picture with your changes?" = "Kilok cal malube ki alokaloka itici manyeni?";
+
+/* nothing */
+"Yes, replace the old one!" = "Eyo,lok kun ileyo maconi oo!";
+
+/* nothing */
+"No, save a new file!" = "Ku, gwok fayil manyen!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Yer cal ma imito, ci idi \"Yabi\"";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Yer cal ma imito, ci idi \"Tuki\".";
+
+/* nothing */
+"Pick a color." = "Kwany rangi.";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Drawing program" = "Purugram me goc";
+
+/* nothing */
+"A drawing program for children." = "Purugram me goyo cal pa lutino.";
+
+/* nothing */
+"Color Shift" = "Diro rangi";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Dii ci iywa ladic ne wek olok rangi idul kom cal mamegi.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Dii wek olok rangi ikom cal mamegi weng.";
+
+/* nothing */
+"Blind" = "Too wang";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Dii macok ki lak cal ma megi wek iywa ci iwum ki dirica ma latowang ikume.Ywa atira ci oyab onyo lor towang.";
+
+/* nothing */
+"Blocks" = "Bulok";
+
+/* nothing */
+"Chalk" = "Coka";
+
+/* nothing */
+"Drip" = "Ton";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Dii ci iywa ladic iyi akina ne wek omi cal gubed calo bulok.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Dii ci iywa ladic iyi akina ne wek ilok cal kun dwoko ne igoc ma coka.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Dii ci iywa ladic iyi akina ne wek omi ton pa cal.";
+
+/* nothing */
+"Blur" = "Ma laribiribi.";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Dii ci iywa ladic iyi akina ne wek omi cal bed laribiribi.";
+
+/* nothing */
+"Click to blur the entire image." = "Dii wek omi cal weng obed ma laribiribi.";
+
+/* nothing */
+"Bricks" = "Matapwali";
+
+/* nothing */
+"Click and move to draw large bricks." = "Dii ci idir wek ogo cal matapwali ma dit odoco.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Dii ci idir wek igo cal matapwali ma tino.";
+
+/* nothing */
+"Calligraphy" = "Coc  ma mwonya";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Dii ci idir ladic iyi akina ne wek igo iyi coc ma mwonya.";
+
+/* nothing */
+"Cartoon" = "Katuun";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Dii ci idir iyi akina ne wek owir cal dwok tung kum katuun.";
+
+/* nothing */
+"Confetti" = "Kwone cale ma giyiko ma mile";
+
+/* nothing */
+"Click to throw confetti!" = "Dii ci iba cal ma gigoyo ma mile!";
+
+/* nothing */
+"Distortion" = "Rucurucu";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Dii ci iywa ladic wek omi cal mamegi rucere odoco.";
+
+/* nothing */
+"Emboss" = "Ling";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Dii ci iywa ladic wek iling  cal.";
+
+/* nothing */
+"Lighten" = "Cwinyi";
+
+/* nothing */
+"Darken" = "Cidi";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Dii ci idir ladic wek icwiny dul kom pa cal mamegi.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Dii wek icwiny cal mamegi weng.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Dii ci idir ladic wek icid dul kom cal mamegi.";
+
+/* nothing */
+"Click to darken your entire picture." = "Dii wek icid woko cal mamegi weng.";
+
+/* nothing */
+"Fill" = "Pik";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Dii yi cal meno wek gupik ka ma orumu en ki rangi.";
+
+/* nothing */
+"Fisheye" = "Lawangrec";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Dii ki dul kom cal ma megi wek'oket ma calo lawangrec.";
+
+/* nothing */
+"Flower" = "Ature";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Dii ci iywa ka gono yat pa lature. Wek otyek ka gono lature.";
+
+/* nothing */
+"Foam" = "Bwoyo";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Dii ci iywa ladic wek owum kakare ki bwoyo ma otwak.";
+
+/* nothing */
+"Fold" = "Dol";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Yer rangi pa ka maneno calu bor ki dii wek owir  gwic pa pot katatac iwiye. ";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Dii ki iywa wek igoo latero ma gitiyo ki cale me toltol.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Dii wek iwum cal mamegi ki ton pa kot.";
+
+/* nothing */
+"Glass Tile" = "Matangula lum";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Dii ci iywa ladic wek oket matangula lum iwi cal mamegi.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Dii wek iwum cal mamegi weng icanduk pa matangula lum.";
+
+/* nothing */
+"Grass" = "Lum";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Dii ci idir wek ogo lum. Kur wii wil ki cilo!";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Dii wek olok wir mamegi dwoko ne nioo imarac.";
+
+/* nothing */
+"Symmetric Left/Right" = "Nucu mo ma romrom ki mukene ki caji ma Lacam/Lacuc";
+
+/* nothing */
+"Symmetric Up/Down" = "Nucu mo ma romrom ki mukene ki caji ma Lamal/Piny";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "Dol matye ki ebukutu ma i kio";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Dii ci iywa ladic wek ogo ki lajwac aryo ma tye ki nucu mo maromrom arii ma lacam ki tung lacuc pa cal mamegi.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Dii ci iywa ladic wek ogo ki lajwac aryo ma tye ki nucu mo ma romrom arii itung ku wie ci piny pa cal mamegi.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Dii ci iywa ladic wek iling  cal.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Dii ci iywa ladic wek ogo ki lajwac aryo ma tye ki nucu mo maromrom arii ma lacam ki tung lacuc pa cal mamegi.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Dii ci iywa ladic wek ogo ki lajwac ma nucu ne romrom ki mukene (akaleidoscope).";
+
+/* nothing */
+"Light" = "Cwiny";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Dii ci iywa wek ogo layin acara pa lero okom cal mamegi.";
+
+/* nothing */
+"Metal Paint" = "Dawa me nyonyo";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Dii ci iywa ladic wek oling ki rangi me nyonyo.";
+
+/* nothing */
+"Mirror" = "Kio";
+
+/* nothing */
+"Flip" = "Lok me oyoto";
+
+/* nothing */
+"Click to make a mirror image." = "Dii wek iyik cal kio.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Dii wek ilok cal laculawic.";
+
+/* nothing */
+"Mosaic" = "Cal ma kiketo kacel ki gwenge ma olinge(Mosaic)";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Dii wek idir ladic ka ibimedo teko pa mojaik ikom dul kom cal mamegi.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Dii wek imed teko pa cal ma kiketo kacel ki gwenge ikom cal mamegi weng.";
+
+/* nothing */
+"Square Mosaic" = "Cal ma kiketo kacel ki gwenge ma twoke angwen rorom";
+
+/* nothing */
+"Hexagon Mosaic" = "Cal ma kiketo kacel ki gwenge ma olinge ma twoke tye abicel";
+
+/* nothing */
+"Irregular Mosaic" = "Cal ma kiketo kacel ki gwenge ma olinge ma pe ki twoke ";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Dii ci idir ladic wek omed cal ma kiketo ki gwenge ma olinge  ma twoke angwen rorom ikom dul cal mamegi weng.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Dii wek omed cal ma kiketo kacel ki gwenge ma olinge ma twoke angwen ikom cal mamegi weng.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Dii ki idir ladic wek omed cal ma kiketo kacel ki gwenge ma olinge ma twoke abicel marom ikom cal mamegi.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Dii wek imed cal ma kiketo kacel ki gwenge ma olinge ma twoke abicel marom ikom cal mamegi weng.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Dii ki idir ladic wek imed cal ma kiketo kacel ki gwenge ma olinge ma twoke tye ataata  idul kom cal mamegi.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Dii wek imed cal ma kiketo kacel ki gwenge ma olinge ma twoke tye ataata idul kum cal mamegi weng.";
+
+/* nothing */
+"Negative" = "Olutuke";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Dii ki idir ladic akina ne wek omi wir mamegi obed marac.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Dii wek olok wir mamegi dwoko ne nioo imarac.";
+
+/* nothing */
+"Noise" = "Dange";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Dii ki idir ladic wek imed dange idul ikom cal mamegi.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Dii wek omed dange ikom cal mamegi weng.";
+
+/* nothing */
+"Perspective" = "Malube kwede";
+
+/* nothing */
+"Zoom" = "Nyaa ";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Dii ikom itwoketwoke ite ywayo kama imito ryeyone cal mamegi.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Dii ki iywa lamal wek onya onyo ywa lapiny wek irid cal woko.";
+
+/* nothing */
+"Puzzle" = "Laruc wic";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Dii dul ikom cal mamegi ka ma imaro laruc wic iye.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Dii wek iyik laruc wic malac iwang kompiuta.";
+
+/* nothing */
+"Rails" = "Tyen-gar";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Dii ki iywa wek igo yoo tyen gar ikom cal mamegi.";
+
+/* nothing */
+"Rainbow" = "Itoloka";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Itwero goyo ki rangi pa itoloka!";
+
+/* nothing */
+"Rain" = "Kot";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Dii wek olee ton pa kot ikom cal mamegi.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Dii wek iwum cal mamegi ki ton pa kot.";
+
+/* nothing */
+"Real Rainbow" = "Itolaka kikome";
+
+/* nothing */
+"ROYGBIV Rainbow" = "ROYGBIV Itolaka";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Dii kan ma imito ni itoloka mamegi ocake iye, ywa nioo kan ma imito ni en ogik iye, ki mii ociti ka gono itolaka.";
+
+/* nothing */
+"Ripples" = "Twagere pa pii";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Dii wek imii twage pa pii onyute iwi cal mamegi.";
+
+/* nothing */
+"Rosette" = "Rosette";
+
+/* nothing */
+"Picasso" = "Picasso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Dii ki icak goyo rosette mamegi.";
+
+/* nothing */
+"You can draw just like Picasso!" = "Itwero goyo macalo Picasso kikome!";
+
+/* nothing */
+"Edges" = "Teng ";
+
+/* nothing */
+"Sharpen" = "Paki";
+
+/* nothing */
+"Silhouette" = "Silhoutte";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Dii ki idir ladic wek okwed teng idul kom cal mamegi.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Dii wek okwed teng ical mamegi weng.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Dii ki idir ladic ne  wek opak dul kom cal mamegi.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Dii wek ipak cal mamegi weng.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Dii ki idir ladic wek oyik silhoutte matye macol ki  matar.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Dii wek iyik silhoutte manen macol kwede matar ikom cal mamegi weng.";
+
+/* nothing */
+"Shift" = "Kobi";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Dii ki  iywa me kobo cal mamegi  iyi akina kum canvas.";
+
+/* nothing */
+"Smudge" = "Lililo";
+
+/* nothing */
+"Wet Paint" = "Rangi madyaka";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Dii ki idir ladic akina ne wek ilil cal.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Dii ki idir ladic iyi akina ne wek igo kwede madyak. dawa ma dyakdyak.";
+
+/* nothing */
+"Snow Ball" = "Odilo me Akuna";
+
+/* nothing */
+"Snow Flake" = "Pii mumake mapoto ki malo";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Dii wek  imed odilo akuna ikum cal mamegi. ";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Dii wek imed pii mumake mapoto ki malo ikom cal mamegi.";
+
+/* nothing */
+"String edges" = "Teng tol weng ma gikubu";
+
+/* nothing */
+"String corner" = "Gwic tol  ma gikubu";
+
+/* nothing */
+"String 'V'" = "Tol \"V\"";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Dii ki iywa wek igoo cale ki toltol. Ywa imalu-ki piny wek i goo rye manok onyo layin mapol, tung lacam onyo tung acuc wek oket i bur ma dit.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Dii ki iywa wek igoo latero ma gitiyo ki cale me toltol.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Goo lacim cal toltol kwede akina gi tye mere ataa.";
+
+/* nothing */
+"Tint" = "Rangi ma gi rubu matar.";
+
+/* nothing */
+"Color & White" = "Rangi & Matar";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Dii ki idir ladic i akinakina ne wek olok rangi pa dul kom cal mamegi.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Dii wek ilok rangi pa cal mamegi weng.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Dii ki idir ladic i akinakina ne wek olok dul kom cal mamegi idwok matar kwede rangi ma iyero ne.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Dii wek ilok kum cal mamegi weng odok matar ki rangi  ma yin iyero.";
+
+/* nothing */
+"Toothpaste" = "Yat lajwa lak";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Dii ki iywa wek ibibio yat lajwa lak ikom cal ma megi.";
+
+/* nothing */
+"Tornado" = "Yamo ajuru";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Dii ki iywa wek ogo cal lapik yamo ajuru ikum cal ma megi.";
+
+/* nothing */
+"TV" = "TV";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Dii ci iywa wek omi dul kom cal ma megi onen calo ma gutye itelevision.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Dii wek omi cal ma megi nen ma calo tye itelevision.";
+
+/* nothing */
+"Waves" = "Yamu ma tago pii";
+
+/* nothing */
+"Wavelets" = "Yamu ma tago manok";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Dii wek omi cal tage abutu. Dii macok ki wie pi tage macek, dol tere me tage maboco, lacam pi tage manok, ki tung lacuc pi tage mabor.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Dii wek omi cal tage atir. Dii macok ki wiye pi tage macek, dol tere pi tage maboco, lacam pi tage manok, ki tung lacuc pi tage mabor.";
+
+/* nothing */
+"Xor Colors" = "Rangi";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Dii ki iywa wek igoo latero ma gitiyo ki cale me toltol.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Dii wek imed teko pa cal ma kiketo kacel ki gwenge ikom cal mamegi weng.";
+

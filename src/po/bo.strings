@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: PACKAGE VERSION\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2013-10-26 17:43+0900\nPO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\nLast-Translator: FULL NAME <EMAIL@ADDRESS>\nLanguage-Team: LANGUAGE <LL@li.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: \n";
+
+/* nothing */
+"Black!" = "ng.po.";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "ng.SKKKKKKKKKKY.";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "av.gu.mdog.";
+
+/* nothing */
+"White!" = "dkr.po.";
+
+/* nothing */
+"Red!" = "dmr.po.";
+
+/* nothing */
+"Orange!" = "li.wv.";
+
+/* nothing */
+"Yellow!" = "ser.po.";
+
+/* nothing */
+"Light green!" = "]ur.qu.";
+
+/* nothing */
+"Dark green!" = "lJv.ng.";
+
+/* nothing */
+"Sky blue!" = "gnm.sVon.po.";
+
+/* nothing */
+"Blue!" = "sVon.po.";
+
+/* nothing */
+"Lavender!" = "ziv.mr.";
+
+/* nothing */
+"Purple!" = "sVo.dmr.";
+
+/* nothing */
+"Pink!" = "ziv.sKY.";
+
+/* nothing */
+"Brown!" = "rGY.sMug.";
+
+/* nothing */
+"Tan!" = "sMug.po.";
+
+/* nothing */
+"Beige!" = "";
+
+/* nothing */
+"qx" = "";
+
+/* nothing */
+"QX" = "";
+
+/* nothing */
+"oO" = "";
+
+/* nothing */
+",.?!" = "";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "";
+
+/* nothing */
+"017" = "";
+
+/* nothing */
+"O0" = "";
+
+/* nothing */
+"1Il|" = "";
+
+/* nothing */
+"<1>spare-1a" = "";
+
+/* nothing */
+"<1>spare-1b" = "";
+
+/* nothing */
+"<9>spare-9a" = "";
+
+/* nothing */
+"<9>spare-9b" = "";
+
+/* nothing */
+"Great!" = "";
+
+/* nothing */
+"Cool!" = "";
+
+/* nothing */
+"Keep it up!" = "";
+
+/* nothing */
+"Good job!" = "";
+
+/* nothing */
+"English" = "";
+
+/* nothing */
+"Hiragana" = "";
+
+/* nothing */
+"Katakana" = "";
+
+/* nothing */
+"Hangul" = "";
+
+/* nothing */
+"Thai" = "";
+
+/* nothing */
+"ZH_TW" = "";
+
+/* nothing */
+"Square" = "g+iu.bZi.";
+
+/* nothing */
+"Rectangle" = "g+u.bZi.nr.nr.";
+
+/* nothing */
+"Circle" = "sGor.sGor.";
+
+/* nothing */
+"Ellipse" = "sGor.mo.]uv.[en.p.";
+
+/* nothing */
+"Triangle" = "zur.gsum.";
+
+/* nothing */
+"Pentagon" = "zur.lV.";
+
+/* nothing */
+"Rhombus" = "\\.lm.zur.cn.";
+
+/* nothing */
+"Octagon" = "zur.lV.";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "";
+
+/* nothing */
+"An ellipse is a stretched circle." = "";
+
+/* nothing */
+"A triangle has three sides." = "";
+
+/* nothing */
+"A pentagon has five sides." = "";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "";
+
+/* nothing */
+"An octagon has eight equal sides." = "";
+
+/* nothing */
+"Tools" = "lg.].";
+
+/* nothing */
+"Colors" = "]xn.q+.";
+
+/* nothing */
+"Brushes" = "";
+
+/* nothing */
+"Erasers" = "bsub.bYeed.";
+
+/* nothing */
+"Stamps" = "[m.k.";
+
+/* nothing */
+"Shapes" = "bzo.lT.";
+
+/* nothing */
+"Letters" = "";
+
+/* nothing */
+"Magic" = "mig.a\\+ul.";
+
+/* nothing */
+"Paint" = "]xon.";
+
+/* nothing */
+"Stamp" = "[m.k.";
+
+/* nothing */
+"Lines" = "[ig.";
+
+/* nothing */
+"Text" = "dpe.].";
+
+/* nothing */
+"Label" = "";
+
+/* nothing */
+"Undo" = "sNd.bsKb.bsub.p.";
+
+/* nothing */
+"Redo" = "yv.sKYr.bsTn.p.";
+
+/* nothing */
+"Eraser" = "bsub.bYed.";
+
+/* nothing */
+"New" = "gsr.p.";
+
+/* nothing */
+"Open" = "q.\\Yed.p.";
+
+/* nothing */
+"Save" = "bs+o.]xgs.bYed.p.";
+
+/* nothing */
+"Print" = "pr.rGYb.p.";
+
+/* nothing */
+"Quit" = "gyug.bZg.p.";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "";
+
+/* nothing */
+"Undo!" = "sNd.bsKb.bsub.p.";
+
+/* nothing */
+"Redo!" = "yv.sKYr.bsTn.p.";
+
+/* nothing */
+"Eraser!" = "bsub.bYed.";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "";
+
+/* nothing */
+"Open…" = "q.\\Yed.p.";
+
+/* nothing */
+"Your image has been saved!" = "";
+
+/* nothing */
+"Printing…" = "pr.rGYb.p.";
+
+/* nothing */
+"Bye bye!" = "";
+
+/* nothing */
+"Let go of the button to complete the line." = "";
+
+/* nothing */
+"Hold the button to stretch the shape." = "";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "";
+
+/* nothing */
+"Do you really want to quit?" = "";
+
+/* nothing */
+"Yes, I’m done!" = "";
+
+/* nothing */
+"No, take me back!" = "";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "";
+
+/* nothing */
+"Yes, save it!" = "";
+
+/* nothing */
+"No, don’t bother saving!" = "";
+
+/* nothing */
+"Save your picture first?" = "";
+
+/* nothing */
+"Can’t open that picture!" = "";
+
+/* nothing */
+"OK" = "";
+
+/* nothing */
+"There are no saved files!" = "";
+
+/* nothing */
+"Print your picture now?" = "";
+
+/* nothing */
+"Yes, print it!" = "";
+
+/* nothing */
+"Your picture has been printed!" = "";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "";
+
+/* nothing */
+"You can’t print yet!" = "";
+
+/* nothing */
+"Erase this picture?" = "";
+
+/* nothing */
+"Yes, erase it!" = "";
+
+/* nothing */
+"No, don’t erase it!" = "";
+
+/* nothing */
+"Remember to use the left mouse button!" = "";
+
+/* nothing */
+"Sound muted." = "";
+
+/* nothing */
+"Sound unmuted." = "";
+
+/* nothing */
+"Please wait…" = "";
+
+/* nothing */
+"Erase" = "";
+
+/* nothing */
+"Slides" = "";
+
+/* nothing */
+"Back" = "";
+
+/* nothing */
+"Next" = "dpe.].";
+
+/* nothing */
+"Play" = "";
+
+/* nothing */
+"Aa" = "";
+
+/* nothing */
+"Yes" = "";
+
+/* nothing */
+"No" = "";
+
+/* nothing */
+"Replace the picture with your changes?" = "";
+
+/* nothing */
+"Yes, replace the old one!" = "";
+
+/* nothing */
+"No, save a new file!" = "";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "";
+
+/* nothing */
+"Pick a color." = "";
+
+/* nothing */
+"A drawing program for children." = "";
+
+/* nothing */
+"Drawing program" = "";
+
+/* nothing */
+"Tux Paint" = "";
+
+/* nothing */
+"Color Shift" = "";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "";
+
+/* nothing */
+"Blind" = "";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "";
+
+/* nothing */
+"Blocks" = "RDog.RDog.";
+
+/* nothing */
+"Chalk" = "s.dkr.";
+
+/* nothing */
+"Drip" = "[igs.p.rGYb.p.";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "";
+
+/* nothing */
+"Blur" = "gsl.l.m.gsl.";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "";
+
+/* nothing */
+"Click to blur the entire image." = "";
+
+/* nothing */
+"Bricks" = "s.\\g.";
+
+/* nothing */
+"Click and move to draw large bricks." = "";
+
+/* nothing */
+"Click and move to draw small bricks." = "";
+
+/* nothing */
+"Calligraphy" = "";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "";
+
+/* nothing */
+"Cartoon" = "ri.mo.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "";
+
+/* nothing */
+"Confetti" = "";
+
+/* nothing */
+"Click to throw confetti!" = "";
+
+/* nothing */
+"Distortion" = "";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "";
+
+/* nothing */
+"Emboss" = "";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "";
+
+/* nothing */
+"Lighten" = "aod.a\\+o.b.";
+
+/* nothing */
+"Darken" = "ng.quv.";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "";
+
+/* nothing */
+"Click to lighten your entire picture." = "";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "";
+
+/* nothing */
+"Click to darken your entire picture." = "";
+
+/* nothing */
+"Fill" = "dgv.b.";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "";
+
+/* nothing */
+"Fisheye" = "";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "";
+
+/* nothing */
+"Flower" = "";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "";
+
+/* nothing */
+"Foam" = "";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "";
+
+/* nothing */
+"Fold" = "";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "";
+
+/* nothing */
+"Glass Tile" = "";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "";
+
+/* nothing */
+"Grass" = "RCX";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "";
+
+/* nothing */
+"Symmetric Left/Right" = "";
+
+/* nothing */
+"Symmetric Up/Down" = "";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "";
+
+/* nothing */
+"Light" = "aod.a\\+o.b.";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "";
+
+/* nothing */
+"Metal Paint" = "]xon.";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "";
+
+/* nothing */
+"Mirror" = "me.lov.";
+
+/* nothing */
+"Flip" = "sBud.sGYg.rGYb.p.";
+
+/* nothing */
+"Click to make a mirror image." = "";
+
+/* nothing */
+"Click to flip the picture upside-down." = "";
+
+/* nothing */
+"Mosaic" = "mig.a\\+ul.";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "";
+
+/* nothing */
+"Square Mosaic" = "g+iu.bZi.";
+
+/* nothing */
+"Hexagon Mosaic" = "mig.a\\+ul.";
+
+/* nothing */
+"Irregular Mosaic" = "";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "";
+
+/* nothing */
+"Negative" = "dgg.sG+ai.";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "";
+
+/* nothing */
+"Click to turn your painting into its negative." = "";
+
+/* nothing */
+"Noise" = "";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "";
+
+/* nothing */
+"Click to add noise to your entire picture." = "";
+
+/* nothing */
+"Perspective" = "";
+
+/* nothing */
+"Zoom" = "";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "";
+
+/* nothing */
+"Puzzle" = "sVo.dmr.";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "";
+
+/* nothing */
+"Rails" = "";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "";
+
+/* nothing */
+"Rain" = "aja.";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "";
+
+/* nothing */
+"Rainbow" = "aja.";
+
+/* nothing */
+"You can draw in rainbow colors!" = "";
+
+/* nothing */
+"Real Rainbow" = "aja.";
+
+/* nothing */
+"ROYGBIV Rainbow" = "aja.";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "";
+
+/* nothing */
+"Ripples" = "";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "";
+
+/* nothing */
+"Rosette" = "";
+
+/* nothing */
+"Picasso" = "";
+
+/* nothing */
+"Click and start drawing your rosette." = "";
+
+/* nothing */
+"You can draw just like Picasso!" = "";
+
+/* nothing */
+"Edges" = "";
+
+/* nothing */
+"Sharpen" = "bzo.lT.";
+
+/* nothing */
+"Silhouette" = "";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "";
+
+/* nothing */
+"Click to sharpen the entire picture." = "";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "";
+
+/* nothing */
+"Shift" = "";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "";
+
+/* nothing */
+"Smudge" = "ng.nog.";
+
+/* nothing */
+"Wet Paint" = "]xon.";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "";
+
+/* nothing */
+"Snow Ball" = "";
+
+/* nothing */
+"Snow Flake" = "";
+
+/* nothing */
+"Click to add snow balls to your picture." = "";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "";
+
+/* nothing */
+"String edges" = "";
+
+/* nothing */
+"String corner" = "";
+
+/* nothing */
+"String 'V'" = "";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "";
+
+/* nothing */
+"Draw string art arrows with free angles." = "";
+
+/* nothing */
+"Tint" = "m]xon.mdvs.";
+
+/* nothing */
+"Color & White" = "";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "";
+
+/* nothing */
+"Click to change the color of your entire picture." = "";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "";
+
+/* nothing */
+"Toothpaste" = "";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "";
+
+/* nothing */
+"Tornado" = "";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "";
+
+/* nothing */
+"TV" = "";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "";
+
+/* nothing */
+"Waves" = "bs+o.]xgs.bYed.p.";
+
+/* nothing */
+"Wavelets" = "bs+o.]xgs.bYed.p.";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "";
+
+/* nothing */
+"Xor Colors" = "]xn.q+.";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "";
+

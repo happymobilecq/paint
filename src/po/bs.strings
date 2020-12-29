@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2014-07-15 00:21+0200\nPO-Revision-Date: 2010-11-05 04:24+0000\nLast-Translator: Samir Ribić <Unknown>\nLanguage-Team: Bosnian <bs@li.org>\nLanguage: bs\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nX-Launchpad-Export-Date: 2013-10-23 16:08+0000\nX-Generator: Launchpad (build 16810)\n";
+
+/* nothing */
+"Black!" = "Crna!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Tamnosiva!";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Svijetlosiva!";
+
+/* nothing */
+"White!" = "Bijela!";
+
+/* nothing */
+"Red!" = "Crvena!";
+
+/* nothing */
+"Orange!" = "Narandžasta!";
+
+/* nothing */
+"Yellow!" = "Žuta!";
+
+/* nothing */
+"Light green!" = "Svjetlozelena!";
+
+/* nothing */
+"Dark green!" = "Tamnozelena!";
+
+/* nothing */
+"Sky blue!" = "Nebesko plava!";
+
+/* nothing */
+"Blue!" = "Plava!";
+
+/* nothing */
+"Lavender!" = "Lavanda!";
+
+/* nothing */
+"Purple!" = "Ljubičasta!";
+
+/* nothing */
+"Pink!" = "Ružičasta!";
+
+/* nothing */
+"Brown!" = "Smeđa!";
+
+/* nothing */
+"Tan!" = "Tanin!";
+
+/* nothing */
+"Beige!" = "Bež!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "";
+
+/* nothing */
+",.?!" = "";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "";
+
+/* nothing */
+"017" = "";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "";
+
+/* nothing */
+"<1>spare-1a" = "";
+
+/* nothing */
+"<1>spare-1b" = "";
+
+/* nothing */
+"<9>spare-9a" = "";
+
+/* nothing */
+"<9>spare-9b" = "";
+
+/* nothing */
+"Great!" = "Odlično!";
+
+/* nothing */
+"Cool!" = "Super!";
+
+/* nothing */
+"Keep it up!" = "Samo tako!";
+
+/* nothing */
+"Good job!" = "Dobro odrađen posao!";
+
+/* nothing */
+"English" = "Engleski";
+
+/* nothing */
+"Hiragana" = "Hiragana";
+
+/* nothing */
+"Katakana" = "Katakana";
+
+/* nothing */
+"Hangul" = "Hangul";
+
+/* nothing */
+"Thai" = "";
+
+/* nothing */
+"ZH_TW" = "";
+
+/* nothing */
+"Square" = "Kvadrat";
+
+/* nothing */
+"Rectangle" = "Pravougaonik";
+
+/* nothing */
+"Circle" = "Krug";
+
+/* nothing */
+"Ellipse" = "Elipsa";
+
+/* nothing */
+"Triangle" = "Trougao";
+
+/* nothing */
+"Pentagon" = "Petougao";
+
+/* nothing */
+"Rhombus" = "Romb";
+
+/* nothing */
+"Octagon" = "";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Kvadrat je pravougaonik sa četiri jednake stranice.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Pravougaonik ima četiri stranice i četiri prava ugla.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "";
+
+/* nothing */
+"An ellipse is a stretched circle." = "Elipsa je razvučen krug.";
+
+/* nothing */
+"A triangle has three sides." = "Trougao ima tri stranice.";
+
+/* nothing */
+"A pentagon has five sides." = "Petougao ima pet stranica.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Romb ima četiri jednake strane, i suprotne strane su paralelne.";
+
+/* nothing */
+"An octagon has eight equal sides." = "";
+
+/* nothing */
+"Tools" = "Alati";
+
+/* nothing */
+"Colors" = "Boje";
+
+/* nothing */
+"Brushes" = "Četke";
+
+/* nothing */
+"Erasers" = "Brisači";
+
+/* nothing */
+"Stamps" = "Pečati";
+
+/* nothing */
+"Shapes" = "Oblici";
+
+/* nothing */
+"Letters" = "Slova";
+
+/* nothing */
+"Magic" = "Magija";
+
+/* nothing */
+"Paint" = "Bojiti";
+
+/* nothing */
+"Stamp" = "Pečat";
+
+/* nothing */
+"Lines" = "Linije";
+
+/* nothing */
+"Text" = "Tekst";
+
+/* nothing */
+"Label" = "";
+
+/* nothing */
+"Undo" = "Poništi";
+
+/* nothing */
+"Redo" = "Ponovi";
+
+/* nothing */
+"Eraser" = "Brisač";
+
+/* nothing */
+"New" = "Novi";
+
+/* nothing */
+"Open" = "Otvori";
+
+/* nothing */
+"Save" = "Sačuvaj";
+
+/* nothing */
+"Print" = "Štampaj";
+
+/* nothing */
+"Quit" = "Kraj";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Izaberi boju i oblik četke za crtanje.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Izaberi sliku za pečatiranje po crtežu.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Klikni da bi započeo liniju. Pusti da bi je završio.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Izaberi oblik. Klikni da izabereš centar; vuci, zatim pusti kada je željene veličine. Pomjeraj za okretanje, te klikni za crtanje.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Izaberi izgled teksta. Klikni na crtež i počni da kucaš.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Izaberi magični efekat za tvoj crtež!";
+
+/* nothing */
+"Undo!" = "Poništi!";
+
+/* nothing */
+"Redo!" = "Vrati!";
+
+/* nothing */
+"Eraser!" = "Brisač!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "";
+
+/* nothing */
+"Open…" = "Otvori…";
+
+/* nothing */
+"Your image has been saved!" = "Tvoja slika je sačuvana!";
+
+/* nothing */
+"Printing…" = "Štampa se…";
+
+/* nothing */
+"Bye bye!" = "Ćao!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Pusti dugme da bi dovršio liniju.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Drži dugme da bi rastezao oblik.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Pomjeraj mišem da bi okretao oblik. Klikni za crtanje.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Dobro onda… Hajde da nastavimo sa crtanjem!";
+
+/* nothing */
+"Do you really want to quit?" = "Stvarno želiš da završiš?";
+
+/* nothing */
+"Yes, I’m done!" = "";
+
+/* nothing */
+"No, take me back!" = "Ne, vrati me nazad!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Izgubit ćeš sliku ako završiš! Da se sačuva?";
+
+/* nothing */
+"Yes, save it!" = "Da, sačuvaj!";
+
+/* nothing */
+"No, don’t bother saving!" = "";
+
+/* nothing */
+"Save your picture first?" = "Prvo da sačuvaš svoju sliku?";
+
+/* nothing */
+"Can’t open that picture!" = "Ne mogu da otvorim tu sliku!";
+
+/* nothing */
+"OK" = "OK";
+
+/* nothing */
+"There are no saved files!" = "Nema sačuvanih datoteka!";
+
+/* nothing */
+"Print your picture now?" = "Sada štampaš svoju sliku?";
+
+/* nothing */
+"Yes, print it!" = "Da, printaj!";
+
+/* nothing */
+"Your picture has been printed!" = "Tvoje slika je odštampana!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "";
+
+/* nothing */
+"You can’t print yet!" = "Ne možeš još da štampaš!";
+
+/* nothing */
+"Erase this picture?" = "Obrisati ovu sliku?";
+
+/* nothing */
+"Yes, erase it!" = "Izbriši";
+
+/* nothing */
+"No, don’t erase it!" = "";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Zapamti da koristiš lijevo dugme miša!";
+
+/* nothing */
+"Sound muted." = "";
+
+/* nothing */
+"Sound unmuted." = "";
+
+/* nothing */
+"Please wait…" = "";
+
+/* nothing */
+"Erase" = "Briši";
+
+/* nothing */
+"Slides" = "Slajd";
+
+/* nothing */
+"Back" = "Nazad";
+
+/* nothing */
+"Next" = "Slijedeći";
+
+/* nothing */
+"Play" = "Igrati";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Da";
+
+/* nothing */
+"No" = "Ne";
+
+/* nothing */
+"Replace the picture with your changes?" = "Zamjeni sliku";
+
+/* nothing */
+"Yes, replace the old one!" = "Da, zamijeni staru";
+
+/* nothing */
+"No, save a new file!" = "Ne, sačuvaj u novu datoteku!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Izaberi sliku koju želiš, zatim klikni „Otvori“.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Izaberi slike koje želite, zatim klikni „Otvori“.";
+
+/* nothing */
+"Pick a color." = "";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Drawing program" = "Program za crtanje";
+
+/* nothing */
+"A drawing program for children." = "Dječji program za crtanje";
+
+/* nothing */
+"Color Shift" = "";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "";
+
+/* nothing */
+"Blind" = "";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "";
+
+/* nothing */
+"Blocks" = "Kocke";
+
+/* nothing */
+"Chalk" = "Kreda";
+
+/* nothing */
+"Drip" = "Curiti";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Klikni i pomjeraj mišem da bi ogrubio sliku.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Klikni i pomjeraj mišem da bi pretvorio sliku u crtež kredom.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Klikni i pomjeraj miš da bi boje na slici procurile.";
+
+/* nothing */
+"Blur" = "Zamagli";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "";
+
+/* nothing */
+"Click to blur the entire image." = "";
+
+/* nothing */
+"Bricks" = "Cigle";
+
+/* nothing */
+"Click and move to draw large bricks." = "Klikni i pomjeraj da bi crtao velike cigle.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Klikni i pomjeraj da bi crtao male cigle.";
+
+/* nothing */
+"Calligraphy" = "";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "";
+
+/* nothing */
+"Cartoon" = "Crtež";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Klikni i pomjeraj mišem da bi pretvorio sliku u crtež.";
+
+/* nothing */
+"Confetti" = "";
+
+/* nothing */
+"Click to throw confetti!" = "";
+
+/* nothing */
+"Distortion" = "";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "";
+
+/* nothing */
+"Emboss" = "";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "";
+
+/* nothing */
+"Lighten" = "Posvijetli";
+
+/* nothing */
+"Darken" = "Potamni";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "";
+
+/* nothing */
+"Click to lighten your entire picture." = "";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "";
+
+/* nothing */
+"Click to darken your entire picture." = "";
+
+/* nothing */
+"Fill" = "Puniti";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Klikni na sliku da bi popunio tu oblast bojom.";
+
+/* nothing */
+"Fisheye" = "";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "";
+
+/* nothing */
+"Flower" = "";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "";
+
+/* nothing */
+"Foam" = "";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "";
+
+/* nothing */
+"Fold" = "";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Klikni i pomjeraj da bi crtao iskrice.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "";
+
+/* nothing */
+"Glass Tile" = "";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "";
+
+/* nothing */
+"Grass" = "Trava";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Klikni i pomjeraj da bi crtao travu. Ne zaboravi prljavštinu!";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "";
+
+/* nothing */
+"Symmetric Left/Right" = "";
+
+/* nothing */
+"Symmetric Up/Down" = "";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Klikni i pomjeraj mišem da bi zatamnio sliku.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Klikni i pomjeraj mišem da bi zamrljao sliku.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "";
+
+/* nothing */
+"Light" = "";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "";
+
+/* nothing */
+"Metal Paint" = "";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "";
+
+/* nothing */
+"Mirror" = "Ogledalo";
+
+/* nothing */
+"Flip" = "Okreni";
+
+/* nothing */
+"Click to make a mirror image." = "Klikni da bi napravio sliku u ogledalu.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Klikni da bi okrenuo sliku naopačke.";
+
+/* nothing */
+"Mosaic" = "";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "";
+
+/* nothing */
+"Square Mosaic" = "Kvadrat";
+
+/* nothing */
+"Hexagon Mosaic" = "";
+
+/* nothing */
+"Irregular Mosaic" = "";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Klikni i pomjeraj mišem da bi zatamnio sliku.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Klikni i pomjeraj mišem da bi zatamnio sliku.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Klikni i pomjeraj mišem da bi zatamnio sliku.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Klikni i pomjeraj mišem da bi zatamnio sliku.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Klikni i pomjeraj mišem da bi zatamnio sliku.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Klikni i pomjeraj mišem da bi zatamnio sliku.";
+
+/* nothing */
+"Negative" = "Negativ";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "";
+
+/* nothing */
+"Click to turn your painting into its negative." = "";
+
+/* nothing */
+"Noise" = "";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "";
+
+/* nothing */
+"Click to add noise to your entire picture." = "";
+
+/* nothing */
+"Perspective" = "";
+
+/* nothing */
+"Zoom" = "";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Klikni i pomjeraj mišem da bi zamrljao sliku.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Klikni i pomjeraj mišem da bi zamrljao sliku.";
+
+/* nothing */
+"Puzzle" = "";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Klikni da bi napravio sliku u ogledalu.";
+
+/* nothing */
+"Rails" = "";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "";
+
+/* nothing */
+"Rainbow" = "Duga";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Možeš crtati u duginim bojama!";
+
+/* nothing */
+"Rain" = "";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "";
+
+/* nothing */
+"Real Rainbow" = "";
+
+/* nothing */
+"ROYGBIV Rainbow" = "Duga";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "";
+
+/* nothing */
+"Ripples" = "";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "";
+
+/* nothing */
+"Rosette" = "";
+
+/* nothing */
+"Picasso" = "";
+
+/* nothing */
+"Click and start drawing your rosette." = "";
+
+/* nothing */
+"You can draw just like Picasso!" = "";
+
+/* nothing */
+"Edges" = "";
+
+/* nothing */
+"Sharpen" = "";
+
+/* nothing */
+"Silhouette" = "";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "";
+
+/* nothing */
+"Click to sharpen the entire picture." = "";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "";
+
+/* nothing */
+"Shift" = "";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "";
+
+/* nothing */
+"Smudge" = "Zamrljaj";
+
+/* nothing */
+"Wet Paint" = "Bojiti";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Klikni i pomjeraj mišem da bi zamrljao sliku.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Klikni i pomjeraj mišem da bi pravio negativ.";
+
+/* nothing */
+"Snow Ball" = "";
+
+/* nothing */
+"Snow Flake" = "";
+
+/* nothing */
+"Click to add snow balls to your picture." = "";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "";
+
+/* nothing */
+"String edges" = "";
+
+/* nothing */
+"String corner" = "";
+
+/* nothing */
+"String 'V'" = "";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "";
+
+/* nothing */
+"Draw string art arrows with free angles." = "";
+
+/* nothing */
+"Tint" = "Obojiti";
+
+/* nothing */
+"Color & White" = "";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "";
+
+/* nothing */
+"Click to change the color of your entire picture." = "";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "";
+
+/* nothing */
+"Toothpaste" = "";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "";
+
+/* nothing */
+"Tornado" = "";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "";
+
+/* nothing */
+"TV" = "";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "";
+
+/* nothing */
+"Waves" = "";
+
+/* nothing */
+"Wavelets" = "";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "";
+
+/* nothing */
+"Xor Colors" = "Boje";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Klikni i pomjeraj da bi crtao iskrice.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Klikni da bi započeo liniju. Pusti da bi je završio.";
+

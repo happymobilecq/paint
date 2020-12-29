@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: tuxpaint-i18n@lists.sourceforge.net\nPOT-Creation-Date: 2014-06-03 21:03+0200\nPO-Revision-Date: 2008-10-07 14:54+0200\nLast-Translator: none\nLanguage-Team: none\nLanguage: ar\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=4; plural=n==1 ? 0 : n==2 ? 1 : n>=3 && n<=10 ? 2 : 3\n";
+
+/* nothing */
+"Black!" = "أسود";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "رمادي غامق بعض الناس يسمونه ”رصاصي غامق“.";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "رمادي فاتح بعض الناس يسمونه “رصاصي فاتح“.";
+
+/* nothing */
+"White!" = "أبيض";
+
+/* nothing */
+"Red!" = "أحمر";
+
+/* nothing */
+"Orange!" = "برتقالي";
+
+/* nothing */
+"Yellow!" = "أصفر";
+
+/* nothing */
+"Light green!" = "أخضر فاتح";
+
+/* nothing */
+"Dark green!" = "أخضر غامق";
+
+/* nothing */
+"Sky blue!" = "أزرق سماوي";
+
+/* nothing */
+"Blue!" = "أزرق";
+
+/* nothing */
+"Lavender!" = "أرجواني شاحب";
+
+/* nothing */
+"Purple!" = "أرجواني";
+
+/* nothing */
+"Pink!" = "وردي";
+
+/* nothing */
+"Brown!" = "بني";
+
+/* nothing */
+"Tan!" = "قمحي";
+
+/* nothing */
+"Beige!" = "بيج";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = "،.؟!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{}<>^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "";
+
+/* nothing */
+"<1>spare-1b" = "";
+
+/* nothing */
+"<9>spare-9a" = "";
+
+/* nothing */
+"<9>spare-9b" = "";
+
+/* nothing */
+"Great!" = "عظيم";
+
+/* nothing */
+"Cool!" = "رائع";
+
+/* nothing */
+"Keep it up!" = "جيد للأمام";
+
+/* nothing */
+"Good job!" = "أحسنت";
+
+/* nothing */
+"English" = "الإنجليزية";
+
+/* nothing */
+"Hiragana" = "هيراغنا";
+
+/* nothing */
+"Katakana" = "كتاكنا";
+
+/* nothing */
+"Hangul" = "هانكول";
+
+/* nothing */
+"Thai" = "";
+
+/* nothing */
+"ZH_TW" = "";
+
+/* nothing */
+"Square" = "مربع";
+
+/* nothing */
+"Rectangle" = "مستطيل";
+
+/* nothing */
+"Circle" = "دائرة";
+
+/* nothing */
+"Ellipse" = "بيضاوي ,القطع الناقص";
+
+/* nothing */
+"Triangle" = "مثلث";
+
+/* nothing */
+"Pentagon" = "خماسي";
+
+/* nothing */
+"Rhombus" = "معيّن";
+
+/* nothing */
+"Octagon" = "مثمن, مثمن الزوايا والأضلاع";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "المربع هو مستطيل بأربعة اضلاع متساويةِ.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "المستطيل لَهُ أربعة اضلاع وأربع زوايا قائمةِ.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "الدائرة هي منحنى حيث كُلّ النقاط لَها نفس البعد عنْ المركزِ.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "الشكل البيضاوي هو دائرة ممطوطة.";
+
+/* nothing */
+"A triangle has three sides." = "المثلث لَهُ ثلاثة اضلاع.";
+
+/* nothing */
+"A pentagon has five sides." = "الخماسي لَهُ خمسة اضلاع.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "المعين لَهُ أربعة اضلاع متساويةِ، واضلاعه المتقابلة متوازية.";
+
+/* nothing */
+"An octagon has eight equal sides." = "المثمن لَهُ ثمانيه اضلاع متساويه.";
+
+/* nothing */
+"Tools" = "أدوات";
+
+/* nothing */
+"Colors" = "ألوان";
+
+/* nothing */
+"Brushes" = "فرشاة";
+
+/* nothing */
+"Erasers" = "مِمْحايات";
+
+/* nothing */
+"Stamps" = "أختام";
+
+/* nothing */
+"Shapes" = "أشكال";
+
+/* nothing */
+"Letters" = "حروف";
+
+/* nothing */
+"Magic" = "سحر";
+
+/* nothing */
+"Paint" = "طلاء";
+
+/* nothing */
+"Stamp" = "ختم";
+
+/* nothing */
+"Lines" = "خطوط";
+
+/* nothing */
+"Text" = "نَصّ";
+
+/* nothing */
+"Label" = "";
+
+/* nothing */
+"Undo" = "تراجع";
+
+/* nothing */
+"Redo" = "تقّدم";
+
+/* nothing */
+"Eraser" = "مِمْحاة";
+
+/* nothing */
+"New" = "جديد";
+
+/* nothing */
+"Open" = "افتح";
+
+/* nothing */
+"Save" = "احفظ";
+
+/* nothing */
+"Print" = "اطبع";
+
+/* nothing */
+"Quit" = "اخرج";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "اختر لون وشكل الفرشاة التي سترسم بها.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "اختر الصورة التي ستختم بها حول رسمتك.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "انقرْ للبَدْء برَسْم خط. ثم اتركْ لإكْماله.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "اختر شكلاً. انقرْ لالتِقاط المركزِ، اسحب، ثم اترك عندما تصل للحجم الذي تريد. تحرّكْ بسهولة لإدَارَته، وانقرْ لرسمه..";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "اخترْ أسلوب النص. انقر على رسمتك لتتمكن من بدء الكتابة.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "اخترْ أسلوب النص. انقر على رسمتك لتتمكن من بدء الكتابة.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "اختر تأثير سحري لاسْتِعْماله على رسمكَ ";
+
+/* nothing */
+"Undo!" = "تراجع";
+
+/* nothing */
+"Redo!" = "تقدم";
+
+/* nothing */
+"Eraser!" = "مِمْحاة";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "اختر الصورة او اللون  الذي ستبداء به  رسمتك الجديده.";
+
+/* nothing */
+"Open…" = "افتح...";
+
+/* nothing */
+"Your image has been saved!" = "لقد حُفِظت صورتك";
+
+/* nothing */
+"Printing…" = "جارِ الطبع...";
+
+/* nothing */
+"Bye bye!" = "مع السلامة";
+
+/* nothing */
+"Let go of the button to complete the line." = "اتركْ الزرِّ لإكْمال الخَطِّ.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "امسك زر الفأرة الزرَّ لمطّ الشكلِ.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "حرّكْ الفأرَة لإدَارَة الشكلِ. انقرْ لرسَمه.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "إذن …  دعنا نَستمرُّ برسَم هذا الشكل";
+
+/* nothing */
+"Do you really want to quit?" = "أتُريدُ حقاً الخروج؟";
+
+/* nothing */
+"Yes, I’m done!" = "نعم، لقد انتهيت";
+
+/* nothing */
+"No, take me back!" = "لا، عُد بي ثانية";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "إذا خرجت الآن، ستفقد صورتك أتريد حفظها؟";
+
+/* nothing */
+"Yes, save it!" = "نعم، احفظها الآن";
+
+/* nothing */
+"No, don’t bother saving!" = "لا، لا تهتم بحفظها";
+
+/* nothing */
+"Save your picture first?" = "أأحفظ صورتك أولاً؟";
+
+/* nothing */
+"Can’t open that picture!" = "لايمكن فتح هذه الصورة";
+
+/* nothing */
+"OK" = "موافق";
+
+/* nothing */
+"There are no saved files!" = "لايوجد أي ملف محفوظ";
+
+/* nothing */
+"Print your picture now?" = "أأطبع صورتك الآن؟";
+
+/* nothing */
+"Yes, print it!" = "نعم، اطبع الصورة";
+
+/* nothing */
+"Your picture has been printed!" = "لقد طُبِعت صورتك";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "لقد طُبِعت صورتك";
+
+/* nothing */
+"You can’t print yet!" = "لا يمكنك الطبع الآن";
+
+/* nothing */
+"Erase this picture?" = "أتريد مسح هذه الصورة؟";
+
+/* nothing */
+"Yes, erase it!" = "نعم، امسحه";
+
+/* nothing */
+"No, don’t erase it!" = "لا، لاتمسحه";
+
+/* nothing */
+"Remember to use the left mouse button!" = "تذكر استخدام زر الفأرة الأيسر";
+
+/* nothing */
+"Sound muted." = "بلا صوت";
+
+/* nothing */
+"Sound unmuted." = "شغل الصوت";
+
+/* nothing */
+"Please wait…" = "من فضلك انتظر...";
+
+/* nothing */
+"Erase" = "امسح";
+
+/* nothing */
+"Slides" = "شرائح";
+
+/* nothing */
+"Back" = "الخلف";
+
+/* nothing */
+"Next" = "التالي";
+
+/* nothing */
+"Play" = "شغّل";
+
+/* nothing */
+"Aa" = "انتبه";
+
+/* nothing */
+"Yes" = "نعم";
+
+/* nothing */
+"No" = "لا";
+
+/* nothing */
+"Replace the picture with your changes?" = "أأستبدل الصورة بتعديلاتك؟";
+
+/* nothing */
+"Yes, replace the old one!" = "نعم، استبدل الملف القديم";
+
+/* nothing */
+"No, save a new file!" = "لا، احفظ باسم جديد";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "اختر الصورة التي تريد، ثم انقر على ”فتح“.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "اختر الصورة التي تريد، ثم انقر ”شغّل“.";
+
+/* nothing */
+"Pick a color." = "اختر لون";
+
+/* nothing */
+"Tux Paint" = "رسم توكس";
+
+/* nothing */
+"Drawing program" = "برنامج رسم";
+
+/* nothing */
+"A drawing program for children." = "برنامج رسومات للأطفال.";
+
+/* nothing */
+"Color Shift" = "الابيض و الالوان";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "انقر وحرك الفأره  لتغيير لون أجزاء من صورتك";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "انقر لتغير لون كل الصوره";
+
+/* nothing */
+"Blind" = "مخالف, دخيل";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "";
+
+/* nothing */
+"Blocks" = "مكعبات";
+
+/* nothing */
+"Chalk" = "طباشير";
+
+/* nothing */
+"Drip" = "قطرة";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "انقر وحرّكُ الفأرة على الصورة لتقسيمها إلى قطع.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "انقر وحرّكُ الفأرة على الصورة لتحويلها إلى رسمة طبشورية.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "انقر وحرّكُ الفأرة على الصورة لتحويلها إلى قطرات.";
+
+/* nothing */
+"Blur" = "تمويه , شىء ضبابي";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "انقر وحرّكُ الفأرة على الصورة لجعلها ضبابيه.";
+
+/* nothing */
+"Click to blur the entire image." = "انقر لجعل كامل الصورة ضبابى.";
+
+/* nothing */
+"Bricks" = "طوب";
+
+/* nothing */
+"Click and move to draw large bricks." = "انقر وحرّكُ لرسَم طوبة كبيرِه.";
+
+/* nothing */
+"Click and move to draw small bricks." = "انقر وحرّكُ لرسَم قالب طوب صغيرِ.";
+
+/* nothing */
+"Calligraphy" = "خط اليد";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "انقر وحرّكُ الفأرة على الصورة لتحويلها إلى كرسمة باليد.";
+
+/* nothing */
+"Cartoon" = "كرتون , كاريكاتور";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "انقر وحرّكُ الفأرة على الصورة لتحويلها إلى رسمة كرتونية.";
+
+/* nothing */
+"Confetti" = "قصاصات ورق ملون";
+
+/* nothing */
+"Click to throw confetti!" = "اضغط الفأره لتلقي بقصاصات من الورق الملون";
+
+/* nothing */
+"Distortion" = "تشويه";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "انقر واسحب الفأره لتتسبب في تشويه صورتك";
+
+/* nothing */
+"Emboss" = "زين بنقوش بارزة";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "انقر واسحب الماوس لزخرفه الصورة بطريقه بارزه ";
+
+/* nothing */
+"Lighten" = "تخفيف , أضاء,";
+
+/* nothing */
+"Darken" = "تعتيم";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "انقر وحرك الماوس لزياده الاضاءه على أجزاء من الصورة الخاصة بك.";
+
+/* nothing */
+"Click to lighten your entire picture." = "انقر الماوس لزياده الاضاءه على كافه أجزاء من الصورة الخاصة بك";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "انقر وحرك الماوس لتقليل الاضاءه على أجزاء من صورتك.";
+
+/* nothing */
+"Click to darken your entire picture." = "انقر وحرك الماوس لتقليل الاضاءه على صورتك.";
+
+/* nothing */
+"Fill" = "املأ";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "انقر على الصورةِ لمَلْئ تلك المنطقةِ باللونِ.";
+
+/* nothing */
+"Fisheye" = "عين السمكه";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "انقر على جزء من الصورة الخاصة بك لخلق تأثير منظور عين السمكه";
+
+/* nothing */
+"Flower" = "زهر";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "انقر واسحب الفأره  لرسم ساق زهرة  و توقف عن السحب و النقر ليتم اكمال شكل الزهره. .";
+
+/* nothing */
+"Foam" = " رغوة";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "انقر واسحب الماوس لتغطية المنطقه برغاوي و فقاعات.";
+
+/* nothing */
+"Fold" = "اثنى";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "اختر لون الخلفية وانقر لتغير الصفحة";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "انقر واسحب لوضع مسار من قضبان القطار علي صورتك";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "انقر تغطى قطرات من المطر كل الصوره";
+
+/* nothing */
+"Glass Tile" = "بلاط زجاجي";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "انقر واسحب الماوس لوضع  بلاط من الزجاج على اجزاء من صورتك";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "انقر الماوس لوضع  بلاط من الزجاج على كل صورتك";
+
+/* nothing */
+"Grass" = "عشب";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "انقر وحرّكُ لرسَم العشبِ. لا تَنْسِ التربه";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "انقر لتحويل الصورة إلى نسخه سلبية.";
+
+/* nothing */
+"Symmetric Left/Right" = "";
+
+/* nothing */
+"Symmetric Up/Down" = "";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "مشكال رسم متغير الألوان";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "انقر واسحب الفأره للرسم بفرش متناسقه  (مشكال.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "انقر واسحب الفأره للرسم بفرش متناسقه  (مشكال.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "انقر واسحب الماوس لزخرفه الصورة بطريقه بارزه ";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "انقر واسحب الفأره للرسم بفرش متناسقه  (مشكال.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "انقر واسحب الفأره للرسم بفرش متناسقه  (مشكال.";
+
+/* nothing */
+"Light" = "اضاءه";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "انقر واسحب الفأره لرسم شعاع من الضوء على صورتك";
+
+/* nothing */
+"Metal Paint" = "الطلاء المعدني";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "انقر واسحب الفأره  للطلاء بلون معدنى ";
+
+/* nothing */
+"Mirror" = "مرآة";
+
+/* nothing */
+"Flip" = "اقلب";
+
+/* nothing */
+"Click to make a mirror image." = "انقر لتنعكس الصورة كالصورة في المرآة.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "انقر لقلب الصورة رأساً على عقب.";
+
+/* nothing */
+"Mosaic" = "صورة مرسومة بالفسيسفاء, فسيفساء";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "انقر وحرك الفأره لإضافة تأثير الفسيفساء لأجزاء من صورتك.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "انقر الفأره لإضافة تأثير الفسيفساء لأجزاء من صورتك.";
+
+/* nothing */
+"Square Mosaic" = "مربع";
+
+/* nothing */
+"Hexagon Mosaic" = "صورة مرسومة بالفسيسفاء, فسيفساء";
+
+/* nothing */
+"Irregular Mosaic" = "";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "انقر وحرك الفأره لإضافة تأثير الفسيفساء لأجزاء من صورتك.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "انقر الفأره لإضافة تأثير الفسيفساء لأجزاء من صورتك.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "انقر وحرك الفأره لإضافة تأثير الفسيفساء لأجزاء من صورتك.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "انقر الفأره لإضافة تأثير الفسيفساء لأجزاء من صورتك.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "انقر وحرك الفأره لإضافة تأثير الفسيفساء لأجزاء من صورتك.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "انقر الفأره لإضافة تأثير الفسيفساء لأجزاء من صورتك.";
+
+/* nothing */
+"Negative" = "سالب";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "انقر وحرّكُ الفأرة على الصورة لتحويلها إلى رسمة سلبيه.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "انقر لتحويل الصورة إلى نسخه سلبية.";
+
+/* nothing */
+"Noise" = "تشويش";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "انقر الفأره لإضافة تأثير التشويش لأجزاء من صورتك.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "انقر الفأره لإضافة تأثير التشويش على صورتك.";
+
+/* nothing */
+"Perspective" = "";
+
+/* nothing */
+"Zoom" = "";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "انقر واسحب الماوس لزخرفه الصورة بطريقه بارزه ";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "انقر واسحب انشر معجون الاسنان على الصوره";
+
+/* nothing */
+"Puzzle" = "لغز, أحجية, شىء مربك";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "انقر فوق جزء من صورتك حيث تريد لغزا محيرا.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "انقر فوق صورتك لتكون لغزا محيرا من كل الصوره ملء الشاشه .";
+
+/* nothing */
+"Rails" = "سياج";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "انقر واسحب لوضع مسار من قضبان القطار علي صورتك";
+
+/* nothing */
+"Rainbow" = "قوس قزح";
+
+/* nothing */
+"You can draw in rainbow colors!" = "يُمْكِنُ أَنْ ترسم بألوانِ قوس قزحِ.";
+
+/* nothing */
+"Rain" = "مطر";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = " انقر لوضع قطرات من المطر على الصوره  ";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "انقر تغطى قطرات من المطر كل الصوره";
+
+/* nothing */
+"Real Rainbow" = "قوس قزح";
+
+/* nothing */
+"ROYGBIV Rainbow" = "قوس قزح";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "";
+
+/* nothing */
+"Ripples" = "تموج";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "انقر لجعل تموجات تظهر على  صورتك.";
+
+/* nothing */
+"Rosette" = "شىء على شكل وردة";
+
+/* nothing */
+"Picasso" = "بيكاسو";
+
+/* nothing */
+"Click and start drawing your rosette." = "وانقر لبدءرسم شكل الوردة.";
+
+/* nothing */
+"You can draw just like Picasso!" = "يمكنك وضع مثل بيكاسو!";
+
+/* nothing */
+"Edges" = "حواف";
+
+/* nothing */
+"Sharpen" = "جعله حادا, جعله أكثر وضوحا";
+
+/* nothing */
+"Silhouette" = "رسم صورة ظلية او خيال";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "انقر وحرك الفأره لتعقب حواف أجزاء من صورتك.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "انقر  الفأره لتعقب حواف و اطر كل صورتك";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "انقر وحرك الفأره لجعل أجزاء من صورتك اكثر حده و وضوحا";
+
+/* nothing */
+"Click to sharpen the entire picture." = "انقر  الفأره لجعل صورتك اكثر حده و وضوحا";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "انقر وحرك الفأره لخلق صورة ظلية سوداء وبيضاء";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "انقر  الفأره لجعل كل الصورة ظلية سوداء وبيضاء";
+
+/* nothing */
+"Shift" = "تغير او تحويل";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "انقر واسحب لتحريك صورتك على مساحه العمل .";
+
+/* nothing */
+"Smudge" = "تلطيخ";
+
+/* nothing */
+"Wet Paint" = "الطلاء المعدني";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "انقر وحرّكُ الفأرة على الصورة لتشويهها.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "انقر وحرّكُ الفأرة على الصورة لجعلها ضبابيه.";
+
+/* nothing */
+"Snow Ball" = "كره ثلج";
+
+/* nothing */
+"Snow Flake" = "رقائق من الثلج";
+
+/* nothing */
+"Click to add snow balls to your picture." = "انقر لإضافة كرات الثلج لصورتك.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "انقر لإضافة رقائق الثلج لصورتك.";
+
+/* nothing */
+"String edges" = "";
+
+/* nothing */
+"String corner" = "";
+
+/* nothing */
+"String 'V'" = "";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "انقر واسحب الفأره لرسم شعاع من الضوء على صورتك";
+
+/* nothing */
+"Draw string art arrows with free angles." = "";
+
+/* nothing */
+"Tint" = "صبغة";
+
+/* nothing */
+"Color & White" = "الابيض و الالوان";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "انقر وحرك الفأره  لتغيير لون أجزاء من صورتك";
+
+/* nothing */
+"Click to change the color of your entire picture." = "انقر لتغير لون كل الصوره";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "انقر وحرك الفأره نحو لتحويل الأجزاءالتي تختاره من صورتك إلى اللون الأبيض و لون تختاره .";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "انقر وحرك الفأره نحو لتحويل صورتك إلى اللون الأبيض و لون تختاره .";
+
+/* nothing */
+"Toothpaste" = "معجون أسنان";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "انقر واسحب انشر معجون الاسنان على الصوره";
+
+/* nothing */
+"Tornado" = "";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "انقر واسحب لوضع مسار من قضبان القطار علي صورتك";
+
+/* nothing */
+"TV" = "تلفاز";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "انقر لجعل صورتك تبدو انها على شاشة التلفزيون";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "انقر لجعل صورتك تبدو انها على شاشة التلفزيون";
+
+/* nothing */
+"Waves" = "تموجات, أمواج";
+
+/* nothing */
+"Wavelets" = "";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "انقر لجعل الصورة متموجة أفقيا.انقر على نحو الأعلى لموجات قصيره.نحو الاسفل من اجل موجات متوسطه. و الى اليمين من اجل الموجات الطويله    ";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "انقر لجعل الصورة متموجة رأسيا.انقر على نحو الأعلى لموجات قصيره.نحو الاسفل من اجل موجات متوسطه. و الى اليمين من اجل الموجات الطويله    ";
+
+/* nothing */
+"Xor Colors" = "ألوان";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "انقر واسحب الفأره لرسم شعاع من الضوء على صورتك";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "انقر الفأره لإضافة تأثير الفسيفساء لأجزاء من صورتك.";
+

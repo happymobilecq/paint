@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: de\nReport-Msgid-Bugs-To: tuxpaint-i18n@lists.sourceforge.net\nPOT-Creation-Date: 2013-10-26 17:43+0900\nPO-Revision-Date: 2014-06-28 21:41+0100\nLast-Translator: Holger Wansing <hwansing@mailbox.org>\nLanguage-Team: Deutsch <debian-l10n-german@lists.debian.org>\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nLanguage: \nPlural-Forms: nplurals=2; plural=n != 1;\n";
+
+/* nothing */
+"Black!" = "Schwarz!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Dunkelgrau!";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Hellgrau!";
+
+/* nothing */
+"White!" = "Weiß!";
+
+/* nothing */
+"Red!" = "Rot!";
+
+/* nothing */
+"Orange!" = "Orange!";
+
+/* nothing */
+"Yellow!" = "Gelb!";
+
+/* nothing */
+"Light green!" = "Hell Grün!";
+
+/* nothing */
+"Dark green!" = "Dunkel Grün!";
+
+/* nothing */
+"Sky blue!" = "Himmelblau!";
+
+/* nothing */
+"Blue!" = "Blau!";
+
+/* nothing */
+"Lavender!" = "Lavendelfarben!";
+
+/* nothing */
+"Purple!" = "Lila!";
+
+/* nothing */
+"Pink!" = "Rosa!";
+
+/* nothing */
+"Brown!" = "Braun!";
+
+/* nothing */
+"Tan!" = "Gelbbraun!";
+
+/* nothing */
+"Beige!" = "Beige!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = "-,.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\€%_@$#{}<>^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "aa";
+
+/* nothing */
+"<1>spare-1b" = "aa";
+
+/* nothing */
+"<9>spare-9a" = "äüöß";
+
+/* nothing */
+"<9>spare-9b" = "ÄÜÖ";
+
+/* nothing */
+"Great!" = "Super!";
+
+/* nothing */
+"Cool!" = "Cool!";
+
+/* nothing */
+"Keep it up!" = "Mach weiter so!";
+
+/* nothing */
+"Good job!" = "Gute Arbeit!";
+
+/* nothing */
+"English" = "Englisch";
+
+/* nothing */
+"Hiragana" = "Hiragana";
+
+/* nothing */
+"Katakana" = "Katakana";
+
+/* nothing */
+"Hangul" = "Hangul";
+
+/* nothing */
+"Thai" = "Thai";
+
+/* nothing */
+"ZH_TW" = "ZH_TW";
+
+/* nothing */
+"Square" = "Quadrat";
+
+/* nothing */
+"Rectangle" = "Rechteck";
+
+/* nothing */
+"Circle" = "Kreis";
+
+/* nothing */
+"Ellipse" = "Ellipse";
+
+/* nothing */
+"Triangle" = "Dreieck";
+
+/* nothing */
+"Pentagon" = "Fünfeck";
+
+/* nothing */
+"Rhombus" = "Raute";
+
+/* nothing */
+"Octagon" = "Achteck";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Ein Quadrat ist ein Rechteck mit vier gleich langen Seiten.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Ein Rechteck hat vier Seiten und vier rechte Winkel.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "Ein Kreis ist eine Kurve, auf der alle Punkte den gleichen Abstand zum Mittelpunkt haben.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "Eine Ellipse ist ein gestreckter Kreis.";
+
+/* nothing */
+"A triangle has three sides." = "Ein Dreieck hat drei Seiten.";
+
+/* nothing */
+"A pentagon has five sides." = "Ein Fünfeck hat fünf Seiten.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Eine Raute hat vier gleich lange Seiten, gegenüberliegende Seiten sind parallel.";
+
+/* nothing */
+"An octagon has eight equal sides." = "Ein Achteck hat 8 gleich lange Seiten.";
+
+/* nothing */
+"Tools" = "Werkzeuge";
+
+/* nothing */
+"Colors" = "Farben";
+
+/* nothing */
+"Brushes" = "Pinsel";
+
+/* nothing */
+"Erasers" = "Radiergummi";
+
+/* nothing */
+"Stamps" = "Stempel";
+
+/* nothing */
+"Shapes" = "Formen";
+
+/* nothing */
+"Letters" = "Buchstaben";
+
+/* nothing */
+"Magic" = "Magie";
+
+/* nothing */
+"Paint" = "Malen";
+
+/* nothing */
+"Stamp" = "Stempel";
+
+/* nothing */
+"Lines" = "Linie";
+
+/* nothing */
+"Text" = "Text";
+
+/* nothing */
+"Label" = "Etikett";
+
+/* nothing */
+"Undo" = "Rückgängig";
+
+/* nothing */
+"Redo" = "Wiederherstellen";
+
+/* nothing */
+"Eraser" = "Radiergummi";
+
+/* nothing */
+"New" = "Neu";
+
+/* nothing */
+"Open" = "Öffnen";
+
+/* nothing */
+"Save" = "Speichern";
+
+/* nothing */
+"Print" = "Drucken";
+
+/* nothing */
+"Quit" = "Beenden";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Wähle eine Farbe und eine Pinselform zum Malen.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Wähle ein Bild zum Stempeln.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Klicke und zeichne eine Linie. Laß los, um die Linie zu beenden.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Wähle eine Form. Klicke, um die Mitte zu wählen, ziehe, dann lass los, wenn es die richtige Größe hat. Bewege die Maus, um es zu drehen und klicke, um es zu zeichnen.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Wähle einen Schrifttyp. Klicke auf deine Zeichnung, und du kannst anfangen zu schreiben. Drücke [Enter] oder [Tab], um den Text abzuschließen.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Wähle einen Schrifttyp. Klicke auf deine Zeichnung, und du kannst anfangen zu schreiben. Drücke [Enter] oder [Tab], um den Text abzuschließen. Indem du den Auswahl-Button benutzt und auf ein vorhandenes Etikett klickst, kannst du es verschieben, bearbeiten und seinen Schrifttyp ändern.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Wähle einen magischen Effekt für dein Bild!";
+
+/* nothing */
+"Undo!" = "Rückgängig!";
+
+/* nothing */
+"Redo!" = "Wiederherstellen!";
+
+/* nothing */
+"Eraser!" = "Radiergummi!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Wähle eine Farbe oder ein Bild, um damit ein neues Bild zu beginnen.";
+
+/* nothing */
+"Open…" = "Öffnen …";
+
+/* nothing */
+"Your image has been saved!" = "Dein Bild wurde gespeichert!";
+
+/* nothing */
+"Printing…" = "Drucken …";
+
+/* nothing */
+"Bye bye!" = "Tschüß!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Lass die Maustaste los, wenn du mit der Linie zufrieden bist.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Halt die Maustaste gedrückt, um die Form in der Größe zu verändern.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Bewege die Maus, um die Form zu drehen. Klicke, wenn du zufrieden bist.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "OK, dann lass uns dieses Bild weitermalen!";
+
+/* nothing */
+"Do you really want to quit?" = "Möchtest du wirklich aufhören?";
+
+/* nothing */
+"Yes, I’m done!" = "Ja, ich bin fertig!";
+
+/* nothing */
+"No, take me back!" = "Nein, ich möchte weitermachen!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Wenn du aufhörst, geht dein Bild verloren! Willst du es vorher noch speichern?";
+
+/* nothing */
+"Yes, save it!" = "Ja, speichern!";
+
+/* nothing */
+"No, don’t bother saving!" = "Nein, nicht speichern!";
+
+/* nothing */
+"Save your picture first?" = "Willst du dein Bild zuerst noch speichern?";
+
+/* nothing */
+"Can’t open that picture!" = "Dieses Bild kann nicht geöffnet werden!";
+
+/* nothing */
+"OK" = "OK";
+
+/* nothing */
+"There are no saved files!" = "Es gibt noch keine gespeicherten Bilder!";
+
+/* nothing */
+"Print your picture now?" = "Willst du dein Bild jetzt ausdrucken?";
+
+/* nothing */
+"Yes, print it!" = "Ja, drucke das Bild!";
+
+/* nothing */
+"Your picture has been printed!" = "Dein Bild wurde gedruckt!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Es tut mir Leid! Dein Bild konnte nicht gedruckt werden!";
+
+/* nothing */
+"You can’t print yet!" = "Du kannst noch nicht drucken!";
+
+/* nothing */
+"Erase this picture?" = "Möchtest du dieses Bild löschen?";
+
+/* nothing */
+"Yes, erase it!" = "Ja, lösche das Bild!";
+
+/* nothing */
+"No, don’t erase it!" = "Nein, nicht löschen!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Denke daran, die linke Maustaste zu benutzen!";
+
+/* nothing */
+"Sound muted." = "Sound ausgeschaltet.";
+
+/* nothing */
+"Sound unmuted." = "Sound eingeschaltet.";
+
+/* nothing */
+"Please wait…" = "Bitte warten …";
+
+/* nothing */
+"Erase" = "Löschen";
+
+/* nothing */
+"Slides" = "Diashow";
+
+/* nothing */
+"Back" = "Zurück";
+
+/* nothing */
+"Next" = "Weiter";
+
+/* nothing */
+"Play" = "Öffnen";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Ja";
+
+/* nothing */
+"No" = "Nein";
+
+/* nothing */
+"Replace the picture with your changes?" = "Möchtest du das Bild mit deinen Änderungen überschreiben?";
+
+/* nothing */
+"Yes, replace the old one!" = "Ja, überschreibe das alte Bild!";
+
+/* nothing */
+"No, save a new file!" = "Nein, speichere in eine neue Datei!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Wähle ein Bild, dass du öffnen willst und klicke auf »Öffnen«.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Wähle ein Bild und klicke auf »Öffnen«.";
+
+/* nothing */
+"Pick a color." = "Wähle eine Farbe.";
+
+/* nothing */
+"A drawing program for children." = "Ein Malprogramm für Kinder.";
+
+/* nothing */
+"Drawing program" = "Malprogramm";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Color Shift" = "Farb-Verschiebung ";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Klicke und bewege die Maus, um die Farbe in einigen Teilen des Bildes zu ändern.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Klicke und bewege die Maus, um die Farbe im ganzen Bild zu ändern.";
+
+/* nothing */
+"Blind" = "Jalousie";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Klicke gegen den Rand deines Bildes, um Jalousien darüber zu ziehen. Verschiebe die Maus senkrecht dazu, um die Jalousien zu öffnen oder zu schließen.";
+
+/* nothing */
+"Blocks" = "Pixel";
+
+/* nothing */
+"Chalk" = "Kreide";
+
+/* nothing */
+"Drip" = "Tropfen";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Klicke und bewege die Maus, um das Bild pixelig zu machen.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Klicke und bewege die Maus, um dein Bild in ein Kreidebild zu verwandeln!";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Klicke und bewege die Maus, um das Bild tropfen zu lassen.";
+
+/* nothing */
+"Blur" = "Unscharf";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Klicke und bewege die Maus, um das Bild unscharf zu machen.";
+
+/* nothing */
+"Click to blur the entire image." = "Klicke, um das ganze Bild zu unscharf zu machen.";
+
+/* nothing */
+"Bricks" = "Blöcke";
+
+/* nothing */
+"Click and move to draw large bricks." = "Klicke und bewege die Maus, um große Blöcke zu malen.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Klicke und bewege die Maus, um kleine Blöcke zu malen.";
+
+/* nothing */
+"Calligraphy" = "Kalligraphie ";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Klicke und bewege die Maus, um in Kalligraphie-Schrift zu malen.";
+
+/* nothing */
+"Cartoon" = "Comic";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Klicke und bewege die Maus, um dein Bild in einen Comic zu verwandeln.";
+
+/* nothing */
+"Confetti" = "Konfetti ";
+
+/* nothing */
+"Click to throw confetti!" = "Klicke, um Konfetti zu werfen!";
+
+/* nothing */
+"Distortion" = "Verzerren";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Klicke und bewege die Maus, um das Bild zu verzerren.";
+
+/* nothing */
+"Emboss" = "Prägen";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Klicke und bewege die Maus, um Teile des Bildes hervorzuheben.";
+
+/* nothing */
+"Lighten" = "Aufhellen";
+
+/* nothing */
+"Darken" = "Abdunkeln";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Klicke und bewege die Maus, um Teile des Bildes heller zu machen.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Klicke um das ganze Bild heller zu machen.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Klicke und bewege die Maus, um Teile des Bildes dunkler zu machen.";
+
+/* nothing */
+"Click to darken your entire picture." = "Klicke um das ganze Bild dunkler zu machen.";
+
+/* nothing */
+"Fill" = "Füllen";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Klicke in das Bild, um einen Bereich mit Farbe auszufüllen.";
+
+/* nothing */
+"Fisheye" = "Fischauge";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Klicke auf einen Teil des Bildes, um einen Fischaugen-Effekt zu erzeugen.";
+
+/* nothing */
+"Flower" = "Blume";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Klicke und ziehe, um einen Blütenstiel zu malen. Laß los, um die Blume fertigzustellen.";
+
+/* nothing */
+"Foam" = "Schaum";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Klicke und bewege die Maus, um Schaumblasen zu malen.";
+
+/* nothing */
+"Fold" = "Falten";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Wähle eine Hintergrundfarbe, dann klicke, um die Ecke des Bildes umzuknicken.";
+
+/* nothing */
+"Fretwork" = "Scherenschnitt";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Klicke und bewege die Maus, um sich wiederholende Muster zu malen.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Klicke, um dein Bild mit sich wiederholenden Mustern zu umrahmen.";
+
+/* nothing */
+"Glass Tile" = "Glasfliesen";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Klicke und bewege die Maus, um gläserne Kacheln über das Bild malen.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Klicke, um dein ganzes Bild mit Glasfliesen zu überziehen.";
+
+/* nothing */
+"Grass" = "Gras";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Klicke und bewege die Maus, um Gras zu malen. Vergiss die Erde nicht!";
+
+/* nothing */
+"Halftone" = "Druckraster";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Klicke und bewege die Maus, um dein Bild in eine Zeitung zu verwandeln.";
+
+/* nothing */
+"Symmetric Left/Right" = "Symmetrisch Links/Rechts";
+
+/* nothing */
+"Symmetric Up/Down" = "Symmetrisch Aufwärts/Abwärts";
+
+/* nothing */
+"Pattern" = "Muster";
+
+/* nothing */
+"Tiles" = "Fliesen";
+
+/* nothing */
+"Kaleidoscope" = "Kaleidoskop";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Klicke und bewege die Maus, um mit zwei Pinseln zu malen, die symmetrisch über die linke und rechte Seite deines Bildes sind.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Klicke und bewege die Maus, um mit zwei Pinseln zu malen, die symmetrisch über die obere und untere Seite deines Bildes sind.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Klicke und bewege die Maus, um ein Muster über dein Bild zu malen.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Klicke und bewege die Maus, um ein Muster und zusätzlich sein symmetrisches Gegenstück über dein Bild zu malen.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Klicke und bewege die Maus, um mit symmetrischen Pinseln (ein Kaleidoskop) zu malen.";
+
+/* nothing */
+"Light" = "Licht";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Klicke und bewege die Maus, um einen Lichtstrahl auf dein Bild zu malen.";
+
+/* nothing */
+"Metal Paint" = "Metallfarbe";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Klicke und bewege die Maus, um mit Metallfarbe zu malen.";
+
+/* nothing */
+"Mirror" = "Spiegel";
+
+/* nothing */
+"Flip" = "Umdrehen";
+
+/* nothing */
+"Click to make a mirror image." = "Klicke, um das Bild zu spiegeln.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Klicke, um das Bild auf den Kopf zu stellen.";
+
+/* nothing */
+"Mosaic" = "Mosaik";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Klicke und bewege die Maus, um einen Mosaik-Effekt zu einigen Teilen des Bildes hinzuzufügen.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Klicke, um dem ganzen Bild einen Mosaik-Effekt hinzuzufügen.";
+
+/* nothing */
+"Square Mosaic" = "Quadratisches Mosaik";
+
+/* nothing */
+"Hexagon Mosaic" = "Sechseckiges Mosaik";
+
+/* nothing */
+"Irregular Mosaic" = "Unregelmäßiges Mosaik";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Klicke und bewege die Maus, um ein quadratisches Mosaik zu einigen Teilen des Bildes hinzuzufügen.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Klicke, um dem ganzen Bild ein quadratisches Mosaik hinzuzufügen.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Klicke und bewege die Maus, um ein sechseckiges Mosaik zu einigen Teilen des Bildes hinzuzufügen.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Klicke, um dem ganzen Bild ein sechseckiges Mosaik hinzuzufügen.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Klicke und bewege die Maus, um ein unregelmäßiges Mosaik zu einigen Teilen des Bildes hinzuzufügen.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Klicke, um dem ganzen Bild ein unregelmäßiges Mosaik hinzuzufügen.";
+
+/* nothing */
+"Negative" = "Negativ";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Klicke und bewege die Maus, um die Farben des Bildes umzukehren.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Klicke, um die Farben des Bildes umzukehren.";
+
+/* nothing */
+"Noise" = "Rauschen";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Klicke und bewege die Maus, um deinem Bild buntes Rauschen hinzuzufügen.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Klicke und bewege die Maus, um dem ganzen Bild buntes Rauschen hinzuzufügen.";
+
+/* nothing */
+"Perspective" = "Perspektive";
+
+/* nothing */
+"Zoom" = "Vergrößern";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Klicke auf die Ecken und ziehe in die Richtung, in die du das Bild strecken willst.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Klicke und bewege die Maus nach oben, um die Ansicht des Bildes zu vergrößern, oder nach unten, um die Ansicht zu verkleinern.";
+
+/* nothing */
+"Puzzle" = "Puzzle";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Klicke auf den Teil des Bildes, den du in ein Puzzle verwandeln möchtest.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Klicke, um ein Puzzle in Vollbildschirmdarstellung zu erstellen.";
+
+/* nothing */
+"Rails" = "Schienen";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Klicke und ziehe, um Schienen auf dein Bild zu malen.";
+
+/* nothing */
+"Rain" = "Regen";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Klicke, um einen Regentropfen auf das Bild zu malen.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Klicke, um das ganze Bild voller Regentropfen zu machen.";
+
+/* nothing */
+"Rainbow" = "Regenbogen";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Du kannst mit Regenbogenfarben malen!";
+
+/* nothing */
+"Real Rainbow" = "Echter Regenbogen";
+
+/* nothing */
+"ROYGBIV Rainbow" = "Regenbogen mit Farben aus dem ROYGBIV-Spektrum";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Klicke dahin, wo der Regenbogen beginnen soll, ziehe ihn dahin, wo er enden soll und dann laß los, um ihn zu zeichnen.";
+
+/* nothing */
+"Ripples" = "Kräuseln";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Klicke und bewege die Maus, um das Bild kräuselig zu machen.";
+
+/* nothing */
+"Rosette" = "Rosette";
+
+/* nothing */
+"Picasso" = "Picasso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Klicke und beginne, deine Rosette zu zeichnen.";
+
+/* nothing */
+"You can draw just like Picasso!" = "Du kannst malen wie Picasso!";
+
+/* nothing */
+"Edges" = "Kanten";
+
+/* nothing */
+"Sharpen" = "Schärfen";
+
+/* nothing */
+"Silhouette" = "Umriss";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Klicke und bewege die Maus, um in einem Teil deines Bildes die Kanten sichtbar zu machen.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Klicke und ziehe, um in deinem ganzen Bild die Kanten sichtbar zu machen.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Klicke und bewege die Maus, um Teile des Bildes schärfer zu machen.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Klicke, um das gesamte Bild schärfer zu machen.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Klicke und bewege die Maus, um einen schwarz-weißen Umriss zu erzeugen.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Klicke und bewege die Maus, um für dein ganzes Bild einen schwarz-weißen Umriss zu erzeugen.";
+
+/* nothing */
+"Shift" = "Schieben";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Klicke und bewege die Maus, um das Bild zu verschieben.";
+
+/* nothing */
+"Smudge" = "Verwischen";
+
+/* nothing */
+"Wet Paint" = "Nass verschmieren";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Klicke und bewege die Maus, um das Bild zu verwischen.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Klicke und bewege die Maus, um mit nasser schmieriger Farbe zu malen.";
+
+/* nothing */
+"Snow Ball" = "Schneeball";
+
+/* nothing */
+"Snow Flake" = "Schneeflocke";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Klicke, um deinem Bild Schneebälle hinzuzufügen.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Klicke, um deinem Bild Schneeflocken hinzuzufügen.";
+
+/* nothing */
+"String edges" = "Netzränder";
+
+/* nothing */
+"String corner" = "Netzecken";
+
+/* nothing */
+"String 'V'" = "Netz 'V'";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Klicke und ziehe, um ein Netz zu zeichnen. Ziehe nach oben oder unten, um weniger oder mehr Linien zu bekommen, nach links oder rechts, um ein größeres Loch zu machen.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Klicke und ziehe, um spitze Netze zu zeichnen.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Zeichne spitze Netze mit frei wählbarer Ausrichtung.";
+
+/* nothing */
+"Tint" = "Färben";
+
+/* nothing */
+"Color & White" = "Farbe & Weiß";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Klicke und bewege die Maus, um die Farbe von Teilen deines Bildes zu ändern.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Klicke und bewege die Maus, um die Farbe in einem ganzen Bild zu ändern.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Klicke und bewege die Maus, um Teile deines Bildes Weiß und in einer Farbe deiner Wahl zu machen.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Klicke und bewege die Maus, um dein ganzes Bild Weiß und in einer Farbe deiner Wahl zu machen.";
+
+/* nothing */
+"Toothpaste" = "Zahncreme";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Klicke und bewege die Maus, um Zahncreme auf dein Bild zu schmieren.";
+
+/* nothing */
+"Tornado" = "Wirbelsturm";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Klicke und bewege die Maus, um einen Wirbelsturm auf dein Bild zu malen.";
+
+/* nothing */
+"TV" = "TV";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Klicke und bewege die Maus, um Teile deines Bildes so aussehen zu lassen, als wäre es im Fernsehen.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Klicke, um dein Bild so aussehen zu lassen, als wäre es im Fernsehen.";
+
+/* nothing */
+"Waves" = "Wellen";
+
+/* nothing */
+"Wavelets" = "Kleine Wellen";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Klicke, um horizontale Wellen auf das Bild zu machen. Klicke oben für kürzere Wellen, unten für höhere Wellen, links für kleine Wellen und rechts für lange Wellen.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Klicke, um vertikale Wellen auf das Bild zu machen. Klicke oben für kürzere Wellen, unten für höhere Wellen, links für kleine Wellen und rechts für lange Wellen.";
+
+/* nothing */
+"Xor Colors" = "XOR-Farben";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Klicke und ziehe, um einen XOR-Effekt zu zeichnen.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Klicke und ziehe, um einen XOR-Effekt über das ganze Bild zu zeichnen.";
+

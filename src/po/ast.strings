@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2014-06-03 21:03+0200\nPO-Revision-Date: 2011-02-16 18:38+0200\nLast-Translator: none\nLanguage-Team: none\nLanguage: ast\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n != 1;\n";
+
+/* nothing */
+"Black!" = "¡Prietu!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "¡Gris escuru!";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "¡Gris claru!";
+
+/* nothing */
+"White!" = "¡Blancu!";
+
+/* nothing */
+"Red!" = "¡Coloráu!";
+
+/* nothing */
+"Orange!" = "¡Naranxa!";
+
+/* nothing */
+"Yellow!" = "¡Mariellu!";
+
+/* nothing */
+"Light green!" = "¡Verde claru!";
+
+/* nothing */
+"Dark green!" = "¡Verde escuru!";
+
+/* nothing */
+"Sky blue!" = "¡Celeste!";
+
+/* nothing */
+"Blue!" = "¡Azul!";
+
+/* nothing */
+"Lavender!" = "¡Llavanda!";
+
+/* nothing */
+"Purple!" = "¡Púrpura!";
+
+/* nothing */
+"Pink!" = "¡Rosáu!";
+
+/* nothing */
+"Brown!" = "¡Marrón!";
+
+/* nothing */
+"Tan!" = "¡Tostáu!";
+
+/* nothing */
+"Beige!" = "¡Crema!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = ",.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{<(^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "<1>repuestu-1a";
+
+/* nothing */
+"<1>spare-1b" = "<1>repuestu-1b";
+
+/* nothing */
+"<9>spare-9a" = "<9>repuestu-9a";
+
+/* nothing */
+"<9>spare-9b" = "<9>repuestu-9b";
+
+/* nothing */
+"Great!" = "¡Perbién!";
+
+/* nothing */
+"Cool!" = "¡Xenial!";
+
+/* nothing */
+"Keep it up!" = "¡Sigui asina!";
+
+/* nothing */
+"Good job!" = "¡Bon trabayu!";
+
+/* nothing */
+"English" = "Inglés";
+
+/* nothing */
+"Hiragana" = "Xaponés (Hiragana)";
+
+/* nothing */
+"Katakana" = "Xaponés (Katakana)";
+
+/* nothing */
+"Hangul" = "Coreanu (Hangul)";
+
+/* nothing */
+"Thai" = "Thai";
+
+/* nothing */
+"ZH_TW" = "ZH_TW";
+
+/* nothing */
+"Square" = "Cuadráu";
+
+/* nothing */
+"Rectangle" = "Rectángulu";
+
+/* nothing */
+"Circle" = "Círculu";
+
+/* nothing */
+"Ellipse" = "Elipse";
+
+/* nothing */
+"Triangle" = "Triángulu";
+
+/* nothing */
+"Pentagon" = "Pentágonu";
+
+/* nothing */
+"Rhombus" = "Rombu";
+
+/* nothing */
+"Octagon" = "Octógonu";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Un cuadráu ye un rectángulu colos cuatro llaos iguales.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Un rectángulu tien cuatro llaos y cuatro ángulos.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "Un círculu ye una curva nel que tolos puntos tán a la mesma distancia del centru.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "Una elipse ye un círculu estiráu.";
+
+/* nothing */
+"A triangle has three sides." = "Un triángulu tien tres llaos.";
+
+/* nothing */
+"A pentagon has five sides." = "Un pentágonu tien cinco llaos.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Un rombu tien cuatro llaos iguales, colos llaos opuestos paralelos.";
+
+/* nothing */
+"An octagon has eight equal sides." = "Un octágonu tien ocho llaos iguales.";
+
+/* nothing */
+"Tools" = "Ferramientes";
+
+/* nothing */
+"Colors" = "Collores";
+
+/* nothing */
+"Brushes" = "Pinceles";
+
+/* nothing */
+"Erasers" = "Gomes";
+
+/* nothing */
+"Stamps" = "Cuños";
+
+/* nothing */
+"Shapes" = "Figures";
+
+/* nothing */
+"Letters" = "Lletres";
+
+/* nothing */
+"Magic" = "Máxiques";
+
+/* nothing */
+"Paint" = "Pintar";
+
+/* nothing */
+"Stamp" = "Cuños";
+
+/* nothing */
+"Lines" = "Llínies";
+
+/* nothing */
+"Text" = "Testu";
+
+/* nothing */
+"Label" = "Etiqueta";
+
+/* nothing */
+"Undo" = "Desfacer";
+
+/* nothing */
+"Redo" = "Refacer";
+
+/* nothing */
+"Eraser" = "Goma";
+
+/* nothing */
+"New" = "Nuevu";
+
+/* nothing */
+"Open" = "Abrir";
+
+/* nothing */
+"Save" = "Guardar";
+
+/* nothing */
+"Print" = "Imprentar";
+
+/* nothing */
+"Quit" = "Salir";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Escueyi un color y la forma del pincel col que dibuxar.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Escueyi un cuñu pa estampar nel to dibuxu.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Calca pa entamar a dibuxar una llinia. Suelta'l botón pa finala.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Escueyi una figura. Calca pa marcar el centru, arrastra, llueu suelta cuando tenga'l tamañu deseáu. Muevi alredor pa xirala, calca pa dibuxala.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Escueyi un estilu de testu. Calca nel dibuxu y yá pues escribir. Prime [Intro] o [Tab] pa finar el testu.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Escueyi un estilu de testu. Calca nel dibuxu y yá pues escribir. Prime [Intro] o [Tab] pa finar el testu. Usando'l botón de seleición y calcando nuna etiqueta esistente pues movela, editala o camuda-y l'estilu de testu.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "¡Escueyi un efeutu máxicu pa emplegar nel dibuxu!";
+
+/* nothing */
+"Undo!" = "¡Desfacer!";
+
+/* nothing */
+"Redo!" = "¡Refacer!";
+
+/* nothing */
+"Eraser!" = "¡Goma de borrar!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Escueyi un color o una imaxe cola qu'entamar un dibuxu nuevu.";
+
+/* nothing */
+"Open…" = "Abrir...";
+
+/* nothing */
+"Your image has been saved!" = "¡Guardóse la to imaxe!";
+
+/* nothing */
+"Printing…" = "Imprentando...";
+
+/* nothing */
+"Bye bye!" = "¡Hasta llueu!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Suelta'l botón pa finar la llínia.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Caltén el botón calcáu pa espurrir la figura.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Muevi'l mur pa xirar la figura. Calca pa dibuxala.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Ta bien... ¡Vamos siguir dibuxando nesta imaxe!";
+
+/* nothing */
+"Do you really want to quit?" = "¿De xuru quies colar?";
+
+/* nothing */
+"Yes, I’m done!" = "¡Sí, llistu!";
+
+/* nothing */
+"No, take me back!" = "¡Non, quiero volver!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "¡Si coles vas perder la imaxe! ¿Quies guardala?";
+
+/* nothing */
+"Yes, save it!" = "¡Sí, guárdala!";
+
+/* nothing */
+"No, don’t bother saving!" = "¡Non, nun quiero guardala!";
+
+/* nothing */
+"Save your picture first?" = "¿Vas guardar la imaxe enantes?";
+
+/* nothing */
+"Can’t open that picture!" = "¡Nun se pue abrir esa imaxe!";
+
+/* nothing */
+"OK" = "Aceutar";
+
+/* nothing */
+"There are no saved files!" = "¡Nun hai ficheros guardaos!";
+
+/* nothing */
+"Print your picture now?" = "¿Imprentar la to imaxe agora?";
+
+/* nothing */
+"Yes, print it!" = "¡Sí, impréntala!";
+
+/* nothing */
+"Your picture has been printed!" = "¡Imprentóse la imaxe!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "¡Llaméntolo, pero la to imaxe nun s'imprentó!";
+
+/* nothing */
+"You can’t print yet!" = "¡Entá nun pues imprentar!";
+
+/* nothing */
+"Erase this picture?" = "¿Esborrar esta imaxe?";
+
+/* nothing */
+"Yes, erase it!" = "¡Sí, esbórrala!";
+
+/* nothing */
+"No, don’t erase it!" = "¡Non, nun la esborres!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "¡Remembra emplegar el botón izquierdu del mur!";
+
+/* nothing */
+"Sound muted." = "Soníu silenciáu.";
+
+/* nothing */
+"Sound unmuted." = "Soníu activu.";
+
+/* nothing */
+"Please wait…" = "Espera, por favor...";
+
+/* nothing */
+"Erase" = "Borrar";
+
+/* nothing */
+"Slides" = "Diapositives";
+
+/* nothing */
+"Back" = "Tornar";
+
+/* nothing */
+"Next" = "Siguiente";
+
+/* nothing */
+"Play" = "Reproducir";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Sí";
+
+/* nothing */
+"No" = "Non";
+
+/* nothing */
+"Replace the picture with your changes?" = "¿Sobroescribir la imaxe pola nueva?";
+
+/* nothing */
+"Yes, replace the old one!" = "¡Sí, guárdala!";
+
+/* nothing */
+"No, save a new file!" = "¡Non, guardar nun ficheru nuevu!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Escueyi la imaxe que quieras, llueu calca en “Abrir”.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Escueyi les imáxenes que quieras, llueu calca en “Reproducir”.";
+
+/* nothing */
+"Pick a color." = "Escueyi un color.";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Drawing program" = "Programa de dibuxu";
+
+/* nothing */
+"A drawing program for children." = "Un programa de dibuxu pa neños y neñes.";
+
+/* nothing */
+"Color Shift" = "Camuda Collor";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Calca y arrastra'l mur pa camudar los collores en partes de la imaxe.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Calca pa camudar los collores de tola imaxe.";
+
+/* nothing */
+"Blind" = "Persiana";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "Calca nos bordes de la imaxe pa poner persianes. Muevi perpendicularmente p'abrir o zarrar les persianes.";
+
+/* nothing */
+"Blocks" = "Bloques";
+
+/* nothing */
+"Chalk" = "Tiza";
+
+/* nothing */
+"Drip" = "Gotiar";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Calca y arrastra'l mur pa cuadricular la imaxe.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Calca y arrastra'l mur pa que la imaxe paeza fecha con tiza.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Calca y arrastra'l mur pa que la imaxe gotee.";
+
+/* nothing */
+"Blur" = "Desenfocar";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Calca y arrastra'l mur alredor pa desenfocar la imaxe.";
+
+/* nothing */
+"Click to blur the entire image." = "Calca pa desenfocar la imaxe entera.";
+
+/* nothing */
+"Bricks" = "Lladrillos";
+
+/* nothing */
+"Click and move to draw large bricks." = "Calca y arrastra pa dibuxar lladrillos grandes.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Calca y arrastra pa dibuxar lladrillos pequeños.";
+
+/* nothing */
+"Calligraphy" = "Caligrafía";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Calca y muevi'l mur pa dibuxar en mou de caligrafía.";
+
+/* nothing */
+"Cartoon" = "Caricatura";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Calca y arrastra'l mur pa que la imaxe se vea como una caricatura.";
+
+/* nothing */
+"Confetti" = "Confeti";
+
+/* nothing */
+"Click to throw confetti!" = "¡Calca pa llanzar confeti!";
+
+/* nothing */
+"Distortion" = "Distorsión";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Calca y arrastra pa distorsionar la imaxe.";
+
+/* nothing */
+"Emboss" = "Baxurrelieve";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Calca y arrastra'l mur pa facer un baxurrelieve cola imaxe.";
+
+/* nothing */
+"Lighten" = "Aclariar";
+
+/* nothing */
+"Darken" = "Escurecer";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Calca y arrastra pa illuminar partes de la imaxe.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Calca pa illuminar la imaxe entera.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Calca pa escurecer partes de la imaxe.";
+
+/* nothing */
+"Click to darken your entire picture." = "Calca pa escurecer la imaxe entera.";
+
+/* nothing */
+"Fill" = "Rellenar";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Calca na imaxe pa estrar esi área con color.";
+
+/* nothing */
+"Fisheye" = "Güeyu de pexe";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Calca pa llograr un efeutu de güeyu de pexe.";
+
+/* nothing */
+"Flower" = "Flor";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Calca y arrastra pa dibuxar el tallu d'una flor. Suelta pa finar la flor.";
+
+/* nothing */
+"Foam" = "Espluma";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Calca y arrastra pa estrar un área con una espluma de burbuyes.";
+
+/* nothing */
+"Fold" = "Doblez";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Escueyi un collor de fondu de pantalla y calca pa camudar la esquina de la páxina siguiente.";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Calca y arrastra pa dibuxar fleches feches de filos artísticos.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Calca pa cubrir la imaxe con gotes de lluvia.";
+
+/* nothing */
+"Glass Tile" = "Azulexu";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Calca y arrastra'l mur pa colocar azulexos na to imaxe.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Calca pa cubrir tola imaxe con baldoses.";
+
+/* nothing */
+"Grass" = "Yerba";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Calca y arrastra pa dibuxar yerba. ¡Nun escaezas la tierra!";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Calca pa camudar la imaxe en negativu.";
+
+/* nothing */
+"Symmetric Left/Right" = "Simetría Izquierda/Drecha";
+
+/* nothing */
+"Symmetric Up/Down" = "Simetría Arriba/Abaxo";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "Caleidoscopiu";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Calca y arrastra'l mur pa dibuxar con dos pinceles simétricos d'izquierda a drecha de la imaxe.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Calca y arrastra'l mur pa dibuxar con dos pinceles simétricos d'arriba a abaxo de la imaxe.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Calca y arrastra'l mur pa facer un baxurrelieve cola imaxe.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Calca y arrastra'l mur pa dibuxar con dos pinceles simétricos d'izquierda a drecha de la imaxe.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Calca y arrastra'l mur pa dibuxar con pinceles simétricos (un caleidoscopiu).";
+
+/* nothing */
+"Light" = "Lluz";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Calca y arrastra pa dibuxar un rayu de lluz nel to dibuxu.";
+
+/* nothing */
+"Metal Paint" = "Pintura metalizao";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Calca y arrastra'l mur pa pintar con pintura metalizao.";
+
+/* nothing */
+"Mirror" = "Espeyu";
+
+/* nothing */
+"Flip" = "Invertir";
+
+/* nothing */
+"Click to make a mirror image." = "Calca pa facer una imaxe a espeyu.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Calca pa voltiar la imaxe.";
+
+/* nothing */
+"Mosaic" = "Mosaicu";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Calca y arrastra pa llograr un efeutu mosaicu.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Calca pa llograr un efeutu mosaicu en tola imaxe.";
+
+/* nothing */
+"Square Mosaic" = "Mosaicu de Cuadraos";
+
+/* nothing */
+"Hexagon Mosaic" = "Mosaicu d'Hexágonos";
+
+/* nothing */
+"Irregular Mosaic" = "Mosaicu Irregular";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Calca y arrastra'l mur pa llograr un efeutu mosaicu de cuadraos en partes de la imaxe.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Calca pa llograr un efeutu mosaicu de cuadraos en tola imaxe.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Calca y arrastra'l mur pa llograr un efeutu mosaicu d'hexágonos en partes de la imaxe.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Calca pa llograr un efeutu mosaicu d'hexágonos en tola imaxe.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Calca y arrastra'l mur pa llograr un efeutu mosaicu irregular en partes de la imaxe.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Calca pa llograr un efeutu mosaicu irregular en tola imaxe.";
+
+/* nothing */
+"Negative" = "Negativu";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Calca y arrastra'l mur alredor pa pasar a negativu.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Calca pa camudar la imaxe en negativu.";
+
+/* nothing */
+"Noise" = "Ruíu";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Calca y arrastra p'amestar ruiu a la imaxe.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Calca p'amestar ruiu a tola imaxe.";
+
+/* nothing */
+"Perspective" = "Perspeutiva";
+
+/* nothing */
+"Zoom" = "Zoom";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Calca nes esquines y arrastra onde quieras estirar la imaxe.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Calca y arrastra p'arriba p'averar o p'abaxo p'alloñar la imaxe.";
+
+/* nothing */
+"Puzzle" = "Puzzle";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Calca y arrastra pa mover el to dibuxu sobro la tela.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Calca pa facer un puzzle a pantalla completa.";
+
+/* nothing */
+"Rails" = "Víes";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Calca y arrastra pa dibuxar víes de tren na imaxe.";
+
+/* nothing */
+"Rainbow" = "Arcu la vieya";
+
+/* nothing */
+"You can draw in rainbow colors!" = "¡Pues dibuxar colos colores del arcu la vieya!";
+
+/* nothing */
+"Rain" = "Lluvia";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Calca p'allugar una gota de lluvia na imaxe.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Calca pa cubrir la imaxe con gotes de lluvia.";
+
+/* nothing */
+"Real Rainbow" = "Arcu la Vieya";
+
+/* nothing */
+"ROYGBIV Rainbow" = "Arcu la Vieya ROYGBIV";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Calca onde quieras qu'entame l'arcu la vieya y arrastra hasta onde quieras que fine.";
+
+/* nothing */
+"Ripples" = "Ondes";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Calca pa qu'apaezan ondes nel to dibuxu.";
+
+/* nothing */
+"Rosette" = "Roseta";
+
+/* nothing */
+"Picasso" = "Picasso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Calca pa entamar a dibuxar una roseta.";
+
+/* nothing */
+"You can draw just like Picasso!" = "¡Pues dibuxar como Picasso!";
+
+/* nothing */
+"Edges" = "Borde";
+
+/* nothing */
+"Sharpen" = "Afilar";
+
+/* nothing */
+"Silhouette" = "Silueta";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Calca y muevi'l mur p'amestar bordes.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Calca p'amestar bordes en tola imaxe.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Calca y arrastra'l mur p'afilar partes de la imaxe.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Calca p'afilar tola imaxe.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Calca y arrastra pa llograr una silueta en blancu y prietu.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Calca pa llograr una silueta en blancu y prietu de tola imaxe.";
+
+/* nothing */
+"Shift" = "Mover";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Calca y arrastra pa mover el to dibuxu sobro la tela.";
+
+/* nothing */
+"Smudge" = "Emporcar";
+
+/* nothing */
+"Wet Paint" = "Pintura llento";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Calca y arrastra'l mur pa emporcar la imaxe.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Calca y muevi'l mur pa dibuxar con pintura llento, con manches.";
+
+/* nothing */
+"Snow Ball" = "Bola de ñeve";
+
+/* nothing */
+"Snow Flake" = "Falopu";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Calca p'amestar boles de ñeve al dibuxu.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Calca p'amestar falopos nel dibuxu.";
+
+/* nothing */
+"String edges" = "Borde de filos";
+
+/* nothing */
+"String corner" = "Esquina de filos";
+
+/* nothing */
+"String 'V'" = "Filos en 'V'";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Calca y arrasta pa dibuxar filos artísticos. Arrastra d'arriba p'abaxo pa dibuxar más o menos llinies, izquierda o drecha pa facer el furacu mayor.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Calca y arrastra pa dibuxar fleches feches de filos artísticos.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Dibuxa fleches con filos artísticos d'ángulos llibres.";
+
+/* nothing */
+"Tint" = "Tiñir";
+
+/* nothing */
+"Color & White" = "Collor y Blancu";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Calca y muevi'l mur alredor pa camudar el collor del dibuxu.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Calca pa camudar el collor de tola imaxe.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Calca y muevi'l mur alredor pa camudar partes de la imaxe en blancu y el collor que escueyas.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Calca pa camudar tola imaxe en blancu y el collor que escueyas.";
+
+/* nothing */
+"Toothpaste" = "Pasta de dientes";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Calca y arrastra pa chiscar con pasta de dientes.";
+
+/* nothing */
+"Tornado" = "Tornáu";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Calca y arrastra pa dibuxar un tornáu na imaxe.";
+
+/* nothing */
+"TV" = "TV";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Calca y arrastra pa llograr que partes de la imaxe paezan de televisión.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Calca pa llograr que la imaxe paeza de televisión.";
+
+/* nothing */
+"Waves" = "Foles";
+
+/* nothing */
+"Wavelets" = "Ondes";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Calca pa ondular la imaxe horizontalmente. Calca arriba pa llograr ondes más cortes y p'abaxo pa faceles más altes, a la manzorga pa faceles más pequeñes y a la drecha pa faceles más llargues.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Calca pa ondular la imaxe verticalmente. Calca arriba pa llograr ondes más cortes y p'abaxo pa faceles más altes, a la manzorga pa faceles más pequeñes y a la drecha pa faceles más llargues.";
+
+/* nothing */
+"Xor Colors" = "Collores";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Calca y arrastra pa dibuxar fleches feches de filos artísticos.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Calca pa llograr un efeutu mosaicu en tola imaxe.";
+

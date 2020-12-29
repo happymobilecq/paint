@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: tuxpaint-i18n@lists.sourceforge.net\nPOT-Creation-Date: 2014-06-03 21:03+0200\nPO-Revision-Date: 2008-02-10 19:28+0400\nLast-Translator: none\nLanguage-Team: none\nLanguage: az\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\n";
+
+/* nothing */
+"Black!" = "Qara!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Tünd boz! ";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Açıq boz!";
+
+/* nothing */
+"White!" = "Ağ!";
+
+/* nothing */
+"Red!" = "Qırmızı!";
+
+/* nothing */
+"Orange!" = "Narıncı! ";
+
+/* nothing */
+"Yellow!" = "Sarı!";
+
+/* nothing */
+"Light green!" = "Açıq yaşıl!";
+
+/* nothing */
+"Dark green!" = "Tünd yaşıl!";
+
+/* nothing */
+"Sky blue!" = "Göy rəngində!";
+
+/* nothing */
+"Blue!" = "Mavi!";
+
+/* nothing */
+"Lavender!" = "Solğun bənövşəyi!";
+
+/* nothing */
+"Purple!" = "Tünd qırmızı!";
+
+/* nothing */
+"Pink!" = "Çəhrayı!";
+
+/* nothing */
+"Brown!" = "Qəhvəyi!";
+
+/* nothing */
+"Tan!" = "Sarı-darçını!";
+
+/* nothing */
+"Beige!" = "Bej!";
+
+/* nothing */
+"qx" = "";
+
+/* nothing */
+"QX" = "";
+
+/* nothing */
+"oO" = "";
+
+/* nothing */
+",.?!" = "";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "";
+
+/* nothing */
+"017" = "";
+
+/* nothing */
+"O0" = "";
+
+/* nothing */
+"1Il|" = "";
+
+/* nothing */
+"<1>spare-1a" = "";
+
+/* nothing */
+"<1>spare-1b" = "";
+
+/* nothing */
+"<9>spare-9a" = "";
+
+/* nothing */
+"<9>spare-9b" = "";
+
+/* nothing */
+"Great!" = "Çox gözəl!";
+
+/* nothing */
+"Cool!" = "Əla!";
+
+/* nothing */
+"Keep it up!" = "Belə də davam et!";
+
+/* nothing */
+"Good job!" = "Yaxşı iş!";
+
+/* nothing */
+"English" = "İngilis";
+
+/* nothing */
+"Hiragana" = "Xirgana";
+
+/* nothing */
+"Katakana" = "Katakana";
+
+/* nothing */
+"Hangul" = "Hangul";
+
+/* nothing */
+"Thai" = "Tai";
+
+/* nothing */
+"ZH_TW" = "Ənənəvi çin";
+
+/* nothing */
+"Square" = "Dördkünc";
+
+/* nothing */
+"Rectangle" = "Düzbucaqlı dördbucaq";
+
+/* nothing */
+"Circle" = "Dairə";
+
+/* nothing */
+"Ellipse" = "Ellips";
+
+/* nothing */
+"Triangle" = "Üçbucaq";
+
+/* nothing */
+"Pentagon" = "Beşbucaq";
+
+/* nothing */
+"Rhombus" = "Romb";
+
+/* nothing */
+"Octagon" = "Səkkizbucaq";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Dörd tərəfi bərabər olan düzbucaq.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Düzbucağın dörd tərəfi və dörd düz bucağı olur.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "İndi dairə çəkə bilərsən.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "Ellips uzadılmış çevrədir.";
+
+/* nothing */
+"A triangle has three sides." = "Üçbucağın üç tərəfi olur.";
+
+/* nothing */
+"A pentagon has five sides." = "Beşbucağın beş tərəfi olur.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "İndi romb çəkə bilərsən.";
+
+/* nothing */
+"An octagon has eight equal sides." = "Səkkizbucağın səkkiz bərabər tərəfi olur.";
+
+/* nothing */
+"Tools" = "Alətlər";
+
+/* nothing */
+"Colors" = "Rənglər";
+
+/* nothing */
+"Brushes" = "Fırça";
+
+/* nothing */
+"Erasers" = "Pozanlar";
+
+/* nothing */
+"Stamps" = "Möhürlər";
+
+/* nothing */
+"Shapes" = "Fiqurlar";
+
+/* nothing */
+"Letters" = "Hərflər";
+
+/* nothing */
+"Magic" = "Möcüzə";
+
+/* nothing */
+"Paint" = "Fırçalar";
+
+/* nothing */
+"Stamp" = "Möhür";
+
+/* nothing */
+"Lines" = "Xəttlər";
+
+/* nothing */
+"Text" = "Mətn";
+
+/* nothing */
+"Label" = "";
+
+/* nothing */
+"Undo" = "Ləğv etmək";
+
+/* nothing */
+"Redo" = "Yenidən etmək";
+
+/* nothing */
+"Eraser" = "Pozan";
+
+/* nothing */
+"New" = "Yeni";
+
+/* nothing */
+"Open" = "Açmaq";
+
+/* nothing */
+"Save" = "Yaddaşa yaz";
+
+/* nothing */
+"Print" = "Çap etmək";
+
+/* nothing */
+"Quit" = "Çıxmaq";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Şəkil çəkmək üçün rəngi və fırçanı seç.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Möhürün şəkilini seç.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "Xəttin çəkməsini başlamaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir. Xətti çəkmək üçün mausun düyməsini burax.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Fiquru seç. Şəkilin istənilən yerində mausun sol düyməsini bas. Düyməni saxlayıb mausu hərəkətə gətir və fiqur dəyişəcək. Fiquru çəkmək üçün mausun düyməsini burax.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Mətn yazmaq üçün şəkilin üzərində mausun sol düyməsini bas və mətni yaz.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Mətn yazmaq üçün şəkilin üzərində mausun sol düyməsini bas və mətni yaz.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Möcüzəli effekti seç!";
+
+/* nothing */
+"Undo!" = "Ləğv etmək!";
+
+/* nothing */
+"Redo!" = "Yenidən etmək!";
+
+/* nothing */
+"Eraser!" = "Pozan!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Şəkil çəkmək üçün rəngi və ya da şəkili seç.";
+
+/* nothing */
+"Open…" = "Aç...";
+
+/* nothing */
+"Your image has been saved!" = "Sənin şəkilin yaddaşa yazılib!";
+
+/* nothing */
+"Printing…" = "Çap edilir...";
+
+/* nothing */
+"Bye bye!" = "Hələlik!";
+
+/* nothing */
+"Let go of the button to complete the line." = "İndi də mausun düyməsini burax və xətt çəkiləcək.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Fiqurun ölçülqrini dəyişdirmək üçün mausun düyməsini saxla.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Fiquru fırlatmaq üçün mausu tərpəd. Fiquru çəkmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Yaxşı... Onda bu şəkil ilə davam edək!";
+
+/* nothing */
+"Do you really want to quit?" = "Sən doğrudan da çıxmaq istəyirsən?";
+
+/* nothing */
+"Yes, I’m done!" = "Bəli, çıxmaq istəyirəm!";
+
+/* nothing */
+"No, take me back!" = "Yox, məni geriyə qaytar!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Əqər çıxsan şəkil yaddaşa salınmayacaq! Mən onu yaddaşa salım?";
+
+/* nothing */
+"Yes, save it!" = "Bəli, yaddaşa sal!";
+
+/* nothing */
+"No, don’t bother saving!" = "Yox!";
+
+/* nothing */
+"Save your picture first?" = "Şəkili yaddaşa salım?";
+
+/* nothing */
+"Can’t open that picture!" = "Bu şəkili aça bilmirəm!";
+
+/* nothing */
+"OK" = "OK";
+
+/* nothing */
+"There are no saved files!" = "Burada yaddaşda olan heç bir şəkil yoxdur!";
+
+/* nothing */
+"Print your picture now?" = "Sənin səkilini indi çap edim?";
+
+/* nothing */
+"Yes, print it!" = "Bəli, çap et!";
+
+/* nothing */
+"Your picture has been printed!" = "Şəkilin çap edilib!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Şəkilin çap edilib!";
+
+/* nothing */
+"You can’t print yet!" = "Çap edə bilmirəm!";
+
+/* nothing */
+"Erase this picture?" = "Şəkili pozum?";
+
+/* nothing */
+"Yes, erase it!" = "Bəli, poz!";
+
+/* nothing */
+"No, don’t erase it!" = "Yox, pozma";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Mausun sol düyməsindən istifadə et!";
+
+/* nothing */
+"Sound muted." = "Səs söndürülüb.";
+
+/* nothing */
+"Sound unmuted." = "Səs icazə olunub.";
+
+/* nothing */
+"Please wait…" = "Bir az gözlə...";
+
+/* nothing */
+"Erase" = "Poz";
+
+/* nothing */
+"Slides" = "Cizgi filmi";
+
+/* nothing */
+"Back" = "Geri";
+
+/* nothing */
+"Next" = "İrəli";
+
+/* nothing */
+"Play" = "Oyna";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Bəli";
+
+/* nothing */
+"No" = "Yox";
+
+/* nothing */
+"Replace the picture with your changes?" = "Əvvəlki şəkili əvəz edim?";
+
+/* nothing */
+"Yes, replace the old one!" = "Bəli, əvəz et!";
+
+/* nothing */
+"No, save a new file!" = "Yox, yeni şəkil kimi yaddaşa sal!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "İstədiyin şəkili şeç və \"Aç\" düyməsini bas.";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "İstədiyin şəkilləri şeç və \"Oyna\" düyməsini bas.";
+
+/* nothing */
+"Pick a color." = "Rəngi seç.";
+
+/* nothing */
+"Tux Paint" = "Tuks ilə şəkil çək.";
+
+/* nothing */
+"Drawing program" = "Rəsm proqramı";
+
+/* nothing */
+"A drawing program for children." = "Uşaqlar üçün rəsm proqramı.";
+
+/* nothing */
+"Color Shift" = "Hərəkət";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Blind" = "";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "";
+
+/* nothing */
+"Blocks" = "Mozaika";
+
+/* nothing */
+"Chalk" = "Təbaşir";
+
+/* nothing */
+"Drip" = "Damcılamaq";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Kərpicləri düzmək üçün mausun düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Şəkili tabaşir ilə çəkmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Şəkili sızmaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Blur" = "Ləkə";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to blur the entire image." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Bricks" = "Kərpic";
+
+/* nothing */
+"Click and move to draw large bricks." = "Böyük kərpicləri düzmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Balaca kərpicləri düzmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Calligraphy" = "Gözəl xətlə yazma";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Gözəl xətlə yazmaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Cartoon" = "Cizgi filmi";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Şəkili cizgi filminə çevirmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Confetti" = "";
+
+/* nothing */
+"Click to throw confetti!" = "";
+
+/* nothing */
+"Distortion" = "Əyilmə";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Şəkili əymək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Emboss" = "Relyef";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Şəkili relyefli etmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Lighten" = "İşıqlandırmaq";
+
+/* nothing */
+"Darken" = "Qaralmaq";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Şəkili azca rəngləmək  üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to darken your entire picture." = "Şəkili azca rəngləmək  üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Fill" = "Doldurmaq";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "İstədiyin sahəni doldurmaq üçün mausun düyməsini bas.";
+
+/* nothing */
+"Fisheye" = "";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Şəkili yerindən çəkmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Flower" = "Çiçək";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Çiçəyin gövdəni çəkmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir. Çiçəyi çəkmək üçün mausun düyməsini burax.";
+
+/* nothing */
+"Foam" = "Köpük";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Şəkili köpük ilə örtmək üçün  mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Fold" = "";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Şəkili işıqlandırmaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Glass Tile" = "Mozaika";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Şəkili mozaika ilə örtmək üçün  mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Şəkili azca rəngləmək  üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Grass" = "Ot";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Ot çəkmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Symmetric Left/Right" = "";
+
+/* nothing */
+"Symmetric Up/Down" = "";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "Kaleydoskop";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Şəkili kaleydoskopa çevirmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Şəkili kaleydoskopa çevirmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Şəkili relyefli etmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Şəkili kaleydoskopa çevirmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Şəkili kaleydoskopa çevirmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Light" = "İşıq";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Şəkili işıqlandırmaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Metal Paint" = "Dəmir rəngləmə";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Şəkili dəmir kimi rəngləmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Mirror" = "Güzgü";
+
+/* nothing */
+"Flip" = "Çevirmək";
+
+/* nothing */
+"Click to make a mirror image." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Şəkili çevirmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Mosaic" = "Möcüzə";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Square Mosaic" = "Dördkünc";
+
+/* nothing */
+"Hexagon Mosaic" = "Möcüzə";
+
+/* nothing */
+"Irregular Mosaic" = "";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Negative" = "Neqativ";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Şəkili neqativdə görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Noise" = "";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Şəkili azca rəngləmək  üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Perspective" = "";
+
+/* nothing */
+"Zoom" = "";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Şəkili relyefli etmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Şəkili yerindən çəkmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Puzzle" = "Tünd qırmızı!";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Şəkili yerindən çəkmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Rails" = "Zərif dalğalar";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Şəkili işıqlandırmaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Rainbow" = "Göy qurşağı";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Sən göy qurşağını çəkə bilərsən!";
+
+/* nothing */
+"Rain" = "Göy qurşağı";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Real Rainbow" = "Göy qurşağı";
+
+/* nothing */
+"ROYGBIV Rainbow" = "Göy qurşağı";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "";
+
+/* nothing */
+"Ripples" = "Zərif dalğalar";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Zərif dalğalar çəkmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Rosette" = "";
+
+/* nothing */
+"Picasso" = "";
+
+/* nothing */
+"Click and start drawing your rosette." = "Xəttin çəkməsini başlamaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir. Xətti çəkmək üçün mausun düyməsini burax.";
+
+/* nothing */
+"You can draw just like Picasso!" = "Sən göy qurşağını çəkə bilərsən!";
+
+/* nothing */
+"Edges" = "";
+
+/* nothing */
+"Sharpen" = "Fiqurlar";
+
+/* nothing */
+"Silhouette" = "";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Şəkili azca rəngləmək  üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Shift" = "Hərəkət";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Şəkili yerindən çəkmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Smudge" = "Ləkələmək";
+
+/* nothing */
+"Wet Paint" = "Dəmir rəngləmə";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Snow Ball" = "";
+
+/* nothing */
+"Snow Flake" = "";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Zərif dalğalar çəkmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Zərif dalğalar çəkmək üçün mausun sol düyməsini bas.";
+
+/* nothing */
+"String edges" = "";
+
+/* nothing */
+"String corner" = "";
+
+/* nothing */
+"String 'V'" = "";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Şəkili işıqlandırmaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "";
+
+/* nothing */
+"Tint" = "Ton";
+
+/* nothing */
+"Color & White" = "";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Şəkili ləkələmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Şəkili cizgi filminə çevirmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Şəkili cizgi filminə çevirmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Toothpaste" = "";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Şəkili yerindən çəkmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Tornado" = "";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Şəkili işıqlandırmaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"TV" = "";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Şəkili azca rəngləmək  üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Şəkili azca rəngləmək  üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Waves" = "Dalğalar";
+
+/* nothing */
+"Wavelets" = "Dalğalar";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Şəkili dalğalı etmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Şəkili dalğalı etmək üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Xor Colors" = "Rənglər";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Şəkili işıqlandırmaq üçün mausun sol düyməsini bas və mausu hərəkətə gətir.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Şəkili güzgüdəki kimi görmək üçün mausun sol düyməsini bas.";
+

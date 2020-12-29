@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: tuxpaint\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2014-06-03 21:03+0200\nPO-Revision-Date: 2014-06-10 11:45+0100\nLast-Translator: Solomon Gizaw <solohavi@yahoo.com>\nLanguage-Team: none\nLanguage: am\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=n > 1;\nX-Generator: Virtaal 0.7.1\n";
+
+/* nothing */
+"Black!" = "ጥቁር!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "ደማቅ ግራጫ!";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "ደማቅ ግራጫ!";
+
+/* nothing */
+"White!" = "ነጭ! ";
+
+/* nothing */
+"Red!" = "ቀይ! ";
+
+/* nothing */
+"Orange!" = "ብርቱካናማ! ";
+
+/* nothing */
+"Yellow!" = "ቢጫ!";
+
+/* nothing */
+"Light green!" = "ነጣ ያለ አረንጓዴ! ";
+
+/* nothing */
+"Dark green!" = "ደማቅ አረንጓዴ! ";
+
+/* nothing */
+"Sky blue!" = "ውሃ ሰማያዊ! ";
+
+/* nothing */
+"Blue!" = "ሰማያዊ! ";
+
+/* nothing */
+"Lavender!" = "የወይን ጠጅ ቀለም! ";
+
+/* nothing */
+"Purple!" = "ሃምራዊ! ";
+
+/* nothing */
+"Pink!" = "ሮዝ!";
+
+/* nothing */
+"Brown!" = "ቡኒ!";
+
+/* nothing */
+"Tan!" = "ፈዛዛ ቡኒ! ";
+
+/* nothing */
+"Beige!" = "ቤዥ! ";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "qx";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = ",.?! ";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{<(^&* ";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "<1>ቅጥያ-1ሀ ";
+
+/* nothing */
+"<1>spare-1b" = "<1>ቅጥያ-1ለ";
+
+/* nothing */
+"<9>spare-9a" = "<9>ቅጥያ-9ሀ ";
+
+/* nothing */
+"<9>spare-9b" = "<9>ቅጥያ-9ለ ";
+
+/* nothing */
+"Great!" = "እጅግ አስደሳች! ";
+
+/* nothing */
+"Cool!" = "በጣም ጥሩ!";
+
+/* nothing */
+"Keep it up!" = "በዚሁ ቀጥል!";
+
+/* nothing */
+"Good job!" = "ጥሩ ስራ! ";
+
+/* nothing */
+"English" = "እንግሊዝኛ ";
+
+/* nothing */
+"Hiragana" = "ሂራጋና ";
+
+/* nothing */
+"Katakana" = "ካታካና ";
+
+/* nothing */
+"Hangul" = "ሃንጉል ";
+
+/* nothing */
+"Thai" = "ታይ ";
+
+/* nothing */
+"ZH_TW" = "ZH_TW";
+
+/* nothing */
+"Square" = "ካሬ  ";
+
+/* nothing */
+"Rectangle" = "ቀጤ ጎነ አራት ";
+
+/* nothing */
+"Circle" = "ክብ ";
+
+/* nothing */
+"Ellipse" = "እንቁላል ቀረፅ ";
+
+/* nothing */
+"Triangle" = "ባለ ሶስት ጎን ";
+
+/* nothing */
+"Pentagon" = "ባለ አምስት ጎን ";
+
+/* nothing */
+"Rhombus" = "ሮምበስ ";
+
+/* nothing */
+"Octagon" = "ባለ ስምንት ጎን ";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "ካሬ ማለት እኩል አራት ጎኖች ያሉት ሬክታንግል ነው። ";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "ቀጤ ጎነ አራት ጎኖችን አራት ቀጥ ያሉ አንግሎች አሉት።  ";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "ክብ  ሁሉም ነጥቦች ከመሃል እኩል ርቀት ያላቸው ጥምዝ ነው። ";
+
+/* nothing */
+"An ellipse is a stretched circle." = "ኢክሊፕስ የተዘረጋ ሰርክል ነው። ";
+
+/* nothing */
+"A triangle has three sides." = "ትሬያንግል ሶስት ጎኖች አሉት።  ";
+
+/* nothing */
+"A pentagon has five sides." = "ፔንታጎን አምስት ጎኖች አሉት ";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "ሮምበስ አራት እኩል ጎን ያለው ሲሆን ተቃራኒ ጎኖቹ ትይዩ ናቸው። ";
+
+/* nothing */
+"An octagon has eight equal sides." = "ኦክታጎን ስምንት ጎኖች አሉት። ";
+
+/* nothing */
+"Tools" = "መሳሪያዎች ";
+
+/* nothing */
+"Colors" = "ቀለሞች ";
+
+/* nothing */
+"Brushes" = "ብሩሾች ";
+
+/* nothing */
+"Erasers" = "ማጥፊያዎች ";
+
+/* nothing */
+"Stamps" = "ማህተሞች ";
+
+/* nothing */
+"Shapes" = "ቅርጾች ";
+
+/* nothing */
+"Letters" = "ፊደሎች ";
+
+/* nothing */
+"Magic" = "ማጂክ ";
+
+/* nothing */
+"Paint" = "ቀለም ";
+
+/* nothing */
+"Stamp" = "ማህተም ";
+
+/* nothing */
+"Lines" = "መስመሮች ";
+
+/* nothing */
+"Text" = "ጽሁፍ ";
+
+/* nothing */
+"Label" = "መሰየሚያ ";
+
+/* nothing */
+"Undo" = "ይቀልብሱ  ";
+
+/* nothing */
+"Redo" = "እንደገና ይመልሱ  ";
+
+/* nothing */
+"Eraser" = "ማጥፊያ ";
+
+/* nothing */
+"New" = "አዲስ ";
+
+/* nothing */
+"Open" = "ክፈት ";
+
+/* nothing */
+"Save" = "አስቀምጥ ";
+
+/* nothing */
+"Print" = "አትም ";
+
+/* nothing */
+"Quit" = "ጨርስና አቁም";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "ለመሳል ቀለምና የብሩሽ ቅርጽ ምረጥ።  ";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "በስዕሎችዎ ዙሪያ ለማተም ስዕል ምረጥ ";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "መስመር መሳል ለመጀመር ጠቅ ያድርጉ። እንዲጨርስ ይተውት። ";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "ቅርጽ ምረጥ። መሀሉን ለመምረጥ ጠቅ አድርገህ ጎትት ከዚያ የምትፈልገው መጠን ሲደርስ ልቀቀው ። ለማሽከርከር በዙርያው አንቀሳቅስና  ለመሳል ጠቅ አድርግ። ";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "የጽሁፉን ቅጥ ምረጥ። በስዕልህ ላይ ጠቅ አድርግና መተየብ መጀመር ትችላለህ። ጽሁፉን ለመጨረስ [Enter] ወይም [Tab] ተጫን። ";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "የጽሁፉን ቅጥ ምረጥ። በስዕልህ ላይ ጠቅ አድርግና መተየብ መጀመር ትችላለህ። ጽሁፉን ለመጨረስ [Enter] ወይም [Tab] ተጫን።  የመምረጫውን አዝራር በመጠቀምና ያለውን መሰየሚያ ጠቅ በማድረግ ማንቀሳቀስ፤ ማስተካከል እና የጽሁፉን ቅጥ መለወጥ ትችላለህ። ";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "በስዕልህ  ላይ ምትሃታዊ ተጽዕኖ ለመጠቀም ምረጥ!  ";
+
+/* nothing */
+"Undo!" = "መቀልብውስ ";
+
+/* nothing */
+"Redo!" = "እንደገና መመለስ ";
+
+/* nothing */
+"Eraser!" = "ማጥፊያ!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "አዲስ ስዕል ለመሳል ለመጀመር ቀለም ወይም ስዕል ምረጥ።  ";
+
+/* nothing */
+"Open…" = "መክፈት ... ";
+
+/* nothing */
+"Your image has been saved!" = "ምስልህ  ተቀምጧል! ";
+
+/* nothing */
+"Printing…" = "በህትመት ላይ... ";
+
+/* nothing */
+"Bye bye!" = "ባይ ባይ! ";
+
+/* nothing */
+"Let go of the button to complete the line." = "መስመሩን ለመጨረስ አዝራሩን ተወው። ";
+
+/* nothing */
+"Hold the button to stretch the shape." = "ቅርጹን ለመዘርጋት አዝራሩን ያዝ። ";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "ቅርጹን ለማሽከርከር አዝራሩን አንቀሳቅስ። ለመሳል ጠቅ አድርግ። ";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "እሺ አሁን... ይህንን መሳል እንቀጥል! ";
+
+/* nothing */
+"Do you really want to quit?" = "ጨርሶ ለማቆም በርግጠኝነት ፈልገሃል? ";
+
+/* nothing */
+"Yes, I’m done!" = "አዎ ጨርሻለሁ!";
+
+/* nothing */
+"No, take me back!" = "አይ እንደገና መልሰኝ! ";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "ጨርስህ ከወጣህ ስዕልህን ታጣለህ! ይቀመጥ? ";
+
+/* nothing */
+"Yes, save it!" = "አዎ አስቀምጠው! ";
+
+/* nothing */
+"No, don’t bother saving!" = "አይ ለማስቀመጥ አትጨነቅ! ";
+
+/* nothing */
+"Save your picture first?" = "መጀመሪያ ስዕልህን አሰቀምጥ? ";
+
+/* nothing */
+"Can’t open that picture!" = "ያንን ስዕል መክፈት አይቻልም!  ";
+
+/* nothing */
+"OK" = "እሺ ";
+
+/* nothing */
+"There are no saved files!" = "የተቀመጡ ስዕሎች የሉም! ";
+
+/* nothing */
+"Print your picture now?" = "ስዕልህ አሁን ይታተም? ";
+
+/* nothing */
+"Yes, print it!" = "አዎ ይታተም! ";
+
+/* nothing */
+"Your picture has been printed!" = "ስዕልህ ታትሞዋል! ";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "እናዝናለን ስዕልህ ሊታተም አልቻለም! ";
+
+/* nothing */
+"You can’t print yet!" = "አሁንም ማተም አትችልም! ";
+
+/* nothing */
+"Erase this picture?" = "ይህ ስዕል ይጥፋ? ";
+
+/* nothing */
+"Yes, erase it!" = "አዎ አጥፋው! ";
+
+/* nothing */
+"No, don’t erase it!" = "አይ አታጥፋው! ";
+
+/* nothing */
+"Remember to use the left mouse button!" = "የግራ መዳፊት አዝራር መጠቀም አስታውስ!";
+
+/* nothing */
+"Sound muted." = "ድምጹ የጠፋ። ";
+
+/* nothing */
+"Sound unmuted." = "ድምጹ የሚሰማ። ";
+
+/* nothing */
+"Please wait…" = "እባክዎ ይጠብቁ... ";
+
+/* nothing */
+"Erase" = "ማጥፉት ";
+
+/* nothing */
+"Slides" = "ስላይዶች ";
+
+/* nothing */
+"Back" = "ወደኋላ ";
+
+/* nothing */
+"Next" = "ቀጥል  ";
+
+/* nothing */
+"Play" = "ማጫወት ";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "አዎ ";
+
+/* nothing */
+"No" = "አይደለም ";
+
+/* nothing */
+"Replace the picture with your changes?" = "ከለውጥህ  ጋር ስዕሉ ይተካ? ";
+
+/* nothing */
+"Yes, replace the old one!" = "አዎ የድሮውን ተካ!";
+
+/* nothing */
+"No, save a new file!" = "አይ አዲስ ፋይል አስቀምጥ! ";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "የምትፈልገውን ስዕል ምረጥና “መክፈት” የሚለውን  ጠቅ አድርግ። ";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "የምትፈልገውን ስዕል ምረጥና “ማጫወት” የሚለውን  ጠቅ አድርግ። ";
+
+/* nothing */
+"Pick a color." = "ቀለም ምረጥ ";
+
+/* nothing */
+"Tux Paint" = "ተክስ መሳያ ";
+
+/* nothing */
+"Drawing program" = "የመሳያ ፍርግም። ";
+
+/* nothing */
+"A drawing program for children." = "የልጆች የመሳያ ፍርግም። ";
+
+/* nothing */
+"Color Shift" = "ቀለም መቀየሪያ ";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "የስዕልህን ክፍሎች ቀለም ለመቀያየር አዝራሩን ጠቅ አድርገህ አንቀሳቅስ። ";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "የስዕልህን ሁሉንም ክፍል ቀለም ለመቀየር ጠቅ አድርግ። ";
+
+/* nothing */
+"Blind" = "ስውር ";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "መስኮት ስዕልህ ላይ ለመሸፈን  የስዕልህን ጫፍ ጠቅ አድርግ። ሽፋኑን ለመክፈት ወይም ለመዝጋት ቀጥ ባለ ሁኔታ አንቀሳቅስ";
+
+/* nothing */
+"Blocks" = "ካሬዎች ";
+
+/* nothing */
+"Chalk" = "ጠመኔ ";
+
+/* nothing */
+"Drip" = "ጠብታ ";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = " ስአሉን ካሬ ላማድረግ አዝራሩን ጠቅ አድርገውና  በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = " ስአሉን ወደ ጠመኔ አሳሳልነት ለመቀየር  አዝራሩን ጠቅ አድርገውና  በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "የነጠብጣብ ስአል ለማድረግ አዝራሩን ጠቅ አድርገውና  በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Blur" = " ደብዛዛ";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "ምስሉን ለማደብዘዝ አዝራሩን ጠቅ አድርገውና  በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Click to blur the entire image." = "ሁሉንም ምስል ለማደብዘዝ ጠቅ አድርግ። ";
+
+/* nothing */
+"Bricks" = "ጡብ ";
+
+/* nothing */
+"Click and move to draw large bricks." = "ትላልቅ ጡቦች ለመሳል  አዝራሩን ጠቅ አድርገህ አንቀሳቅስ። ";
+
+/* nothing */
+"Click and move to draw small bricks." = "ትንንሽ ጡቦች  ለመሳል  አዝራሩን ጠቅ አድርገውና አንቀሳቅስ። ";
+
+/* nothing */
+"Calligraphy" = "የአጅ ጽሁፍ ";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "የአጅ ጽሁፍ  ለመሳል  አዝራሩን ጠቅ አድርገውና በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Cartoon" = "ካርቱን ";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "ስዕሉን ወደ ካርቱን ለመቀየር አዝራሩን ጠቅ አድርገውና በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Confetti" = "የሚበተን አበባ ";
+
+/* nothing */
+"Click to throw confetti!" = "አበባ ለመበተን ጠቅ አድርግ! ";
+
+/* nothing */
+"Distortion" = "ማጣመም ";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "ስዕልህን ለማጣመም አዝራሩን ጠቅ አድርገህ ጎትት። ";
+
+/* nothing */
+"Emboss" = "ማስጌጥ ";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "ስአሉን ለማስጌጥ  አዝራሩን ጠቅ አድርገህ ጎትት። ";
+
+/* nothing */
+"Lighten" = "ማንጻት ";
+
+/* nothing */
+"Darken" = "ማጥቆር ";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "የስዕሎችህን ክፍሎች ለማንጻት አዝራሩን ጠቅ አድርገውና አንቀሳቅስ። ";
+
+/* nothing */
+"Click to lighten your entire picture." = "የስዕሎችህን ሁሉንም ክፍል ለማንጻት ጠቅ አድርግ።";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "የስዕሎችህን ክፍሎች ለማጥቆር አዝራሩን ጠቅ አድርገውና አንቀሳቅስ። ";
+
+/* nothing */
+"Click to darken your entire picture." = "የስዕሎችህን ሁሉንም ክፍል ለማጥቆር ጠቅ አድርግ።";
+
+/* nothing */
+"Fill" = "መሙላት ";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "ያንን ቦታ በቀለም ለመሙላት ስዕሉ ላይ ጠቅ አድርግ። ";
+
+/* nothing */
+"Fisheye" = "የጎንዮሽ እይታ ";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = " የጎንዮሽ እይታ ለመፍጠር የስእሉን ክፍል  ጠቅ አድርግና ጎትት።";
+
+/* nothing */
+"Flower" = "አበባ ";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "የአበባ አገዳ ለመሳል ጠቅ አድርግና ጎትት። አበባውን ለመጨረስ ልቀቀው። ";
+
+/* nothing */
+"Foam" = "አረፋ ";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "አንድን ቦታ በአረፋ ለመሸፈን አዝራሩን ጠቅ አድርገውና ጎትት። ";
+
+/* nothing */
+"Fold" = "ማጠፍ ";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "የዳራውን ቀለም ምረጥና የገጹን ጥግ ለማዞር ጠቅ አድርግ። ";
+
+/* nothing */
+"Fretwork" = "ቅርጻ ቅርጽ";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "ተደጋጋሚ ስርአተ ጥለት ለመሳል አዝራሩን ጠቅ አድርግ እና ጎትት።";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "ተደጋጋሚ ስርአተ ጥለት ምስልህን ለመክበብ አዝራሩን ጠቅ አድርግ።";
+
+/* nothing */
+"Glass Tile" = "የመስታወት ንጣፍ ";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "በስዕሎት ላይ የመስታወት ንጣፍ ለመጨመር አዝራሩን ጠቅ አድርግና ጎትት። ";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "አጠቃላይ ስዕልህን በመስታወት ንጣፎች ለመሸፈን ጠቅ አድርግ። ";
+
+/* nothing */
+"Grass" = "ሳር ";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "ሳር ለመሳል ጠቅ አድርገውና አንቀሳቅስ። ቆሻሻውን አትርሳ! ";
+
+/* nothing */
+"Halftone" = "የፎቶ ቅጂ";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "ምስልህን ወደ ጋዜጣ ለመቀየር አዝራሩን ጠቅ አድርግ እና ጎትት።";
+
+/* nothing */
+"Symmetric Left/Right" = "እኩል ግራ/ቀኝ ";
+
+/* nothing */
+"Symmetric Up/Down" = "እኩል ላይ/ታች ";
+
+/* nothing */
+"Pattern" = "ስርዓተ ጥለት";
+
+/* nothing */
+"Tiles" = "የተሰደረ";
+
+/* nothing */
+"Kaleidoscope" = "አብረቅራቂ ";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "በስዕልህ ግራና ቀኝ እኩል በሆኑ ሁለት ብሩሾች ለመሳል አዝራሩን ጠቅ አድርገውና ጎትት። ";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "በስዕልህ ላይና ታች እኩል በሆኑ ሁለት ብሩሾች ለመሳል አዝራሩን ጠቅ አድርገውና ጎትት። ";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "በምስልህ ላይ ስርአተ ጥለት ለመሳል መዳፊትን ጠቅ አድርግ እና ጎትት።";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "በስዕልህ ግራና ቀኝ እኩል በሆኑ ሁለት ብሩሾች ስርአተ ጥለት  ለመሳል መዳፊትን ጠቅ አድርግ እና ጎትት።";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "እኩል በሆኑ ሁለት ብሩሾች ለመሳል (አብረቅራቂ) አዝራሩን ጠቅ አድርገውና ጎትት። ";
+
+/* nothing */
+"Light" = "ብርሃናማ";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "በስዕሎት ላይ የብርሃን ጨረር ለመሳል ጠቅ አድርገውና ጎትት። ";
+
+/* nothing */
+"Metal Paint" = "የብረት ቀለም ";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "በብረታማ ቀለም ለመቀባት አዝራሩን ጠቅ አድርገውና ጎትት። ";
+
+/* nothing */
+"Mirror" = "ግልባጭ ";
+
+/* nothing */
+"Flip" = "ያዙሩ ";
+
+/* nothing */
+"Click to make a mirror image." = "የምስል ግልባጭ ለመስራት ጠቅ ያድርግ ";
+
+/* nothing */
+"Click to flip the picture upside-down." = "ስዕሉን ከላይ ወደታች ለማዞር ጠቅ ያድርግ። ";
+
+/* nothing */
+"Mosaic" = "ውሁድ ስዕል ";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "የስዕሎት የተለያየ ክፍሎች ላይ ውሁድ ስዕል ለመጨመር አዝራሩን ጠቅ አድርገውና አንቀሳቅስ። ";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "የስዕሎትሁሉም ክፍል ላይ  ውሁድ ስዕል ለመጨመር ጠቅ ያድርግ።  ";
+
+/* nothing */
+"Square Mosaic" = "ካሬ ውሁድ ስዕል ";
+
+/* nothing */
+"Hexagon Mosaic" = "ባለ ስድስት ጎን ውሁድ ስዕል ";
+
+/* nothing */
+"Irregular Mosaic" = "ያልተስተካከለ ውሁድ ስዕል ";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "የስዕልህን  የተለያየ ክፍሎች ላይ ከሬ ውሁድ ስዕል ለመጨመር አዝራሩን ጠቅ አድርገውና አንቀሳቅስ። ";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "የስዕልህ ሁሉም ክፍል ላይ  ካሬ ውሁድ ስዕል ለመጨመር ጠቅ አድርግ። ";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "የስዕልህን የተለያየ ክፍሎች ላይ ባለ ስድስት ጎን ውሁድ ስዕል ለመጨመር አዝራሩን ጠቅ አድርገውና አንቀሳቅስ። ";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "የስዕልህ ሁሉም ክፍል ላይ ባለ ስድስት ጎናዊ ውሁድ ስዕል ለመጨመር ጠቅ አድርግ። ";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "የስዕልህን  የተለያየ ክፍሎች ላይ ያልተስተካከለ ውሁድ ስዕል ለመጨመር አዝራሩን ጠቅ አድርገውና አንቀሳቅስ። ";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "የስዕልህ ሁሉም ክፍል ላይ  ያልተስተካከለ ውሁድ ስዕል ለመጨመር ጠቅ አድርግ። ";
+
+/* nothing */
+"Negative" = "ቅንስ ";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "ስእሉን የጠቆረ ፊልም ለማድረግ አዝራሩን ጠቅ አድርገውና  በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Click to turn your painting into its negative." = "ስእሉን ወደ ጠቆረ ፊልም ለመለወጥ አዝራሩን ጠቅ አድርገው። ";
+
+/* nothing */
+"Noise" = "ጫጫታ ";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "የስዕልህን  የተለያየ ክፍሎች ላይ የተረባበሸ ነገር ለመጨመር አዝራሩን ጠቅ አድርገውና  በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Click to add noise to your entire picture." = "የስዕልህን  ሁሉም ክፍል ላይ  የተረባብርሸ ነገረ ለመጨመር ጠቅ አድርግ። ";
+
+/* nothing */
+"Perspective" = "የንድፍ ስራ ";
+
+/* nothing */
+"Zoom" = "አጉላ ";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "ወደምትፈልገው ስዕሉን ለመዘርጋት በየጥጎቹ ጠቅ አድርግና ጎትት። ";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "ስእሉን ለማጉላት አዝራሩን ጠቅ አድርገውና  ወደ ላይና ወደ ታች አንቀሳቅስ። ";
+
+/* nothing */
+"Puzzle" = "እንቆቅልሽ ";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "እንቆቅልሹን ለማግኘት የስእሉን የፈለግህበት ስፍራ አዝራሩን ጠቅ አድርገው። ";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "እንቆቅልሹን  ሙሉ ማያ ለማድረግ አዝራሩን ጠቅ አድርገው";
+
+/* nothing */
+"Rails" = "አጥር ";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "በስእሉ ላይ የባቡር ሃዲድ ለመሳል አዝራሩን ጠቅ አድርጉና ጎትት።";
+
+/* nothing */
+"Rainbow" = "ቀስተደመና ";
+
+/* nothing */
+"You can draw in rainbow colors!" = "በቀስተደመና ቀለሞች መሳል ትችላለህ! ";
+
+/* nothing */
+"Rain" = "ዝናብ ";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "በስዕልህ ላይ የዝናብ ጠብታ ለማድረግ ጠቅ አድርግ። ";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "ስዕልህን በዝናብ ጠብታ ለመሸፈን ጠቅ አድርግ። ";
+
+/* nothing */
+"Real Rainbow" = "ትክክለኛ ቀስተደመና ";
+
+/* nothing */
+"ROYGBIV Rainbow" = "ቀብቢአሰጥ-ሰ ቀስተዳመና ";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "ቀስተደመናው እንዲጀምር የምትፈልግበት ቦታ ጠቅ አድርግ፤ እንዲያልቅ ወደምትፈልግበት ቦታ ድረስ ጎትት ከዚያ ቀስተደመና ለመሳል ልቀቀው። ";
+
+/* nothing */
+"Ripples" = "ሞገድ ";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "በስዕል ላይ ሞገድ እንዲታይ ለማድረግ ጠቅ አድርግ። ";
+
+/* nothing */
+"Rosette" = "የጽጌሬዳ ሪባን ";
+
+/* nothing */
+"Picasso" = "ፒካሶ ";
+
+/* nothing */
+"Click and start drawing your rosette." = "ጠቅ አድርግና የጽጌሬዳ ሪባንህን መሳል ጀምር፡፡ ";
+
+/* nothing */
+"You can draw just like Picasso!" = "ልክ እንደ ፒካሶ መሳል ትችላለህ! ";
+
+/* nothing */
+"Edges" = "ጠርዞች ";
+
+/* nothing */
+"Sharpen" = "መቅረጽ ";
+
+/* nothing */
+"Silhouette" = "የተቀረጸ ምስል ";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "በስዕልህ የተለያየ ክፍሎች ጠርዞችን ለመፈለግ አዝራሩን ጠቅ አድርገውና አንቀሳቅስ። ";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "በስዕልህ አጠቃላይ ላይ ጠርዞችን ለመፈለግ ጠቅ አድርግ። ";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "የስዕልህን የተለያየ ክፍሎች ለመቅረጽ አዝራሩን ጠቅ አድርገውና አንቀሳቅስ።";
+
+/* nothing */
+"Click to sharpen the entire picture." = "አጠቃላይ ስዕሉን ለመቅረጽ ጠቅ አድርግ። ";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "ነጭና ጥቁር የተቀረጸ ምስል ለመፍጠር አዝራሩን ጠቅ አድርገውና አንቀሳቅስ።";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "የአጠቃላይ ስዕሎህን ነጭና ጥቁር የተቀረጸ ምስል ለመፍጠር ጠቅ አድርግ። ";
+
+/* nothing */
+"Shift" = "መቀያየር ";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "ስዕልህን በተወጠረው ሸራ ዙሪያ ለመቀያየር ጠቅ አድርግና ጎትት። ";
+
+/* nothing */
+"Smudge" = "የተጨማለቀ ";
+
+/* nothing */
+"Wet Paint" = "እርጥብ ቅብ ";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "ስዕሉን ለማጨማለቅ አዝራሩን ጠቅ አድርገውና  በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "በእርጥብና የተጨማለቅ ቀለም ለመሳል አዝራሩን ጠቅ አድርገውና  በዙሪያው አንቀሳቅስ።";
+
+/* nothing */
+"Snow Ball" = "የበረዶ ኳስ ";
+
+/* nothing */
+"Snow Flake" = "የበረዶ ካፊያ ";
+
+/* nothing */
+"Click to add snow balls to your picture." = "በስዕልህ ላይ የበረዶ ኳስ ለመጨመር ጠቅ አድር። ";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "በስዕልህ ላይ የበረዶ ካፊያ ለመጨመር ጠቅ አድርግ።";
+
+/* nothing */
+"String edges" = "ሕብረቁምፊ ጫፍ ";
+
+/* nothing */
+"String corner" = "ሕብረቁምፊ ጥግ ";
+
+/* nothing */
+"String 'V'" = "ሕብረቁምፊ 'V'";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "ጥበባዊ ሕብረቁምፊ ለመሳል አዝራሩን ጠቅ አድርግና ጎትት።ብዙ ወይም ትንሽ መስመሮች ለመሳል ከላይ ወደ ታች ጎትት፤ ሰፊ ቀዳዳ ለመፍጠር አዝራሩን ከግራ ወደ ቀኝ ጎትት";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "ቅስቶች በጥበባዊ ሕብረቁምፊ ለመሳል አዝራሩን ጠቅ አድርግና ጎትት።";
+
+/* nothing */
+"Draw string art arrows with free angles." = "ጥበባዊ ሕብረቁምፊ ቀስቶች በነፃ  ማእዘን ሳል ።";
+
+/* nothing */
+"Tint" = "ቅልም ";
+
+/* nothing */
+"Color & White" = "ባለቀለምና ነጭ ";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "የስዕልህን የተለያዩ ክፍሎች ቀለም ለመለወጥ አዝራሩን ጠቅ አድርግና በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Click to change the color of your entire picture." = "የሙሉ ስዕልህን ቀለም ለመለወጥ ጠቅ አድርግ። ";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "የስዕልህን የተለያዩ ክፍሎች ወደ ነጭና የመረጥከውቀለም ለመለወጥ አዝራሩን ጠቅ አድርግና በዙሪያው አንቀሳቅስ። ";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "ሙሉ ስዕልህን ወደ ነጭና የመረጥከው ቀለም ለመለወጥ ጠቅ አድርግ። ";
+
+/* nothing */
+"Toothpaste" = "የጥርስ ሳሙና ";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "ስዕልህ ላይ የጥርስ ሳሙና ፍጭጭ ለማድረግ ጠቅ አድርገውና ጎትት። ";
+
+/* nothing */
+"Tornado" = "ሀይለኛ ንፋስ ";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "በስዕልህ ላይ የሀይለኛ ንፋስ መንቆርቆሪያ ለመሳል ጠቅ አድርገውና ጎትት።  ";
+
+/* nothing */
+"TV" = "ቲቪ ";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "የስዕልህ የተለያየ ክፍሎች በቴሌቪዥን ላይ ያሉ ለማስመሰል ጠቅ አድርገውና ጎትት። ";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "ስዕልህ በቴሌቪዥን ላይ የሚታይ ለማስመሰል ጠቅ አድርግ። ";
+
+/* nothing */
+"Waves" = "ማዕበሎች  ";
+
+/* nothing */
+"Wavelets" = "ትንንሽ ማዕበሎች  ";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "ስዕሉን  የአግድሞሽ ማዕበል መሰል ለማድረግ ጠቅ አድርግ። ለአጭር ማዕበሎች ወደ ላዩ፤ ለረጅም ቁመት ማዕበሎች ወደታቹ፤ ለትንሽ ማዕበሎች ወደ ግራው እና ለረጅም ማዕበሎች ወደ ቀኙ ጠቅ አድርግ።  ";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "ስዕሉን አቀባዊ ማዕበል መሰል ለማድረግ ጠቅ አድርግ። ለአጭር ማዕበሎች ወደ ላዩ፤ ለረጅም ቁመት ማዕበሎች ወደታቹ፤ ለትንሽ ማዕበሎች ወደ ግራው እና ለረጅም ማዕበሎች ወደ ቀኙ ጠቅ አድርግ። ";
+
+/* nothing */
+"Xor Colors" = "ወይም ቀለሞች";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "ለመሳል ወይም ተጽዕኖ ለማሳደር አዝራሩን ጠቅ አድርግና ጎትት።";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "ለመሳል ወይም በሁሉም ስዕሎች ላይ ተጽዕኖ ለማሳደር አዝራሩን ጠቅ አድርግ።";
+

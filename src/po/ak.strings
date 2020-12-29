@@ -1,0 +1,876 @@
+/* nothing */
+"" = "Project-Id-Version: Tux Paint\nReport-Msgid-Bugs-To: tuxpaint-i18n@lists.sourceforge.net\nPOT-Creation-Date: 2014-06-03 21:03+0200\nPO-Revision-Date: 2010-10-27 10:16-0000\nLast-Translator: none\nLanguage-Team: none\nLanguage: ak\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=2; plural=(n > 1);\n";
+
+/* nothing */
+"Black!" = "Tuntum!";
+
+/* nothing */
+"Dark grey! Some people spell it “dark gray”." = "Dark grey! Ebi nom ka no \"dark gray\".";
+
+/* nothing */
+"Light grey! Some people spell it “light gray”." = "Light grey! Ebi nom ka no \"light gray\".";
+
+/* nothing */
+"White!" = "Fitaa!";
+
+/* nothing */
+"Red!" = "Kokoo!";
+
+/* nothing */
+"Orange!" = "Ankaa!";
+
+/* nothing */
+"Yellow!" = "Akoɔ srade!";
+
+/* nothing */
+"Light green!" = "Babunebun!";
+
+/* nothing */
+"Dark green!" = "Ebunebun!";
+
+/* nothing */
+"Sky blue!" = "Owim!";
+
+/* nothing */
+"Blue!" = "Adɔmba!";
+
+/* nothing */
+"Lavender!" = "Hwehwamade!";
+
+/* nothing */
+"Purple!" = "Purple!";
+
+/* nothing */
+"Pink!" = "Pink!";
+
+/* nothing */
+"Brown!" = "Fɔm!";
+
+/* nothing */
+"Tan!" = "Tan!";
+
+/* nothing */
+"Beige!" = "Beige!";
+
+/* nothing */
+"qx" = "qx";
+
+/* nothing */
+"QX" = "QX";
+
+/* nothing */
+"oO" = "oO";
+
+/* nothing */
+",.?!" = ",.?!";
+
+/* nothing */
+"`\\%_@$~#{<(^&*" = "`\\%_@$~#{<(^&*";
+
+/* nothing */
+"017" = "017";
+
+/* nothing */
+"O0" = "O0";
+
+/* nothing */
+"1Il|" = "1Il|";
+
+/* nothing */
+"<1>spare-1a" = "<1>spare-1a";
+
+/* nothing */
+"<1>spare-1b" = "<1>spare-1b";
+
+/* nothing */
+"<9>spare-9a" = "<9>spare-9a";
+
+/* nothing */
+"<9>spare-9b" = "<9>spare-9b";
+
+/* nothing */
+"Great!" = "kokuroko!";
+
+/* nothing */
+"Cool!" = "fɔmm!";
+
+/* nothing */
+"Keep it up!" = "Yere wo ho!";
+
+/* nothing */
+"Good job!" = "Woayaade!";
+
+/* nothing */
+"English" = "Borɔfo";
+
+/* nothing */
+"Hiragana" = "Hiragana";
+
+/* nothing */
+"Katakana" = "Katakana";
+
+/* nothing */
+"Hangul" = "Hangul";
+
+/* nothing */
+"Thai" = "Thai";
+
+/* nothing */
+"ZH_TW" = "ZH_TW";
+
+/* nothing */
+"Square" = "ahinanan";
+
+/* nothing */
+"Rectangle" = "ahinanan";
+
+/* nothing */
+"Circle" = "Kanko";
+
+/* nothing */
+"Ellipse" = "Ellipse";
+
+/* nothing */
+"Triangle" = "ahinasa";
+
+/* nothing */
+"Pentagon" = "ahinanum";
+
+/* nothing */
+"Rhombus" = "ahinanan";
+
+/* nothing */
+"Octagon" = "ahinanwɔtwe";
+
+/* nothing */
+"A square is a rectangle with four equal sides." = "Ahinanan wɔ afa anan pɛpɛɛpɛ.";
+
+/* nothing */
+"A rectangle has four sides and four right angles." = "Ahinanan wɔ afa anan pɛpɛɛpɛ na ɛtene.";
+
+/* nothing */
+"A circle is a curve where all points have the same distance from the center." = "Kurukurwa yɛ kɔɔf a nano wɔ ɛkwan pɛpɛɛpɛ fre mfinfin.";
+
+/* nothing */
+"An ellipse is a stretched circle." = "ɛllipse yɛ kuruwa a ya twem.";
+
+/* nothing */
+"A triangle has three sides." = "ahinasa wɔ afa meɛnsa.";
+
+/* nothing */
+"A pentagon has five sides." = "Pentagɔn wɔ afa num.";
+
+/* nothing */
+"A rhombus has four equal sides, and opposite sides are parallel." = "Rhmbus wɔ afa pɛpɛɛpɛ anan, na nhwɛanin no sɛ.";
+
+/* nothing */
+"An octagon has eight equal sides." = "Ahinanwɔtwe wɔ afa pɛpɛɛpɛ nwɔtwe.";
+
+/* nothing */
+"Tools" = "Adwinnade";
+
+/* nothing */
+"Colors" = "Ahosu";
+
+/* nothing */
+"Brushes" = "abrɔɔse";
+
+/* nothing */
+"Erasers" = "Apepadeɛ!";
+
+/* nothing */
+"Stamps" = "Astampo";
+
+/* nothing */
+"Shapes" = "hyepo";
+
+/* nothing */
+"Letters" = "Krataa";
+
+/* nothing */
+"Magic" = "Magic";
+
+/* nothing */
+"Paint" = "Pɛnte";
+
+/* nothing */
+"Stamp" = "Setamp";
+
+/* nothing */
+"Lines" = "Nsinsan";
+
+/* nothing */
+"Text" = "Ntwerɔyɛ";
+
+/* nothing */
+"Label" = "Ahyɛnso deɛ";
+
+/* nothing */
+"Undo" = "San";
+
+/* nothing */
+"Redo" = "Sanyɔ";
+
+/* nothing */
+"Eraser" = "Pepadeɛ";
+
+/* nothing */
+"New" = "Foforo";
+
+/* nothing */
+"Open" = "Bue";
+
+/* nothing */
+"Save" = "Sie";
+
+/* nothing */
+"Print" = "Prente";
+
+/* nothing */
+"Quit" = "Pɔn";
+
+/* nothing */
+"Pick a color and a brush shape to draw with." = "Fa ahosu ne blahye wode bɛ drɔɔ.";
+
+/* nothing */
+"Pick a picture to stamp around your drawing." = "Fa nfonyin a stampo wo drɔɔe no.";
+
+/* nothing */
+"Click to start drawing a line. Let go to complete it." = "kleeke na hyɛ ase drɔɔ nsensan. Gyae mu na wie.";
+
+/* nothing */
+"Pick a shape. Click to pick the center, drag, then let go when it is the size you want. Move around to rotate it, and click to draw it." = "Fa hyeepo. Kleeke fa mfinfin, twe, sɛ ɛyɛ nea wo pɛ a gyae mu. Pea fa ho ma ɛndane no, na kleeke drɔ no.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text." = "Fa test. Kleekedrɔɔe no so nahyɛ tappen no ase. Mea [Enter] anaa [Tab] so na wie test no.";
+
+/* nothing */
+"Choose a style of text. Click on your drawing and you can start typing. Press [Enter] or [Tab] to complete the text. By using the selector button and clicking an exist label, you can move it, edit it and change its text style." = "Fa test. Kleekedrɔɔe no so nahyɛ tappen no ase. Mea [Enter] anaa [Tab] so na wie test no. Wode bɔtom a woafa no na kleeke ntwerɛyɛ a ɛwɔhɔ no, wo bɛtumi apea no, asesa mu na woasesa nw test stae no.";
+
+/* nothing */
+"Pick a magical effect to use on your drawing!" = "Fa efɛt wopɛsɛ wode drɔɔ!";
+
+/* nothing */
+"Undo!" = "San!";
+
+/* nothing */
+"Redo!" = "Sanyɔ!";
+
+/* nothing */
+"Eraser!" = "Pepadeɛ!";
+
+/* nothing */
+"Pick a color or picture with which to start a new drawing." = "Fa ahosu ana nfonyin a wo de bɛhyɛ drɔɔe foforɔ ase.";
+
+/* nothing */
+"Open…" = "Bue...";
+
+/* nothing */
+"Your image has been saved!" = "Wo nfonyin no akora!";
+
+/* nothing */
+"Printing…" = "Prente...";
+
+/* nothing */
+"Bye bye!" = "Baabae!";
+
+/* nothing */
+"Let go of the button to complete the line." = "Gyae bɔɔtom no mu wie nsensan no.";
+
+/* nothing */
+"Hold the button to stretch the shape." = "Mea bɔtom na ɛntwe hyeep no mu.";
+
+/* nothing */
+"Move the mouse to rotate the shape. Click to draw it." = "Pea mauso no ma hyeepo no nnane. Kleeke drɔɔ.";
+
+/* nothing */
+"OK then… Let’s keep drawing this one!" = "Afei deɛ...Yɛn nkoso dorɔɔ baako yi!";
+
+/* nothing */
+"Do you really want to quit?" = "Nti wo pɛsɛ wo pɔn?";
+
+/* nothing */
+"Yes, I’m done!" = "Aane, mawee!";
+
+/* nothing */
+"No, take me back!" = "Daabi, famekɔ mahyi!";
+
+/* nothing */
+"If you quit, you’ll lose your picture! Save it?" = "Sɛ wo pɔn a, wo bɛ hwere wo nfonyin no! Korano?";
+
+/* nothing */
+"Yes, save it!" = "Aane, sie!";
+
+/* nothing */
+"No, don’t bother saving!" = "Daabi, nhawoho nsie!";
+
+/* nothing */
+"Save your picture first?" = "Sie wo nfonyin no kane!";
+
+/* nothing */
+"Can’t open that picture!" = "Nfonyin no ntome mmue!";
+
+/* nothing */
+"OK" = "Yoo";
+
+/* nothing */
+"There are no saved files!" = "Biribiara nnihɔ a woasie!";
+
+/* nothing */
+"Print your picture now?" = "Prente wo nfonyin no seseaa?";
+
+/* nothing */
+"Yes, print it!" = "Aane, prente!";
+
+/* nothing */
+"Your picture has been printed!" = "Wo nfonyin no a prente!";
+
+/* nothing */
+"Sorry! Your picture could not be printed!" = "Kafra! Wo nfonyin no antumi amprente!";
+
+/* nothing */
+"You can’t print yet!" = "Wo ntomi mprente sesei!";
+
+/* nothing */
+"Erase this picture?" = "Pepa nfonyin wei?";
+
+/* nothing */
+"Yes, erase it!" = "Aane, pepa!";
+
+/* nothing */
+"No, don’t erase it!" = "Daabi npepa!";
+
+/* nothing */
+"Remember to use the left mouse button!" = "Kae sɛ wo bɛ pagya mouso no nsa benkum no!";
+
+/* nothing */
+"Sound muted." = "Dede no adum.";
+
+/* nothing */
+"Sound unmuted." = "Dede no asan aba.";
+
+/* nothing */
+"Please wait…" = "Mesrɛwo twɛn...";
+
+/* nothing */
+"Erase" = "Pepa";
+
+/* nothing */
+"Slides" = "Slides";
+
+/* nothing */
+"Back" = "Kane";
+
+/* nothing */
+"Next" = "Dea ɛdi so";
+
+/* nothing */
+"Play" = "Agoro";
+
+/* nothing */
+"Aa" = "Aa";
+
+/* nothing */
+"Yes" = "Aane";
+
+/* nothing */
+"No" = "Daabi";
+
+/* nothing */
+"Replace the picture with your changes?" = "Sesa nfonyin no ne wodiɛ no?";
+
+/* nothing */
+"Yes, replace the old one!" = "Aane, sesa dada no!";
+
+/* nothing */
+"No, save a new file!" = "Daabi, sie foforɔ no!";
+
+/* nothing */
+"Choose the picture you want, then click “Open”." = "Yi mfonyin a wopɛ, na cleeke \"Bue\".";
+
+/* nothing */
+"Choose the pictures you want, then click “Play”." = "Yi mfonyin a wopɛ, na cleeke \"Bɔ\".";
+
+/* nothing */
+"Pick a color." = "Fa Ahosu.";
+
+/* nothing */
+"Tux Paint" = "Tux Paint";
+
+/* nothing */
+"Drawing program" = "Drɔyɛ nhyehyɛyɛ";
+
+/* nothing */
+"A drawing program for children." = "Mmɔfra drɔɔye nhyehyɛye.";
+
+/* nothing */
+"Color Shift" = "Ahosu nsesae";
+
+/* nothing */
+"Click and move the mouse to change the colors in parts of your picture." = "Kleeke na twe mauso sesa nfonyin no fa ahosu.";
+
+/* nothing */
+"Click to change the colors in your entire picture." = "Kleeke na  sesa nfonyin no nyinaa ahosu.";
+
+/* nothing */
+"Blind" = "Bɔ prɛ";
+
+/* nothing */
+"Click towards the edge of your picture to pull window blinds over it. Move perpendicularly to open or close the blinds." = "kleeke nfonyin no ano na twe mpoma no kata so. Pea bue ana tom.";
+
+/* nothing */
+"Blocks" = "Blɔɔko";
+
+/* nothing */
+"Chalk" = "Akado";
+
+/* nothing */
+"Drip" = "Sosɔ";
+
+/* nothing */
+"Click and move the mouse around to make the picture blocky." = "Kleeke na twe mauso no ma nfonyin no ɛnyɛ blɔɔke.";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a chalk drawing." = "Kleeke na twe mauso no dane  nfonyin no ɛnyɛ sɛ kyɔɔkɔ drɔɔe.";
+
+/* nothing */
+"Click and move the mouse around to make the picture drip." = "Kleeke na twe mauso no ma nfonyin no dreepe.";
+
+/* nothing */
+"Blur" = "Wesee";
+
+/* nothing */
+"Click and move the mouse around to blur the image." = "Kleeke na twe mauso no ma nfonyin nyɛ besii.";
+
+/* nothing */
+"Click to blur the entire image." = "Cleeke na nfonyin no anim nyɛ wesee";
+
+/* nothing */
+"Bricks" = "Mbreks";
+
+/* nothing */
+"Click and move to draw large bricks." = "Kleeke na twe ma ɛdrɔɔ breeke akɛse.";
+
+/* nothing */
+"Click and move to draw small bricks." = "Kleeke na twe ma ɛdrɔɔ breeke nketewa.";
+
+/* nothing */
+"Calligraphy" = "Atwerɛ Adwuma";
+
+/* nothing */
+"Click and move the mouse around to draw in calligraphy." = "Kleeke na twe mauso no drɔɔ wɔ kalligrafe mu.";
+
+/* nothing */
+"Cartoon" = "Cartoon";
+
+/* nothing */
+"Click and move the mouse around to turn the picture into a cartoon." = "Kleeke na twe mauso no dane nfonyin nyɛ kaatun.";
+
+/* nothing */
+"Confetti" = "Confetti";
+
+/* nothing */
+"Click to throw confetti!" = "Cleeke na to confitti!";
+
+/* nothing */
+"Distortion" = "Anototo";
+
+/* nothing */
+"Click and drag the mouse to cause distortion in your picture." = "Kleeke na twe mauso no ma destɔhyen mmra nfonyin no fa so.";
+
+/* nothing */
+"Emboss" = "Empi";
+
+/* nothing */
+"Click and drag the mouse to emboss the picture." = "Kleeke na twe mauso no ma nfonyin no mmpue.";
+
+/* nothing */
+"Lighten" = "Ma no nyɛ hae";
+
+/* nothing */
+"Darken" = "Ma no nyɛ sum";
+
+/* nothing */
+"Click and move the mouse to lighten parts of your picture." = "Kleeke na twe mauso no ma ɛhan mmra nfonyin no fa so.";
+
+/* nothing */
+"Click to lighten your entire picture." = "Kleeke ma ɛhan mmra nfonyin so.";
+
+/* nothing */
+"Click and move the mouse to darken parts of your picture." = "Kleeke na twe mauso no ma ɛsum mmra nfonyin no fa so.";
+
+/* nothing */
+"Click to darken your entire picture." = "Kleeke na ma wo nfonyin no nyɛ sum.";
+
+/* nothing */
+"Fill" = "Hyɛ no ma";
+
+/* nothing */
+"Click in the picture to fill that area with color." = "Kleeke nfonyin no mu na fa ahosu kata hɔ.";
+
+/* nothing */
+"Fisheye" = "Fisheye";
+
+/* nothing */
+"Click on part of your picture to create a fisheye effect." = "Kleeke nfonyin no fa so na yɛ fisheye efɛɛte.";
+
+/* nothing */
+"Flower" = "Nhwiren";
+
+/* nothing */
+"Click and drag to draw a flower stalk. Let go to finish the flower." = "Kleeke na twe drɔ nhweren dua. Gyae mu na wie nhweren no.";
+
+/* nothing */
+"Foam" = "Ahuro";
+
+/* nothing */
+"Click and drag the mouse to cover an area with foamy bubbles." = "Kleeke na twe mauso no ahuro nkata ɔfa no.";
+
+/* nothing */
+"Fold" = "Bobɔ";
+
+/* nothing */
+"Choose a background color and click to turn the corner of the page over." = "Fa ahosu akatakye na kleeke ma ɛndane peege no cɔna.";
+
+/* nothing */
+"Fretwork" = "";
+
+/* nothing */
+"Click and drag to draw repetitive patterns. " = "Cleeke na twe na ɛndrɔɔ agyan ano a wɔ de nhoma ayɛ.";
+
+/* nothing */
+"Click to surround your picture with repetitive patterns." = "Kleeke na fa asuo nsosɔ no kata wo mfonyin no so.";
+
+/* nothing */
+"Glass Tile" = "Ahwehwɛ Taes";
+
+/* nothing */
+"Click and drag the mouse to put glass tile over your picture." = "Kleeke na twe mauso no na fa ahwehwɛ taes nto nfonyin no so.";
+
+/* nothing */
+"Click to cover your entire picture in glass tiles." = "Kleeke fa ahwehwɛ kata wo nfonyin no so nyinaa.";
+
+/* nothing */
+"Grass" = "Nwura";
+
+/* nothing */
+"Click and move to draw grass. Don’t forget the dirt!" = "Kleeke na twe ma ɛndrɔ grass. Ɛmma wo werɛnfi efi no!";
+
+/* nothing */
+"Halftone" = "";
+
+/* nothing */
+"Click and drag to turn your drawing into a newspaper." = "Kleeke na dane woadwuma no nɛgɛtif.";
+
+/* nothing */
+"Symmetric Left/Right" = "Simɛtrek Benkum/Nifa";
+
+/* nothing */
+"Symmetric Up/Down" = "Simɛtrek Soro/Fam";
+
+/* nothing */
+"Pattern" = "";
+
+/* nothing */
+"Tiles" = "";
+
+/* nothing */
+"Kaleidoscope" = "Kaleidoscope";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the left and right of your picture." = "Kleeke na twe mauso no fa brahye mienu drɔ deɛ ɛyɛ simɛtrek twa nfonyin no benkum ne nifa so.";
+
+/* nothing */
+"Click and drag the mouse to draw with two brushes that are symmetric across the top and bottom of your picture." = "Kleeke na twe mauso no fa brahye mienu drɔ deɛ ɛyɛ simɛtrek twa nfonyin no soro ne fam so.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern across the picture." = "Kleeke na twe mauso no ma nfonyin no mmpue.";
+
+/* nothing */
+"Click and drag the mouse to draw a pattern plus its symmetric across the picture." = "Kleeke na twe mauso no fa brahye mienu drɔ deɛ ɛyɛ simɛtrek twa nfonyin no benkum ne nifa so.";
+
+/* nothing */
+"Click and drag the mouse to draw with symmetric brushes (a kaleidoscope)." = "Kleeke na twe mauso no nfa simɛtrek brahye (kaleidoscope) ndrɔɔ.";
+
+/* nothing */
+"Light" = "Kanea";
+
+/* nothing */
+"Click and drag to draw a beam of light on your picture." = "Kleeke na twe drɔɔ beem kanea wɔ nfonyin no so.";
+
+/* nothing */
+"Metal Paint" = "Dade Eduru";
+
+/* nothing */
+"Click and drag the mouse to paint with a metallic color." = "Kleeke na twe mauso no fa dade ahosu pɛnte.";
+
+/* nothing */
+"Mirror" = "Ahwehwɛ";
+
+/* nothing */
+"Flip" = "Dane";
+
+/* nothing */
+"Click to make a mirror image." = "Kleeke na yɛ ahwehwɛ nfonyin.";
+
+/* nothing */
+"Click to flip the picture upside-down." = "Kleeke dane nfonyin no.";
+
+/* nothing */
+"Mosaic" = "Mosaic";
+
+/* nothing */
+"Click and move the mouse to add a mosaic effect to parts of your picture." = "Kleeke na twe mauso fa moseek ka nfonyin no fa so.";
+
+/* nothing */
+"Click to add a mosaic effect to your entire picture." = "Kleeke fa moseek ka nfonyin no so nyinaa.";
+
+/* nothing */
+"Square Mosaic" = "Ahinanan Mosaic";
+
+/* nothing */
+"Hexagon Mosaic" = "Ahinansea Mosaic";
+
+/* nothing */
+"Irregular Mosaic" = "Mosaic Akyeakyea";
+
+/* nothing */
+"Click and move the mouse to add a square mosaic to parts of your picture." = "Kleeke na twe mauso fa ahinanan moseek ka nfonyin no fa so.";
+
+/* nothing */
+"Click to add a square mosaic to your entire picture." = "Kleeke fa ahinanan moseek ka nfonyin no so nyinaa.";
+
+/* nothing */
+"Click and move the mouse to add a hexagonal mosaic to parts of your picture." = "Kleeke na twe mauso fa ahinasea moseek ka nfonyin no fa so.";
+
+/* nothing */
+"Click to add a hexagonal mosaic to your entire picture." = "Kleeke fa ahinasea moseek ka nfonyin no so nyinaa.";
+
+/* nothing */
+"Click and move the mouse to add an irregular mosaic to parts of your picture." = "Kleeke na twe mauso fa moseek ka nfonyin no fa so.";
+
+/* nothing */
+"Click to add an irregular mosaic to your entire picture." = "Kleeke fa moseek a ɛntene  ka nfonyin no so nyinaa.";
+
+/* nothing */
+"Negative" = "Negative";
+
+/* nothing */
+"Click and move the mouse around to make your painting negative." = "Kleeke na twe mauso no na ma pɛnte adwuma no nyɛ nɛgɛtif.";
+
+/* nothing */
+"Click to turn your painting into its negative." = "Kleeke na dane woadwuma no nɛgɛtif.";
+
+/* nothing */
+"Noise" = "Dede";
+
+/* nothing */
+"Click and move the mouse to add noise to parts of your picture." = "Kleeke na twe mauso no na fa dede ka wo nfonyin no fa.";
+
+/* nothing */
+"Click to add noise to your entire picture." = "Kleeke na fa dede ka wo nfonyin no so nyinaa.";
+
+/* nothing */
+"Perspective" = "Woa sepi";
+
+/* nothing */
+"Zoom" = "Buemu";
+
+/* nothing */
+"Click on the corners and drag where you want to stretch the picture." = "Kleeke kɔna no na twe kɔ baabea wo pɛsɛ wo trɛɛ nfonyin no mu.";
+
+/* nothing */
+"Click and drag up to zoom in or drag down to zoom out the picture." = "Kleeke na twe suumo bram ana twe bra fam ma ɛnsuumo nfonyin no mpue.";
+
+/* nothing */
+"Puzzle" = "Pɔsoo";
+
+/* nothing */
+"Click the part of your picture where would you like a puzzle." = "Kleeke nfonyin no fa a wo pɛ nnadaa.";
+
+/* nothing */
+"Click to make a puzzle in fullscreen mode." = "Kleeke na ma nnadaa fullscreen mu.";
+
+/* nothing */
+"Rails" = "Dade Kwan";
+
+/* nothing */
+"Click and drag to draw train track rails on your picture." = "Kleeke na twe ma ɛnnrɔ keteke kwan no wɔ wo nfonyin no so.";
+
+/* nothing */
+"Rainbow" = "Nyankonkon";
+
+/* nothing */
+"You can draw in rainbow colors!" = "Wobɛtumi adrɔɔ wɔ nyankontɔn cɔla mu!";
+
+/* nothing */
+"Rain" = "Osu";
+
+/* nothing */
+"Click to place a rain drop onto your picture." = "Kleeke na fa asuo nsosɔ no to wo mfonyin no so.";
+
+/* nothing */
+"Click to cover your picture with rain drops." = "Kleeke na fa asuo nsosɔ no kata wo mfonyin no so.";
+
+/* nothing */
+"Real Rainbow" = "Nyankonkon ankasa";
+
+/* nothing */
+"ROYGBIV Rainbow" = "ROYGBIV Nyankonkon";
+
+/* nothing */
+"Click where you want your rainbow to start, drag to where you want it to end, and then let go to draw a rainbow." = "Kleeke baabia wopɛsɛ nyankontɔn no hyɛase, twe to baabia wopɛsɛ ɛsie, na gyae ma no nnrɔ nyankontɔn.";
+
+/* nothing */
+"Ripples" = "Kasa koa";
+
+/* nothing */
+"Click to make ripples appear over your picture." = "Kleeke na ma repo no mpue wɔ wo mfonyin no so.";
+
+/* nothing */
+"Rosette" = "rose";
+
+/* nothing */
+"Picasso" = "Picasso";
+
+/* nothing */
+"Click and start drawing your rosette." = "Kleeke na hyɛ ase drɔɔ wo rosette no.";
+
+/* nothing */
+"You can draw just like Picasso!" = "Wobɛtumi adrɔɔ tesɛ Picasso!";
+
+/* nothing */
+"Edges" = "Ano";
+
+/* nothing */
+"Sharpen" = "Kann";
+
+/* nothing */
+"Silhouette" = "Silhouette";
+
+/* nothing */
+"Click and move the mouse to trace edges in parts of your picture." = "Kleeke na twe mauso no nhwehwɛ nfonyin no fa.";
+
+/* nothing */
+"Click to trace edges in your entire picture." = "Kleeke treese ɛgye wo nfonyin no so nyinaa.";
+
+/* nothing */
+"Click and move the mouse to sharpen parts of your picture." = "Kleeke na twe ma nfonyin no mpue.";
+
+/* nothing */
+"Click to sharpen the entire picture." = "Cleeke na nfonyin no ani nnahɔ.";
+
+/* nothing */
+"Click and move the mouse to create a black and white silhouette." = "Cleeke mouso no na ɛnyɛ tumtum ne fitaa sumsum.";
+
+/* nothing */
+"Click to create a black and white silhouette of your entire picture." = "Cleeke na ɛnyɛ tumtum ne fitaa sumsum wo nfonyin no so nyinaa.";
+
+/* nothing */
+"Shift" = "Pin";
+
+/* nothing */
+"Click and drag to shift your picture around on the canvas." = "Cleeke na twe na ɛmpeawo nfonyin no ɛtwa canvase no ho.";
+
+/* nothing */
+"Smudge" = "Fɔre";
+
+/* nothing */
+"Wet Paint" = "Eduru aafɔ";
+
+/* nothing */
+"Click and move the mouse around to smudge the picture." = "Cleeke mouso no na fa fɔrefɔre mfonyin no so.";
+
+/* nothing */
+"Click and move the mouse around to draw with wet, smudgy paint." = "Cleeke mouso no na fa pente nfɔɛ no fɔre  drɔ.";
+
+/* nothing */
+"Snow Ball" = "Snow Bɔɔlo";
+
+/* nothing */
+"Snow Flake" = "Snow Flake";
+
+/* nothing */
+"Click to add snow balls to your picture." = "Cleeke fa snɔɔ bɔɔlo ka wo nfonyin no ho.";
+
+/* nothing */
+"Click to add snow flakes to your picture." = "Cleeke fa snɔɔ felake ka wo nfonyin no ho.";
+
+/* nothing */
+"String edges" = "Ahoma ano";
+
+/* nothing */
+"String corner" = "Ahoma bea";
+
+/* nothing */
+"String 'V'" = "String 'V'";
+
+/* nothing */
+"Click and drag to draw string art. Drag top-bottom to draw less or more lines, left or right to make a bigger hole." = "Cleeke na twe nhoma aate no. Twe fre soro bra fam na ɛndrɔɔ nsensan kakrabi, fre benkum anaa nifa na ɛnyɛ ntokro akese.";
+
+/* nothing */
+"Click and drag to draw arrows made of string art." = "Cleeke na twe na ɛndrɔɔ agyan ano a wɔ de nhoma ayɛ.";
+
+/* nothing */
+"Draw string art arrows with free angles." = "Fa anges kwa drɔɔ streeng agyan.";
+
+/* nothing */
+"Tint" = "Dum";
+
+/* nothing */
+"Color & White" = "Ahosu & fitaa";
+
+/* nothing */
+"Click and move the mouse around to change the color of parts of your picture." = "Kleeke na twe mauso no dane nfonyin no fa  ahosu.";
+
+/* nothing */
+"Click to change the color of your entire picture." = "Kleeke na sesa wo nfonyin no ahosu.";
+
+/* nothing */
+"Click and move the mouse around to turn parts of your picture into white and a color you choose." = "Kleeke na twe mauso no dane nfonyin no fa  nyɛ fitaa ne ahosu a wopɛ.";
+
+/* nothing */
+"Click to turn your entire picture into white and a color you choose." = "Kleeke na sesa wo nfonyin no nyinaa fitaa ne  ahosu a wopɛ.";
+
+/* nothing */
+"Toothpaste" = "Apɔɔse nku";
+
+/* nothing */
+"Click and drag to squirt toothpaste onto your picture." = "Kleeke na twe ma ɛnskɛɛte apɔɔse nku wɔ nfonyin no so.";
+
+/* nothing */
+"Tornado" = "Tonado";
+
+/* nothing */
+"Click and drag to draw a tornado funnel on your picture." = "Kleeke na twe ma ɛnnrɔ tɔnado kwan wɔ wo nfonyin no so.";
+
+/* nothing */
+"TV" = "TV";
+
+/* nothing */
+"Click and drag to make parts of your picture look like they are on television." = "Kleeke na twe ma wo nfonyin no fa tesɛ tɛlɛvihyen so.";
+
+/* nothing */
+"Click to make your picture look like it's on television." = "Kleeke na twe ma wo nfonyin no tesɛ tɛlɛvihyen so.";
+
+/* nothing */
+"Waves" = "Waves";
+
+/* nothing */
+"Wavelets" = "Wavelets";
+
+/* nothing */
+"Click to make the picture horizontally wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Kleeke na ma wo nfonyin no mu nyɛdu ntentenso. Cleeke kɔ soro ma ɛnyɛ waves ntientia, fam ɛnyɛ waves atenten, benkumso ɛnyɛ waves nketewa, nifa ɛnyɛ waves atenten.";
+
+/* nothing */
+"Click to make the picture vertically wavy. Click toward the top for shorter waves, the bottom for taller waves, the left for small waves, and the right for long waves." = "Kleeke na ma wo nfonyin no mu nyɛdu nnahɔ. Kleeke kɔ soro ma ɛnyɛ waves ntientia, fam ɛnyɛ waves atenten, benkumso ɛnyɛ waves nketewa, nifa ɛnyɛ waves atenten.";
+
+/* nothing */
+"Xor Colors" = "Ahosu";
+
+/* nothing */
+"Click and drag to draw a XOR effect" = "Cleeke na twe na ɛndrɔɔ agyan ano a wɔ de nhoma ayɛ.";
+
+/* nothing */
+"Click to draw a XOR effect on the whole picture" = "Kleeke fa moseek ka nfonyin no so nyinaa.";
+
